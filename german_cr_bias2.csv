@@ -1,0 +1,5001 @@
+ID,ExistingCreditsCount,Job,Dependents,Telephone,ForeignWorker,Risk
+1,1,skilled,1,none,yes,No Risk
+2,2,skilled,1,none,yes,No Risk
+3,2,skilled,1,yes,no,No Risk
+4,1,skilled,1,none,yes,No Risk
+5,2,skilled,1,none,yes,Risk
+6,2,skilled,2,yes,yes,Risk
+7,1,management_self-employed,1,none,yes,No Risk
+8,2,skilled,1,none,yes,No Risk
+9,1,management_self-employed,1,none,yes,No Risk
+10,2,skilled,2,yes,yes,Risk
+11,1,management_self-employed,1,none,yes,No Risk
+12,1,skilled,1,none,yes,No Risk
+13,1,skilled,1,yes,yes,No Risk
+14,1,skilled,1,none,yes,No Risk
+15,1,skilled,2,yes,yes,No Risk
+16,1,skilled,1,none,yes,Risk
+17,1,skilled,1,none,yes,No Risk
+18,2,skilled,1,yes,yes,Risk
+19,1,skilled,1,none,yes,No Risk
+20,2,skilled,1,none,yes,No Risk
+21,2,skilled,2,yes,yes,No Risk
+22,2,management_self-employed,1,none,yes,No Risk
+23,2,skilled,1,none,yes,No Risk
+24,1,skilled,1,none,yes,No Risk
+25,1,skilled,1,none,yes,No Risk
+26,1,unskilled,1,none,yes,No Risk
+27,1,skilled,1,none,yes,No Risk
+28,1,skilled,1,none,yes,No Risk
+29,1,skilled,2,yes,yes,No Risk
+30,1,management_self-employed,1,yes,yes,Risk
+31,1,skilled,1,none,yes,No Risk
+32,2,unskilled,2,yes,yes,Risk
+33,1,skilled,1,none,yes,Risk
+34,1,skilled,1,yes,yes,No Risk
+35,1,skilled,1,none,yes,No Risk
+36,1,skilled,1,none,yes,No Risk
+37,1,skilled,1,yes,yes,No Risk
+38,1,skilled,2,yes,yes,Risk
+39,2,skilled,1,none,yes,Risk
+40,2,skilled,2,yes,yes,Risk
+41,1,skilled,1,none,yes,Risk
+42,1,skilled,1,none,yes,No Risk
+43,1,skilled,1,none,yes,No Risk
+44,2,skilled,1,yes,yes,Risk
+45,1,skilled,1,none,yes,No Risk
+46,2,skilled,1,none,yes,Risk
+47,1,skilled,1,none,yes,No Risk
+48,1,unskilled,1,yes,yes,No Risk
+49,1,skilled,1,yes,yes,Risk
+50,1,skilled,1,none,yes,No Risk
+51,2,unskilled,2,yes,yes,Risk
+52,2,skilled,1,yes,yes,No Risk
+53,2,management_self-employed,2,none,yes,No Risk
+54,2,management_self-employed,2,yes,yes,Risk
+55,2,skilled,2,yes,yes,Risk
+56,1,skilled,1,none,yes,No Risk
+57,2,skilled,2,yes,yes,Risk
+58,1,skilled,1,none,yes,No Risk
+59,1,management_self-employed,1,none,yes,No Risk
+60,2,skilled,1,none,yes,Risk
+61,1,skilled,2,none,yes,Risk
+62,2,skilled,1,yes,yes,Risk
+63,1,skilled,1,none,yes,No Risk
+64,1,skilled,1,none,yes,Risk
+65,1,skilled,1,none,yes,No Risk
+66,1,skilled,1,none,yes,No Risk
+67,2,skilled,1,yes,yes,Risk
+68,2,management_self-employed,1,none,yes,Risk
+69,2,unemployed,2,yes,yes,Risk
+70,1,skilled,1,none,yes,No Risk
+71,2,unskilled,1,none,yes,No Risk
+72,1,skilled,1,none,yes,No Risk
+73,1,unskilled,1,yes,yes,No Risk
+74,1,skilled,1,none,yes,No Risk
+75,1,management_self-employed,1,yes,yes,No Risk
+76,2,skilled,1,none,yes,Risk
+77,1,skilled,2,yes,yes,Risk
+78,2,unskilled,2,yes,yes,No Risk
+79,2,skilled,1,yes,yes,Risk
+80,1,skilled,1,none,yes,No Risk
+81,1,management_self-employed,1,none,yes,No Risk
+82,1,skilled,1,none,yes,No Risk
+83,1,skilled,1,none,yes,No Risk
+84,2,skilled,1,yes,yes,No Risk
+85,1,unemployed,1,yes,yes,No Risk
+86,2,skilled,1,yes,yes,No Risk
+87,1,skilled,1,none,yes,No Risk
+88,2,management_self-employed,1,none,yes,No Risk
+89,2,unemployed,2,yes,yes,Risk
+90,2,management_self-employed,2,yes,yes,No Risk
+91,1,skilled,1,none,yes,No Risk
+92,1,unemployed,1,yes,yes,No Risk
+93,1,skilled,1,yes,yes,Risk
+94,2,skilled,1,yes,yes,Risk
+95,1,skilled,1,none,yes,No Risk
+96,1,unemployed,2,none,yes,No Risk
+97,1,skilled,1,none,yes,Risk
+98,2,skilled,1,none,yes,No Risk
+99,1,management_self-employed,2,yes,yes,No Risk
+100,2,management_self-employed,1,none,yes,No Risk
+101,1,skilled,1,none,yes,Risk
+102,1,skilled,1,none,yes,Risk
+103,1,skilled,1,none,yes,No Risk
+104,1,unemployed,1,none,yes,No Risk
+105,1,skilled,1,none,yes,No Risk
+106,1,skilled,2,none,yes,Risk
+107,1,skilled,1,none,yes,No Risk
+108,2,skilled,2,yes,yes,Risk
+109,2,skilled,1,yes,yes,No Risk
+110,1,management_self-employed,1,none,yes,No Risk
+111,1,skilled,1,none,yes,No Risk
+112,2,unskilled,1,yes,yes,No Risk
+113,2,skilled,1,none,yes,No Risk
+114,2,skilled,1,none,yes,No Risk
+115,1,skilled,1,none,yes,No Risk
+116,2,skilled,1,yes,yes,Risk
+117,1,skilled,1,none,yes,No Risk
+118,1,skilled,1,none,yes,No Risk
+119,1,skilled,1,none,yes,No Risk
+120,1,skilled,1,none,yes,No Risk
+121,1,skilled,1,none,yes,No Risk
+122,2,skilled,1,yes,yes,No Risk
+123,1,skilled,1,none,yes,No Risk
+124,2,management_self-employed,2,yes,yes,Risk
+125,1,skilled,1,none,yes,No Risk
+126,1,skilled,1,none,yes,No Risk
+127,3,skilled,2,yes,yes,Risk
+128,2,skilled,1,none,yes,No Risk
+129,2,management_self-employed,1,none,yes,No Risk
+130,2,skilled,1,none,yes,No Risk
+131,1,unskilled,1,none,yes,No Risk
+132,3,skilled,1,yes,yes,Risk
+133,1,skilled,1,none,yes,No Risk
+134,1,skilled,1,yes,yes,Risk
+135,1,skilled,1,none,yes,No Risk
+136,2,unskilled,2,yes,yes,Risk
+137,1,skilled,1,yes,yes,No Risk
+138,1,skilled,1,yes,yes,No Risk
+139,1,unemployed,2,yes,yes,No Risk
+140,1,management_self-employed,1,none,yes,No Risk
+141,1,unskilled,1,none,yes,No Risk
+142,2,skilled,2,yes,yes,No Risk
+143,2,skilled,1,none,yes,No Risk
+144,1,unskilled,1,none,yes,No Risk
+145,1,management_self-employed,1,yes,yes,Risk
+146,2,unskilled,2,yes,yes,No Risk
+147,1,skilled,1,none,yes,No Risk
+148,1,unskilled,1,yes,yes,No Risk
+149,2,skilled,1,yes,yes,No Risk
+150,2,skilled,1,yes,yes,No Risk
+151,1,skilled,1,none,yes,No Risk
+152,1,skilled,1,none,yes,No Risk
+153,1,management_self-employed,1,yes,yes,No Risk
+154,1,skilled,1,none,yes,No Risk
+155,1,skilled,1,none,yes,No Risk
+156,2,unskilled,1,yes,yes,Risk
+157,1,skilled,1,none,yes,No Risk
+158,2,skilled,1,yes,yes,Risk
+159,1,skilled,1,none,yes,No Risk
+160,2,skilled,1,yes,yes,Risk
+161,1,skilled,1,none,yes,No Risk
+162,3,unemployed,2,yes,yes,Risk
+163,2,skilled,1,yes,yes,No Risk
+164,1,skilled,1,none,yes,No Risk
+165,1,skilled,1,none,yes,No Risk
+166,2,skilled,2,yes,yes,Risk
+167,1,skilled,1,yes,yes,Risk
+168,2,skilled,1,yes,yes,No Risk
+169,1,skilled,1,none,yes,No Risk
+170,1,skilled,2,none,yes,No Risk
+171,1,skilled,1,none,yes,No Risk
+172,2,skilled,2,yes,yes,Risk
+173,1,skilled,1,none,yes,No Risk
+174,3,management_self-employed,2,yes,yes,Risk
+175,2,skilled,1,none,yes,No Risk
+176,2,skilled,1,none,yes,No Risk
+177,1,skilled,1,none,yes,No Risk
+178,2,skilled,1,none,yes,No Risk
+179,1,skilled,1,none,yes,Risk
+180,2,management_self-employed,1,none,yes,No Risk
+181,1,unskilled,1,none,yes,No Risk
+182,2,unskilled,1,none,yes,No Risk
+183,1,skilled,1,none,yes,No Risk
+184,2,management_self-employed,1,none,yes,Risk
+185,2,management_self-employed,1,none,yes,No Risk
+186,2,skilled,1,none,yes,No Risk
+187,2,unskilled,1,none,yes,No Risk
+188,1,management_self-employed,1,none,yes,No Risk
+189,1,skilled,1,yes,yes,No Risk
+190,2,skilled,2,yes,yes,Risk
+191,1,management_self-employed,1,none,yes,Risk
+192,1,skilled,1,none,yes,No Risk
+193,2,skilled,1,yes,yes,No Risk
+194,2,skilled,1,yes,yes,No Risk
+195,1,unskilled,1,yes,yes,No Risk
+196,1,skilled,1,none,yes,No Risk
+197,1,skilled,1,none,yes,No Risk
+198,2,skilled,1,none,yes,Risk
+199,2,unskilled,1,none,yes,No Risk
+200,2,skilled,1,yes,yes,Risk
+201,1,skilled,1,none,yes,No Risk
+202,2,skilled,1,none,yes,No Risk
+203,1,skilled,1,none,yes,No Risk
+204,2,management_self-employed,1,none,yes,Risk
+205,1,unskilled,1,none,yes,No Risk
+206,2,skilled,1,yes,yes,No Risk
+207,1,skilled,1,none,yes,No Risk
+208,1,skilled,1,none,yes,No Risk
+209,1,skilled,1,yes,yes,No Risk
+210,1,skilled,1,none,yes,No Risk
+211,1,skilled,1,yes,yes,No Risk
+212,1,skilled,1,none,yes,No Risk
+213,1,skilled,1,yes,yes,No Risk
+214,2,skilled,1,none,yes,Risk
+215,1,skilled,1,none,yes,No Risk
+216,2,skilled,1,none,yes,Risk
+217,1,skilled,1,yes,yes,No Risk
+218,1,skilled,1,none,yes,No Risk
+219,1,management_self-employed,1,none,yes,No Risk
+220,2,skilled,1,yes,yes,Risk
+221,3,skilled,1,yes,yes,Risk
+222,2,skilled,2,yes,no,Risk
+223,2,unskilled,1,yes,yes,No Risk
+224,2,management_self-employed,1,yes,yes,Risk
+225,1,unemployed,1,none,yes,No Risk
+226,1,skilled,1,none,yes,Risk
+227,1,unemployed,1,none,yes,No Risk
+228,2,management_self-employed,1,none,yes,Risk
+229,1,skilled,1,none,yes,Risk
+230,1,unskilled,1,none,yes,No Risk
+231,1,unskilled,1,none,yes,Risk
+232,1,skilled,1,none,yes,No Risk
+233,1,skilled,1,none,yes,No Risk
+234,3,skilled,2,yes,yes,Risk
+235,1,skilled,1,none,yes,No Risk
+236,1,skilled,1,yes,yes,Risk
+237,1,skilled,1,none,yes,No Risk
+238,1,skilled,1,none,yes,No Risk
+239,1,unemployed,1,yes,yes,No Risk
+240,2,skilled,2,none,yes,No Risk
+241,1,skilled,1,yes,yes,Risk
+242,3,skilled,2,yes,yes,Risk
+243,2,skilled,1,yes,yes,Risk
+244,2,skilled,1,yes,yes,No Risk
+245,1,unemployed,1,none,yes,No Risk
+246,2,skilled,1,none,yes,Risk
+247,1,skilled,1,none,yes,No Risk
+248,1,unskilled,1,none,yes,No Risk
+249,2,skilled,1,none,yes,Risk
+250,3,skilled,2,yes,yes,Risk
+251,1,skilled,2,none,yes,No Risk
+252,1,skilled,1,none,yes,No Risk
+253,1,management_self-employed,1,none,yes,No Risk
+254,2,skilled,1,yes,no,Risk
+255,1,unemployed,1,none,yes,No Risk
+256,1,skilled,1,none,yes,No Risk
+257,1,skilled,1,none,yes,No Risk
+258,2,skilled,1,yes,yes,No Risk
+259,1,skilled,1,none,yes,No Risk
+260,2,unskilled,1,yes,yes,No Risk
+261,1,management_self-employed,1,yes,yes,Risk
+262,2,skilled,1,yes,yes,Risk
+263,1,unskilled,1,yes,yes,No Risk
+264,1,skilled,2,yes,yes,No Risk
+265,2,management_self-employed,1,yes,yes,Risk
+266,2,skilled,1,yes,yes,Risk
+267,1,skilled,1,none,yes,No Risk
+268,2,unskilled,1,none,yes,No Risk
+269,1,skilled,1,none,yes,No Risk
+270,2,skilled,1,none,yes,Risk
+271,2,unskilled,1,none,yes,Risk
+272,1,skilled,2,yes,yes,Risk
+273,1,unskilled,1,none,yes,No Risk
+274,1,skilled,1,none,yes,Risk
+275,1,skilled,1,none,yes,No Risk
+276,2,skilled,1,yes,yes,Risk
+277,2,skilled,1,none,yes,Risk
+278,1,skilled,1,none,yes,No Risk
+279,1,skilled,1,yes,yes,No Risk
+280,2,skilled,1,none,yes,No Risk
+281,1,management_self-employed,1,none,yes,No Risk
+282,1,skilled,2,yes,yes,No Risk
+283,2,skilled,1,none,yes,No Risk
+284,2,skilled,2,yes,yes,Risk
+285,2,skilled,2,yes,yes,Risk
+286,2,skilled,1,none,yes,No Risk
+287,1,skilled,1,none,yes,No Risk
+288,1,skilled,1,none,yes,No Risk
+289,1,unskilled,1,none,yes,No Risk
+290,2,management_self-employed,1,yes,no,No Risk
+291,1,skilled,1,none,yes,Risk
+292,2,management_self-employed,2,yes,yes,No Risk
+293,1,skilled,1,yes,yes,No Risk
+294,2,unskilled,2,yes,yes,Risk
+295,2,skilled,1,none,yes,No Risk
+296,1,skilled,1,yes,yes,Risk
+297,1,skilled,1,none,yes,No Risk
+298,2,skilled,1,none,yes,No Risk
+299,1,skilled,1,none,yes,No Risk
+300,1,skilled,1,none,yes,No Risk
+301,1,skilled,1,none,yes,No Risk
+302,2,skilled,1,none,yes,Risk
+303,2,skilled,2,yes,yes,Risk
+304,1,management_self-employed,1,yes,yes,No Risk
+305,3,skilled,1,none,yes,No Risk
+306,2,skilled,1,none,yes,Risk
+307,2,skilled,1,none,yes,No Risk
+308,3,skilled,2,yes,yes,Risk
+309,1,skilled,1,none,yes,No Risk
+310,3,unskilled,2,yes,yes,Risk
+311,1,unskilled,1,none,yes,Risk
+312,2,skilled,1,yes,yes,No Risk
+313,2,management_self-employed,1,none,yes,No Risk
+314,2,skilled,1,none,yes,No Risk
+315,2,unemployed,1,yes,yes,No Risk
+316,1,skilled,1,none,yes,No Risk
+317,1,skilled,1,none,yes,No Risk
+318,1,skilled,2,none,yes,No Risk
+319,1,skilled,2,none,yes,No Risk
+320,2,skilled,1,yes,yes,Risk
+321,1,skilled,1,none,yes,No Risk
+322,2,skilled,2,yes,yes,Risk
+323,1,skilled,1,none,yes,No Risk
+324,1,skilled,1,none,yes,No Risk
+325,1,skilled,1,none,yes,No Risk
+326,2,management_self-employed,1,yes,yes,No Risk
+327,1,skilled,1,yes,yes,Risk
+328,2,skilled,1,yes,yes,Risk
+329,1,unskilled,1,none,yes,No Risk
+330,1,management_self-employed,1,none,yes,No Risk
+331,1,skilled,1,none,yes,No Risk
+332,2,management_self-employed,2,yes,yes,Risk
+333,2,skilled,1,yes,yes,Risk
+334,1,skilled,1,yes,yes,Risk
+335,1,unskilled,1,none,yes,No Risk
+336,1,management_self-employed,2,yes,yes,No Risk
+337,1,skilled,1,none,yes,No Risk
+338,2,unemployed,2,none,yes,No Risk
+339,1,skilled,1,none,yes,No Risk
+340,1,unskilled,1,none,yes,No Risk
+341,1,unskilled,1,yes,yes,No Risk
+342,1,skilled,1,none,yes,Risk
+343,1,skilled,1,none,yes,No Risk
+344,2,unskilled,2,yes,yes,No Risk
+345,2,management_self-employed,1,none,yes,No Risk
+346,2,skilled,1,none,yes,No Risk
+347,1,skilled,1,none,yes,No Risk
+348,2,skilled,1,none,yes,No Risk
+349,2,unskilled,2,yes,yes,Risk
+350,2,unskilled,1,none,yes,No Risk
+351,1,skilled,1,none,yes,No Risk
+352,2,management_self-employed,1,none,yes,No Risk
+353,1,skilled,1,yes,yes,No Risk
+354,2,skilled,1,yes,yes,Risk
+355,1,skilled,1,none,yes,No Risk
+356,3,skilled,2,yes,yes,No Risk
+357,1,skilled,1,yes,yes,No Risk
+358,2,unskilled,2,yes,yes,Risk
+359,1,skilled,1,none,yes,No Risk
+360,2,skilled,2,yes,yes,No Risk
+361,2,unskilled,2,yes,yes,No Risk
+362,3,skilled,1,yes,no,Risk
+363,1,skilled,1,none,yes,Risk
+364,1,skilled,1,none,yes,No Risk
+365,1,skilled,1,yes,yes,Risk
+366,2,skilled,1,none,yes,No Risk
+367,2,skilled,1,none,yes,Risk
+368,3,unskilled,1,yes,yes,Risk
+369,1,unskilled,1,none,yes,No Risk
+370,1,management_self-employed,1,none,yes,No Risk
+371,2,unskilled,2,yes,yes,No Risk
+372,2,skilled,2,yes,yes,No Risk
+373,2,skilled,2,yes,yes,Risk
+374,2,skilled,1,yes,yes,Risk
+375,2,unskilled,1,yes,yes,No Risk
+376,2,skilled,2,yes,yes,Risk
+377,1,skilled,1,none,yes,No Risk
+378,1,skilled,1,none,yes,No Risk
+379,1,skilled,1,none,yes,No Risk
+380,1,skilled,1,none,no,Risk
+381,1,skilled,1,none,yes,No Risk
+382,2,skilled,2,yes,yes,No Risk
+383,1,skilled,2,yes,yes,No Risk
+384,1,skilled,2,yes,yes,No Risk
+385,1,skilled,1,none,yes,No Risk
+386,1,skilled,1,none,yes,No Risk
+387,2,skilled,1,yes,yes,Risk
+388,2,unskilled,1,none,yes,No Risk
+389,2,skilled,1,yes,yes,Risk
+390,2,skilled,1,yes,yes,No Risk
+391,1,unemployed,1,none,yes,No Risk
+392,1,skilled,1,yes,yes,No Risk
+393,1,management_self-employed,1,none,yes,No Risk
+394,1,skilled,1,yes,yes,Risk
+395,1,management_self-employed,2,yes,yes,Risk
+396,1,unemployed,1,none,yes,No Risk
+397,1,skilled,1,none,yes,No Risk
+398,2,skilled,1,yes,yes,Risk
+399,2,skilled,1,yes,yes,Risk
+400,1,skilled,1,none,no,No Risk
+401,1,management_self-employed,2,none,yes,No Risk
+402,2,management_self-employed,1,yes,yes,Risk
+403,2,skilled,1,none,yes,No Risk
+404,2,skilled,1,yes,yes,Risk
+405,1,skilled,1,none,yes,No Risk
+406,1,skilled,1,none,yes,No Risk
+407,2,skilled,2,yes,yes,Risk
+408,2,unskilled,1,none,yes,No Risk
+409,1,unskilled,1,yes,yes,Risk
+410,2,management_self-employed,1,none,yes,No Risk
+411,1,unemployed,1,yes,yes,No Risk
+412,2,unskilled,2,yes,yes,No Risk
+413,1,skilled,1,none,yes,Risk
+414,2,skilled,1,none,no,No Risk
+415,1,management_self-employed,1,none,yes,No Risk
+416,3,skilled,2,yes,yes,Risk
+417,1,management_self-employed,1,none,yes,No Risk
+418,2,unemployed,1,none,yes,No Risk
+419,1,skilled,1,none,yes,No Risk
+420,1,skilled,2,yes,yes,Risk
+421,1,unskilled,1,none,yes,No Risk
+422,1,unskilled,1,yes,yes,No Risk
+423,2,skilled,1,yes,yes,No Risk
+424,1,unskilled,1,none,yes,No Risk
+425,1,unemployed,1,none,yes,No Risk
+426,1,unskilled,1,none,yes,No Risk
+427,1,skilled,1,none,yes,No Risk
+428,2,skilled,1,yes,yes,Risk
+429,2,skilled,1,none,yes,No Risk
+430,1,skilled,1,none,yes,No Risk
+431,1,skilled,1,none,yes,No Risk
+432,3,skilled,2,yes,yes,Risk
+433,1,skilled,1,none,yes,No Risk
+434,2,skilled,1,none,no,Risk
+435,2,management_self-employed,1,none,yes,Risk
+436,1,skilled,1,yes,yes,No Risk
+437,1,skilled,1,none,yes,No Risk
+438,2,skilled,2,yes,yes,Risk
+439,1,management_self-employed,1,none,yes,No Risk
+440,1,unskilled,1,none,yes,No Risk
+441,1,skilled,1,none,yes,No Risk
+442,1,skilled,1,none,yes,No Risk
+443,1,management_self-employed,1,none,yes,No Risk
+444,2,skilled,1,none,yes,No Risk
+445,1,skilled,1,yes,yes,No Risk
+446,1,skilled,2,none,yes,Risk
+447,1,skilled,1,none,yes,No Risk
+448,2,unskilled,1,none,yes,No Risk
+449,2,skilled,1,none,yes,Risk
+450,2,skilled,1,none,yes,No Risk
+451,2,management_self-employed,2,none,yes,No Risk
+452,2,unskilled,1,none,yes,No Risk
+453,2,skilled,1,none,yes,No Risk
+454,2,skilled,1,yes,yes,No Risk
+455,1,skilled,1,none,yes,No Risk
+456,2,skilled,1,yes,yes,Risk
+457,1,skilled,1,none,yes,No Risk
+458,2,management_self-employed,1,none,yes,No Risk
+459,1,unemployed,1,none,yes,No Risk
+460,2,skilled,2,yes,yes,Risk
+461,1,skilled,1,none,yes,No Risk
+462,3,skilled,1,yes,yes,Risk
+463,2,skilled,1,yes,yes,Risk
+464,1,skilled,1,none,yes,No Risk
+465,2,skilled,1,yes,yes,Risk
+466,2,skilled,1,yes,yes,Risk
+467,1,unskilled,1,yes,yes,No Risk
+468,2,skilled,1,yes,yes,Risk
+469,1,unskilled,1,none,yes,No Risk
+470,2,skilled,1,yes,yes,Risk
+471,1,skilled,1,none,yes,No Risk
+472,1,unskilled,1,none,yes,No Risk
+473,1,skilled,1,none,yes,No Risk
+474,1,skilled,2,none,yes,Risk
+475,1,skilled,1,none,yes,No Risk
+476,1,skilled,1,yes,yes,No Risk
+477,2,skilled,2,yes,yes,Risk
+478,2,skilled,1,yes,yes,Risk
+479,1,skilled,1,none,yes,No Risk
+480,1,unskilled,2,yes,yes,No Risk
+481,1,skilled,1,yes,yes,No Risk
+482,2,skilled,1,yes,yes,Risk
+483,1,unemployed,1,none,yes,No Risk
+484,1,unskilled,1,none,yes,No Risk
+485,2,skilled,1,none,yes,No Risk
+486,2,management_self-employed,1,yes,yes,Risk
+487,1,unemployed,1,yes,yes,Risk
+488,2,skilled,2,yes,yes,No Risk
+489,1,skilled,1,none,yes,No Risk
+490,3,management_self-employed,2,yes,yes,Risk
+491,2,management_self-employed,2,yes,yes,Risk
+492,2,management_self-employed,1,yes,yes,Risk
+493,1,skilled,2,yes,yes,No Risk
+494,2,skilled,1,none,yes,Risk
+495,1,skilled,1,yes,yes,Risk
+496,2,skilled,1,yes,yes,No Risk
+497,1,unskilled,1,none,yes,No Risk
+498,1,unskilled,1,yes,yes,No Risk
+499,1,skilled,1,none,yes,No Risk
+500,1,unskilled,1,none,yes,No Risk
+501,1,skilled,2,none,yes,No Risk
+502,2,management_self-employed,1,none,yes,Risk
+503,1,skilled,1,none,yes,No Risk
+504,2,skilled,1,none,yes,No Risk
+505,2,skilled,1,none,yes,Risk
+506,1,skilled,1,none,yes,No Risk
+507,2,skilled,1,yes,yes,No Risk
+508,2,unskilled,2,none,yes,No Risk
+509,1,skilled,1,none,yes,No Risk
+510,2,skilled,1,none,yes,Risk
+511,1,skilled,1,none,yes,No Risk
+512,1,skilled,1,yes,yes,Risk
+513,3,unskilled,2,yes,yes,No Risk
+514,2,skilled,1,yes,yes,No Risk
+515,1,unskilled,1,none,yes,No Risk
+516,2,unemployed,1,yes,yes,No Risk
+517,1,skilled,1,yes,yes,No Risk
+518,1,skilled,1,yes,yes,No Risk
+519,1,skilled,1,none,yes,No Risk
+520,1,skilled,1,none,yes,No Risk
+521,1,skilled,1,none,yes,Risk
+522,2,unskilled,1,yes,yes,Risk
+523,2,skilled,1,yes,yes,No Risk
+524,2,management_self-employed,2,yes,yes,Risk
+525,1,skilled,1,none,yes,No Risk
+526,2,unskilled,1,none,yes,No Risk
+527,1,management_self-employed,1,none,yes,No Risk
+528,2,management_self-employed,1,none,yes,No Risk
+529,1,unskilled,1,none,yes,No Risk
+530,3,unskilled,2,yes,yes,Risk
+531,2,unskilled,1,yes,yes,No Risk
+532,1,unskilled,1,none,yes,No Risk
+533,1,skilled,1,none,yes,No Risk
+534,1,skilled,1,none,yes,No Risk
+535,2,management_self-employed,2,yes,yes,Risk
+536,1,unskilled,2,none,yes,No Risk
+537,1,skilled,1,none,yes,No Risk
+538,1,skilled,1,yes,yes,No Risk
+539,1,unskilled,1,none,yes,Risk
+540,1,skilled,1,none,yes,No Risk
+541,2,skilled,1,yes,yes,Risk
+542,2,skilled,1,none,yes,No Risk
+543,2,skilled,1,none,yes,No Risk
+544,2,skilled,1,none,yes,No Risk
+545,1,skilled,1,none,yes,No Risk
+546,2,management_self-employed,1,none,yes,Risk
+547,1,skilled,1,none,yes,No Risk
+548,1,skilled,1,none,yes,No Risk
+549,2,skilled,1,yes,yes,No Risk
+550,2,unskilled,1,yes,yes,Risk
+551,1,skilled,1,yes,yes,No Risk
+552,1,skilled,1,none,yes,Risk
+553,2,skilled,1,yes,yes,No Risk
+554,1,skilled,1,none,yes,No Risk
+555,1,skilled,2,yes,yes,No Risk
+556,1,skilled,2,yes,yes,Risk
+557,1,unemployed,1,none,yes,No Risk
+558,2,skilled,1,none,yes,Risk
+559,2,management_self-employed,1,none,yes,No Risk
+560,1,skilled,1,none,yes,No Risk
+561,2,skilled,1,none,yes,Risk
+618,2,skilled,1,yes,yes,No Risk
+562,1,management_self-employed,1,none,yes,Risk
+563,1,management_self-employed,1,none,yes,No Risk
+564,1,unskilled,1,yes,yes,Risk
+565,1,unskilled,1,none,yes,No Risk
+566,1,skilled,1,none,yes,No Risk
+567,2,skilled,1,yes,yes,No Risk
+568,2,management_self-employed,1,yes,yes,No Risk
+569,2,skilled,1,yes,yes,Risk
+570,1,skilled,1,none,yes,No Risk
+571,2,skilled,2,none,yes,Risk
+572,2,unskilled,2,yes,yes,No Risk
+573,1,skilled,1,none,yes,No Risk
+574,1,skilled,1,none,yes,No Risk
+575,2,skilled,2,yes,yes,Risk
+576,1,management_self-employed,1,none,yes,No Risk
+577,1,skilled,1,none,yes,No Risk
+578,2,unskilled,2,yes,yes,Risk
+579,2,skilled,1,yes,yes,No Risk
+580,1,skilled,1,none,yes,No Risk
+581,1,skilled,1,none,yes,No Risk
+582,2,skilled,2,yes,yes,No Risk
+583,2,skilled,1,none,yes,No Risk
+584,1,skilled,1,none,yes,No Risk
+585,1,skilled,1,none,yes,No Risk
+586,2,skilled,1,yes,yes,Risk
+587,1,management_self-employed,1,yes,yes,Risk
+588,2,management_self-employed,1,none,yes,Risk
+589,1,skilled,1,yes,yes,No Risk
+590,2,management_self-employed,2,yes,yes,Risk
+591,2,skilled,1,yes,yes,Risk
+592,2,skilled,1,yes,yes,Risk
+593,1,skilled,1,none,yes,No Risk
+594,2,management_self-employed,2,yes,yes,No Risk
+595,2,skilled,2,yes,yes,Risk
+596,2,skilled,1,yes,yes,Risk
+597,1,skilled,1,none,yes,No Risk
+598,3,skilled,1,none,yes,Risk
+599,1,skilled,1,none,yes,No Risk
+600,3,management_self-employed,2,yes,yes,Risk
+601,1,skilled,1,none,yes,No Risk
+602,1,skilled,1,none,yes,No Risk
+603,1,skilled,1,none,yes,No Risk
+604,2,skilled,1,yes,no,Risk
+605,2,skilled,1,yes,yes,Risk
+606,1,skilled,1,yes,yes,Risk
+607,1,skilled,1,none,yes,Risk
+608,1,skilled,1,none,yes,Risk
+609,2,skilled,1,yes,yes,No Risk
+610,1,unskilled,2,yes,yes,No Risk
+611,2,unskilled,1,yes,yes,Risk
+612,2,skilled,2,yes,yes,No Risk
+613,2,skilled,1,yes,yes,Risk
+614,1,unskilled,1,none,yes,No Risk
+615,1,skilled,1,none,yes,No Risk
+616,2,skilled,2,yes,yes,Risk
+617,1,skilled,1,none,yes,No Risk
+619,1,unemployed,1,none,yes,No Risk
+620,3,skilled,2,yes,yes,Risk
+621,1,management_self-employed,1,none,yes,No Risk
+622,2,skilled,1,yes,yes,Risk
+623,1,skilled,1,none,yes,No Risk
+624,1,skilled,1,none,yes,No Risk
+625,1,skilled,1,none,yes,No Risk
+626,2,unemployed,1,none,yes,No Risk
+627,1,skilled,1,none,yes,No Risk
+628,1,skilled,1,yes,yes,No Risk
+629,1,skilled,1,none,yes,No Risk
+630,2,skilled,2,yes,yes,Risk
+631,2,skilled,1,none,yes,No Risk
+632,1,unskilled,1,none,yes,No Risk
+633,1,skilled,1,yes,yes,Risk
+634,1,unskilled,1,none,yes,No Risk
+635,2,management_self-employed,1,none,yes,No Risk
+636,1,skilled,1,none,yes,No Risk
+637,1,skilled,1,yes,yes,No Risk
+638,2,skilled,1,yes,yes,Risk
+639,1,unskilled,1,none,yes,Risk
+640,2,skilled,1,yes,yes,Risk
+641,1,skilled,1,yes,yes,Risk
+642,1,skilled,1,none,yes,No Risk
+643,1,skilled,1,none,yes,No Risk
+644,1,management_self-employed,1,yes,yes,Risk
+645,1,skilled,1,none,yes,No Risk
+646,2,skilled,1,yes,yes,Risk
+647,1,management_self-employed,1,none,yes,No Risk
+648,2,skilled,1,yes,yes,No Risk
+649,1,skilled,2,none,yes,No Risk
+650,1,unskilled,2,yes,yes,No Risk
+651,2,management_self-employed,1,none,yes,No Risk
+652,1,skilled,1,yes,yes,No Risk
+653,1,skilled,1,none,yes,No Risk
+654,1,skilled,1,yes,yes,No Risk
+655,2,unskilled,1,none,yes,No Risk
+656,1,skilled,1,none,yes,No Risk
+657,2,management_self-employed,1,none,yes,No Risk
+658,1,skilled,1,none,yes,Risk
+659,1,skilled,1,none,yes,No Risk
+660,2,unemployed,1,none,yes,No Risk
+661,2,unskilled,2,none,yes,No Risk
+662,1,skilled,1,none,yes,No Risk
+663,1,management_self-employed,1,none,yes,Risk
+664,2,management_self-employed,1,none,yes,No Risk
+665,2,skilled,1,yes,yes,No Risk
+666,2,skilled,1,none,yes,No Risk
+667,1,skilled,1,yes,yes,No Risk
+668,2,unemployed,1,yes,yes,No Risk
+669,2,skilled,1,yes,yes,No Risk
+670,1,skilled,1,none,yes,No Risk
+671,2,unemployed,1,yes,yes,No Risk
+672,1,skilled,1,none,yes,No Risk
+673,1,skilled,1,yes,yes,No Risk
+674,1,skilled,1,none,yes,No Risk
+675,1,skilled,2,none,yes,Risk
+676,2,unemployed,1,none,yes,Risk
+677,1,skilled,1,none,yes,No Risk
+678,2,skilled,2,yes,yes,No Risk
+679,1,skilled,1,none,yes,No Risk
+680,1,management_self-employed,1,none,yes,No Risk
+681,1,management_self-employed,1,none,yes,No Risk
+682,1,skilled,1,none,yes,No Risk
+683,2,skilled,2,yes,yes,Risk
+684,1,unskilled,1,none,yes,No Risk
+685,1,management_self-employed,1,none,yes,No Risk
+686,2,management_self-employed,1,yes,yes,Risk
+687,2,unskilled,1,none,yes,Risk
+688,2,skilled,1,yes,yes,Risk
+689,1,skilled,1,none,yes,No Risk
+690,1,skilled,1,none,yes,No Risk
+691,2,skilled,1,none,yes,No Risk
+692,2,management_self-employed,1,yes,yes,Risk
+693,2,skilled,1,none,yes,Risk
+694,1,skilled,1,none,yes,No Risk
+695,2,skilled,2,yes,yes,Risk
+696,1,skilled,1,none,yes,No Risk
+697,1,skilled,1,none,yes,No Risk
+698,1,skilled,1,none,yes,No Risk
+699,2,unskilled,1,yes,yes,No Risk
+700,2,skilled,2,yes,yes,No Risk
+701,1,skilled,1,none,yes,No Risk
+702,1,skilled,1,none,yes,No Risk
+703,2,skilled,1,yes,yes,No Risk
+704,2,skilled,1,yes,no,Risk
+705,1,skilled,2,yes,yes,Risk
+706,2,skilled,1,none,yes,No Risk
+707,3,skilled,2,yes,yes,Risk
+708,2,unemployed,1,none,yes,No Risk
+709,1,skilled,1,none,yes,No Risk
+710,2,skilled,1,none,yes,No Risk
+711,1,management_self-employed,1,none,yes,No Risk
+712,1,skilled,1,none,yes,No Risk
+713,1,skilled,1,none,yes,No Risk
+714,2,skilled,1,none,yes,No Risk
+715,1,skilled,1,none,yes,No Risk
+716,2,unskilled,1,none,yes,Risk
+717,1,skilled,1,none,yes,No Risk
+718,2,management_self-employed,1,yes,yes,Risk
+719,1,management_self-employed,1,yes,yes,No Risk
+720,3,unskilled,2,yes,yes,Risk
+721,3,unemployed,1,none,yes,No Risk
+722,3,skilled,2,yes,yes,Risk
+723,2,management_self-employed,2,yes,yes,Risk
+724,2,unskilled,2,yes,no,Risk
+725,1,unskilled,1,yes,yes,No Risk
+726,2,skilled,1,yes,yes,Risk
+727,1,unskilled,1,none,yes,No Risk
+728,2,skilled,1,none,yes,Risk
+729,1,skilled,1,none,yes,Risk
+730,2,skilled,1,none,yes,Risk
+731,2,skilled,2,yes,yes,No Risk
+732,2,skilled,1,none,yes,No Risk
+733,1,unemployed,1,none,yes,No Risk
+734,2,management_self-employed,2,yes,yes,No Risk
+735,1,unemployed,1,none,yes,No Risk
+736,2,unemployed,1,none,yes,No Risk
+737,1,skilled,2,yes,yes,No Risk
+738,2,unskilled,1,yes,yes,No Risk
+739,2,unskilled,1,none,yes,Risk
+740,2,skilled,2,yes,yes,Risk
+741,1,skilled,1,none,yes,Risk
+742,1,skilled,2,none,yes,Risk
+743,1,skilled,1,none,yes,No Risk
+744,2,skilled,1,yes,yes,No Risk
+745,2,skilled,1,yes,yes,Risk
+746,1,management_self-employed,1,none,yes,No Risk
+747,2,skilled,1,none,yes,No Risk
+748,2,management_self-employed,1,yes,yes,Risk
+749,1,skilled,1,none,yes,No Risk
+750,1,unskilled,1,yes,yes,No Risk
+751,1,skilled,1,none,yes,No Risk
+752,1,skilled,1,none,yes,No Risk
+753,3,skilled,2,yes,yes,Risk
+754,1,skilled,1,none,yes,Risk
+755,2,management_self-employed,1,none,yes,No Risk
+756,2,unemployed,1,yes,yes,Risk
+757,2,skilled,1,none,no,Risk
+758,1,skilled,1,none,yes,No Risk
+759,1,skilled,1,none,yes,No Risk
+760,1,skilled,1,none,yes,No Risk
+761,1,skilled,1,none,yes,Risk
+762,1,skilled,1,none,yes,No Risk
+763,1,skilled,1,none,yes,No Risk
+764,1,unskilled,1,yes,yes,Risk
+765,1,skilled,1,none,yes,No Risk
+766,2,skilled,1,yes,yes,Risk
+767,1,skilled,1,none,yes,No Risk
+768,3,skilled,2,yes,yes,Risk
+769,1,unskilled,2,none,yes,No Risk
+770,1,skilled,2,yes,yes,No Risk
+771,1,skilled,2,none,yes,No Risk
+772,2,skilled,2,yes,yes,Risk
+773,1,skilled,1,none,yes,No Risk
+774,1,skilled,1,yes,yes,Risk
+775,1,unskilled,1,none,yes,No Risk
+776,2,skilled,1,yes,yes,Risk
+777,1,skilled,1,yes,yes,No Risk
+778,1,unskilled,2,none,yes,No Risk
+779,2,skilled,1,yes,yes,Risk
+780,1,skilled,1,none,yes,No Risk
+781,2,skilled,1,none,yes,No Risk
+782,2,skilled,2,yes,yes,Risk
+783,1,skilled,1,none,yes,No Risk
+784,2,skilled,1,none,yes,No Risk
+785,1,skilled,1,none,yes,No Risk
+786,1,skilled,1,none,yes,Risk
+787,1,skilled,1,none,yes,No Risk
+788,2,skilled,1,yes,yes,No Risk
+789,2,skilled,1,yes,yes,Risk
+790,2,management_self-employed,1,none,yes,No Risk
+791,1,skilled,1,none,yes,No Risk
+792,1,unskilled,2,none,yes,Risk
+793,1,skilled,1,none,yes,No Risk
+794,1,unskilled,1,yes,yes,No Risk
+795,2,skilled,1,none,yes,Risk
+796,2,skilled,1,yes,yes,Risk
+797,2,skilled,1,yes,yes,Risk
+798,1,skilled,1,none,yes,No Risk
+799,1,skilled,1,none,yes,No Risk
+800,2,skilled,1,yes,yes,No Risk
+801,1,unemployed,1,yes,yes,Risk
+802,2,unskilled,1,none,yes,Risk
+803,1,unskilled,1,none,yes,No Risk
+804,1,skilled,1,yes,yes,No Risk
+805,1,unskilled,1,none,yes,No Risk
+806,2,skilled,1,yes,yes,Risk
+807,1,unskilled,1,none,yes,Risk
+808,1,unemployed,1,none,yes,No Risk
+809,1,skilled,1,none,yes,No Risk
+810,1,skilled,1,none,yes,No Risk
+811,1,skilled,1,none,yes,No Risk
+812,2,unemployed,2,yes,yes,No Risk
+813,1,unemployed,1,yes,yes,No Risk
+814,1,unemployed,1,none,yes,No Risk
+815,1,skilled,1,none,yes,No Risk
+816,2,skilled,1,yes,yes,Risk
+817,1,skilled,1,none,yes,No Risk
+818,2,skilled,1,none,yes,Risk
+819,1,skilled,1,none,yes,No Risk
+820,2,management_self-employed,2,yes,yes,Risk
+821,1,skilled,1,yes,yes,No Risk
+822,1,skilled,1,none,yes,No Risk
+823,1,unskilled,1,yes,yes,No Risk
+824,2,management_self-employed,1,yes,yes,No Risk
+825,2,skilled,1,yes,yes,Risk
+826,1,unemployed,1,yes,yes,No Risk
+827,1,skilled,1,none,yes,No Risk
+828,2,skilled,1,none,yes,Risk
+829,1,skilled,1,none,yes,No Risk
+830,1,skilled,1,none,yes,No Risk
+831,1,management_self-employed,1,none,yes,No Risk
+832,2,skilled,1,yes,yes,Risk
+833,1,skilled,1,none,yes,No Risk
+834,1,skilled,1,none,yes,No Risk
+835,1,skilled,1,none,yes,No Risk
+836,2,skilled,1,none,yes,No Risk
+837,1,unskilled,2,yes,no,Risk
+838,1,skilled,1,none,yes,No Risk
+839,1,skilled,1,none,yes,Risk
+840,1,skilled,1,none,yes,No Risk
+841,1,skilled,1,none,yes,No Risk
+842,2,skilled,1,none,yes,No Risk
+843,2,management_self-employed,1,yes,yes,No Risk
+844,2,skilled,2,yes,yes,Risk
+845,1,unskilled,1,yes,yes,Risk
+846,2,skilled,1,none,yes,No Risk
+847,1,skilled,1,none,yes,No Risk
+848,2,management_self-employed,1,yes,yes,Risk
+849,1,skilled,1,none,yes,No Risk
+850,2,skilled,1,yes,yes,Risk
+851,1,unskilled,1,none,yes,No Risk
+852,1,unskilled,2,none,yes,No Risk
+853,1,skilled,1,yes,yes,No Risk
+854,2,skilled,1,yes,yes,Risk
+855,2,skilled,1,yes,yes,Risk
+856,3,unskilled,2,yes,yes,No Risk
+857,1,skilled,1,none,yes,No Risk
+858,1,skilled,2,none,yes,No Risk
+859,1,skilled,1,yes,yes,Risk
+860,2,skilled,1,yes,yes,No Risk
+861,1,skilled,1,none,yes,No Risk
+862,1,management_self-employed,1,none,yes,No Risk
+863,2,management_self-employed,1,none,yes,No Risk
+864,3,management_self-employed,2,yes,yes,Risk
+865,1,skilled,1,none,yes,No Risk
+866,2,unskilled,2,yes,yes,No Risk
+867,1,skilled,1,none,yes,No Risk
+868,1,skilled,1,none,yes,No Risk
+869,2,unskilled,2,yes,yes,No Risk
+870,2,unskilled,1,none,yes,No Risk
+871,1,skilled,2,yes,yes,Risk
+872,1,unskilled,1,none,yes,No Risk
+873,2,skilled,2,yes,yes,Risk
+874,1,management_self-employed,1,none,yes,No Risk
+875,1,skilled,1,none,yes,No Risk
+876,2,unskilled,2,yes,yes,No Risk
+877,2,unskilled,1,none,yes,No Risk
+878,2,management_self-employed,2,yes,yes,Risk
+879,1,skilled,1,yes,yes,Risk
+880,2,skilled,1,yes,yes,Risk
+881,1,skilled,1,yes,yes,Risk
+882,1,skilled,1,none,yes,No Risk
+883,1,unskilled,1,none,yes,No Risk
+884,2,unskilled,1,yes,yes,Risk
+885,1,skilled,1,none,yes,No Risk
+886,2,management_self-employed,1,yes,yes,Risk
+887,1,skilled,1,none,yes,No Risk
+888,2,skilled,1,none,yes,No Risk
+889,1,skilled,1,none,yes,No Risk
+890,2,skilled,2,yes,yes,Risk
+891,2,management_self-employed,2,yes,yes,No Risk
+892,2,skilled,1,yes,yes,No Risk
+893,1,skilled,1,none,no,No Risk
+894,2,skilled,1,yes,yes,No Risk
+895,2,skilled,1,none,yes,No Risk
+896,2,unskilled,1,yes,yes,Risk
+897,1,skilled,1,yes,yes,Risk
+898,1,skilled,1,none,yes,No Risk
+899,2,management_self-employed,2,yes,yes,Risk
+900,2,management_self-employed,1,yes,yes,No Risk
+901,1,skilled,1,none,yes,No Risk
+902,1,skilled,1,yes,yes,No Risk
+903,2,unskilled,1,yes,yes,No Risk
+904,2,skilled,1,none,yes,No Risk
+905,2,skilled,2,yes,yes,Risk
+906,2,skilled,1,yes,yes,Risk
+907,1,management_self-employed,1,none,yes,No Risk
+908,2,skilled,1,yes,yes,Risk
+909,2,management_self-employed,1,none,yes,No Risk
+910,2,unemployed,1,yes,yes,Risk
+911,2,skilled,1,yes,yes,No Risk
+912,3,skilled,1,yes,yes,No Risk
+913,1,skilled,1,yes,yes,No Risk
+914,2,management_self-employed,1,none,yes,No Risk
+915,1,skilled,1,none,yes,Risk
+916,2,management_self-employed,1,none,yes,Risk
+917,1,skilled,1,none,yes,No Risk
+918,2,skilled,1,none,yes,No Risk
+919,2,skilled,1,yes,yes,No Risk
+920,1,skilled,1,none,yes,No Risk
+921,1,skilled,1,none,yes,Risk
+922,2,skilled,1,none,yes,No Risk
+923,3,skilled,2,yes,yes,Risk
+924,1,skilled,2,yes,yes,Risk
+925,2,skilled,1,none,yes,Risk
+926,1,skilled,1,none,yes,No Risk
+927,1,management_self-employed,1,none,yes,Risk
+928,1,unskilled,1,yes,yes,No Risk
+929,1,unskilled,1,none,yes,No Risk
+930,1,skilled,1,none,yes,No Risk
+931,1,skilled,1,none,yes,No Risk
+932,1,skilled,1,none,yes,No Risk
+933,1,skilled,1,none,yes,Risk
+934,1,skilled,1,none,yes,No Risk
+935,1,unskilled,1,yes,yes,No Risk
+936,2,management_self-employed,1,yes,yes,Risk
+937,1,management_self-employed,1,yes,yes,No Risk
+938,2,unskilled,2,yes,yes,Risk
+939,2,skilled,1,yes,yes,Risk
+940,3,skilled,2,yes,yes,No Risk
+941,1,skilled,1,none,yes,No Risk
+942,2,unemployed,1,yes,yes,No Risk
+943,1,skilled,1,none,yes,No Risk
+944,2,management_self-employed,2,yes,yes,No Risk
+945,1,management_self-employed,1,none,yes,No Risk
+946,2,skilled,1,none,yes,Risk
+947,2,management_self-employed,1,none,yes,No Risk
+948,2,skilled,1,yes,yes,Risk
+949,1,skilled,1,yes,yes,Risk
+950,1,skilled,1,yes,yes,No Risk
+951,1,skilled,1,none,yes,No Risk
+952,2,skilled,1,yes,yes,Risk
+953,1,skilled,1,none,yes,No Risk
+954,2,management_self-employed,1,none,yes,Risk
+955,1,skilled,1,none,yes,Risk
+956,2,skilled,1,none,yes,No Risk
+957,1,skilled,2,none,yes,No Risk
+958,1,skilled,1,yes,no,Risk
+959,1,unemployed,1,none,yes,No Risk
+960,2,management_self-employed,2,none,yes,No Risk
+961,1,unemployed,1,none,yes,No Risk
+962,2,unskilled,1,none,yes,No Risk
+963,1,unemployed,1,yes,yes,No Risk
+964,1,skilled,1,yes,yes,Risk
+965,1,unskilled,2,none,yes,Risk
+966,2,management_self-employed,1,none,yes,Risk
+967,1,unemployed,1,none,yes,No Risk
+968,1,unemployed,2,none,yes,No Risk
+969,1,skilled,1,none,yes,No Risk
+970,1,skilled,1,none,yes,Risk
+971,1,unemployed,1,yes,yes,No Risk
+972,2,skilled,1,yes,yes,Risk
+973,1,skilled,1,none,yes,No Risk
+974,2,skilled,1,yes,yes,Risk
+975,1,management_self-employed,1,none,yes,No Risk
+976,2,management_self-employed,2,yes,yes,Risk
+977,1,skilled,1,yes,yes,No Risk
+978,2,skilled,1,yes,no,Risk
+979,1,skilled,1,none,yes,No Risk
+980,1,skilled,2,none,yes,No Risk
+981,1,unskilled,1,none,yes,No Risk
+982,2,skilled,1,yes,yes,No Risk
+983,1,skilled,1,none,yes,No Risk
+984,2,skilled,1,none,yes,Risk
+985,4,unskilled,2,yes,yes,Risk
+986,2,skilled,1,yes,yes,No Risk
+987,1,skilled,1,none,yes,No Risk
+988,2,management_self-employed,1,yes,yes,No Risk
+989,1,skilled,1,none,yes,Risk
+990,2,skilled,1,yes,yes,Risk
+991,2,skilled,1,none,yes,Risk
+992,1,skilled,1,none,yes,Risk
+993,1,skilled,1,none,yes,No Risk
+994,1,skilled,1,none,yes,Risk
+995,1,skilled,1,none,yes,Risk
+996,2,skilled,2,yes,yes,Risk
+997,1,unemployed,1,none,yes,No Risk
+998,3,skilled,2,yes,yes,Risk
+999,1,skilled,1,none,yes,No Risk
+1000,1,skilled,1,none,yes,No Risk
+1001,2,management_self-employed,1,none,yes,No Risk
+1002,1,unskilled,2,yes,yes,No Risk
+1003,1,skilled,1,none,yes,No Risk
+1004,3,skilled,1,none,yes,No Risk
+1005,1,management_self-employed,1,none,yes,No Risk
+1006,1,skilled,1,none,yes,No Risk
+1007,1,unskilled,1,none,yes,No Risk
+1008,2,management_self-employed,1,yes,yes,Risk
+1009,1,management_self-employed,1,none,yes,No Risk
+1010,2,skilled,1,yes,yes,No Risk
+1011,1,management_self-employed,1,none,yes,No Risk
+1012,2,skilled,1,none,yes,Risk
+1013,1,unemployed,1,none,yes,No Risk
+1014,2,unskilled,1,none,yes,Risk
+1015,2,skilled,1,none,yes,No Risk
+1016,2,management_self-employed,2,none,yes,Risk
+1017,1,skilled,1,none,yes,No Risk
+1018,2,skilled,2,yes,yes,Risk
+1019,2,skilled,1,none,yes,No Risk
+1020,2,skilled,1,none,yes,No Risk
+1021,1,management_self-employed,1,none,yes,No Risk
+1022,1,skilled,1,none,yes,No Risk
+1023,1,skilled,1,none,yes,No Risk
+1024,3,skilled,1,none,yes,No Risk
+1025,1,skilled,1,none,yes,No Risk
+1026,1,skilled,1,none,yes,No Risk
+1027,1,skilled,1,none,yes,No Risk
+1028,2,skilled,1,none,yes,No Risk
+1029,1,skilled,1,none,no,No Risk
+1030,1,management_self-employed,2,none,yes,No Risk
+1031,1,unskilled,1,none,yes,Risk
+1032,2,unemployed,1,none,yes,No Risk
+1033,1,unskilled,1,yes,yes,No Risk
+1034,1,skilled,1,none,yes,Risk
+1035,1,unskilled,1,yes,yes,No Risk
+1036,1,skilled,1,none,yes,No Risk
+1037,1,unemployed,1,none,yes,No Risk
+1038,2,skilled,1,yes,yes,Risk
+1039,2,skilled,1,yes,no,Risk
+1040,1,skilled,1,yes,yes,No Risk
+1041,1,skilled,1,yes,no,Risk
+1042,1,skilled,1,none,yes,Risk
+1043,1,skilled,1,none,yes,No Risk
+1044,2,management_self-employed,1,yes,yes,No Risk
+1045,1,skilled,1,none,yes,No Risk
+1046,1,management_self-employed,1,none,yes,No Risk
+1047,1,skilled,1,none,no,No Risk
+1048,1,skilled,2,none,no,Risk
+1049,1,skilled,1,none,yes,No Risk
+1050,3,skilled,1,none,yes,Risk
+1051,2,skilled,1,none,yes,Risk
+1052,3,skilled,2,yes,yes,No Risk
+1053,2,skilled,1,none,yes,Risk
+1054,2,skilled,1,yes,no,Risk
+1055,1,skilled,1,none,yes,No Risk
+1056,3,skilled,2,yes,yes,Risk
+1057,2,skilled,1,none,yes,No Risk
+1058,1,management_self-employed,2,none,yes,No Risk
+1059,1,skilled,2,none,yes,No Risk
+1060,2,skilled,1,yes,yes,Risk
+1061,3,skilled,1,none,yes,Risk
+1062,2,management_self-employed,1,yes,yes,Risk
+1063,1,unskilled,1,yes,yes,No Risk
+1064,1,skilled,1,none,yes,Risk
+1065,2,skilled,1,yes,yes,Risk
+1066,1,skilled,1,yes,yes,Risk
+1067,1,unskilled,1,none,yes,No Risk
+1068,2,skilled,2,none,yes,No Risk
+1069,2,unskilled,2,yes,yes,No Risk
+1070,1,skilled,1,yes,yes,No Risk
+1071,1,skilled,1,none,yes,No Risk
+1072,1,skilled,1,none,yes,No Risk
+1073,1,skilled,1,none,yes,No Risk
+1074,2,skilled,1,yes,no,Risk
+1075,2,skilled,2,yes,yes,Risk
+1076,1,skilled,1,none,yes,No Risk
+1077,2,skilled,1,yes,yes,Risk
+1078,2,skilled,1,none,yes,Risk
+1079,1,skilled,1,none,yes,No Risk
+1080,1,skilled,1,none,yes,No Risk
+1081,2,skilled,1,none,yes,No Risk
+1082,2,skilled,1,none,yes,No Risk
+1083,3,skilled,1,none,yes,No Risk
+1084,1,skilled,2,yes,yes,Risk
+1085,1,management_self-employed,1,yes,yes,No Risk
+1086,1,skilled,2,yes,yes,No Risk
+1087,2,skilled,1,yes,yes,Risk
+1088,1,skilled,1,yes,no,Risk
+1089,1,management_self-employed,2,none,yes,Risk
+1090,1,skilled,1,yes,yes,Risk
+1091,2,management_self-employed,1,yes,yes,Risk
+1092,1,skilled,1,yes,yes,Risk
+1093,1,unskilled,1,none,yes,No Risk
+1094,1,management_self-employed,1,yes,yes,No Risk
+1095,2,skilled,1,yes,yes,Risk
+1096,2,management_self-employed,1,none,yes,No Risk
+1097,1,skilled,1,yes,yes,No Risk
+1098,2,skilled,1,none,yes,No Risk
+1099,1,skilled,1,yes,yes,No Risk
+1100,1,unskilled,1,none,yes,Risk
+1101,1,skilled,2,yes,yes,No Risk
+1102,2,management_self-employed,2,yes,yes,Risk
+1103,1,management_self-employed,1,none,yes,No Risk
+1104,1,skilled,1,none,yes,No Risk
+1105,1,skilled,1,none,yes,No Risk
+1106,2,skilled,2,yes,yes,Risk
+1107,1,management_self-employed,1,none,yes,No Risk
+1108,1,skilled,1,yes,yes,No Risk
+1109,1,skilled,1,none,yes,No Risk
+1110,1,skilled,1,none,yes,No Risk
+1111,1,skilled,1,none,yes,No Risk
+1112,1,skilled,1,none,yes,No Risk
+1113,2,skilled,1,none,yes,Risk
+1114,1,skilled,1,yes,yes,No Risk
+1115,1,skilled,1,none,yes,No Risk
+1116,1,skilled,2,none,yes,Risk
+1117,2,skilled,2,yes,yes,No Risk
+1118,2,unskilled,1,none,yes,No Risk
+1119,1,skilled,1,none,yes,No Risk
+1120,2,skilled,1,none,yes,Risk
+1121,1,skilled,1,none,yes,No Risk
+1122,3,unemployed,1,yes,yes,Risk
+1123,1,skilled,1,none,yes,No Risk
+1124,1,skilled,1,none,yes,No Risk
+1125,2,management_self-employed,1,none,yes,Risk
+1126,1,unskilled,1,yes,yes,No Risk
+1127,1,skilled,1,none,yes,No Risk
+1128,2,skilled,1,yes,yes,No Risk
+1129,1,skilled,1,yes,yes,Risk
+1130,2,skilled,2,yes,yes,Risk
+1131,2,skilled,1,none,yes,Risk
+1132,1,management_self-employed,1,none,no,No Risk
+1133,1,skilled,1,none,yes,No Risk
+1134,2,skilled,1,none,yes,Risk
+1135,1,management_self-employed,1,none,yes,No Risk
+1136,1,skilled,1,yes,yes,No Risk
+1137,1,skilled,1,none,yes,No Risk
+1138,2,skilled,1,yes,yes,Risk
+1139,1,skilled,1,none,yes,No Risk
+1140,1,management_self-employed,1,none,yes,No Risk
+1141,1,skilled,1,none,yes,No Risk
+1142,2,skilled,1,yes,yes,No Risk
+1143,1,skilled,2,yes,yes,Risk
+1144,1,skilled,1,none,yes,No Risk
+1145,1,skilled,1,none,yes,No Risk
+1146,1,skilled,1,none,yes,No Risk
+1147,2,skilled,1,none,yes,No Risk
+1148,1,skilled,1,none,yes,No Risk
+1149,3,unskilled,2,yes,yes,No Risk
+1150,2,unemployed,2,yes,yes,Risk
+1151,1,unskilled,1,none,yes,No Risk
+1152,1,skilled,1,yes,yes,Risk
+1153,1,management_self-employed,1,yes,yes,Risk
+1154,2,skilled,1,yes,yes,No Risk
+1155,2,unskilled,1,none,yes,Risk
+1156,2,management_self-employed,1,none,yes,No Risk
+1157,2,unemployed,1,yes,yes,No Risk
+1158,2,skilled,1,yes,yes,Risk
+1159,2,unskilled,2,yes,yes,No Risk
+1160,1,skilled,1,yes,yes,No Risk
+1161,1,skilled,2,none,yes,No Risk
+1162,1,skilled,1,none,yes,No Risk
+1163,2,unskilled,1,none,yes,No Risk
+1164,2,skilled,2,yes,yes,Risk
+1165,1,skilled,1,yes,yes,No Risk
+1166,2,skilled,1,none,yes,No Risk
+1167,2,management_self-employed,1,yes,yes,Risk
+1168,1,skilled,1,none,yes,No Risk
+1169,1,skilled,1,none,no,No Risk
+1170,1,skilled,1,none,yes,No Risk
+1171,1,management_self-employed,1,none,yes,No Risk
+1172,2,skilled,2,yes,yes,No Risk
+1173,1,skilled,1,yes,no,No Risk
+1174,2,skilled,1,yes,yes,Risk
+1175,2,skilled,1,none,yes,No Risk
+1176,2,skilled,1,none,yes,No Risk
+1177,1,skilled,1,none,yes,No Risk
+1178,1,unskilled,1,none,yes,No Risk
+1179,1,management_self-employed,1,none,yes,No Risk
+1180,3,skilled,1,yes,yes,Risk
+1181,1,skilled,1,none,yes,No Risk
+1182,1,skilled,1,none,yes,No Risk
+1183,1,skilled,2,yes,yes,Risk
+1184,2,skilled,1,yes,yes,Risk
+1185,1,skilled,1,none,yes,No Risk
+1186,1,skilled,1,yes,yes,No Risk
+1187,2,skilled,1,none,yes,No Risk
+1188,2,skilled,1,yes,yes,Risk
+1189,1,skilled,2,yes,yes,No Risk
+1190,2,unskilled,1,yes,yes,No Risk
+1191,2,skilled,1,yes,yes,Risk
+1192,3,skilled,2,yes,yes,Risk
+1193,2,skilled,1,yes,yes,No Risk
+1194,2,skilled,1,yes,yes,Risk
+1195,1,skilled,1,none,yes,No Risk
+1196,1,skilled,1,none,yes,No Risk
+1197,1,skilled,1,none,yes,Risk
+1198,2,skilled,2,yes,yes,Risk
+1199,1,unskilled,1,none,yes,No Risk
+1200,2,unskilled,2,yes,yes,Risk
+1201,1,skilled,1,none,yes,No Risk
+1202,1,skilled,1,none,yes,No Risk
+1203,1,skilled,1,none,yes,No Risk
+1204,2,skilled,1,none,yes,Risk
+1205,1,skilled,1,none,yes,No Risk
+1206,1,unskilled,1,yes,yes,Risk
+1207,1,skilled,1,none,yes,No Risk
+1208,2,skilled,1,yes,yes,Risk
+1209,1,skilled,1,yes,yes,No Risk
+1210,1,skilled,1,none,yes,No Risk
+1211,2,skilled,1,none,yes,Risk
+1212,1,skilled,1,none,yes,No Risk
+1213,1,management_self-employed,1,none,yes,Risk
+1214,1,skilled,1,none,yes,No Risk
+1215,1,skilled,1,none,yes,No Risk
+1216,2,skilled,1,yes,yes,No Risk
+1217,1,skilled,1,none,yes,No Risk
+1218,1,skilled,1,none,yes,No Risk
+1219,1,skilled,1,none,yes,No Risk
+1220,1,skilled,1,none,yes,Risk
+1221,2,unemployed,2,yes,yes,Risk
+1222,1,unemployed,1,yes,yes,No Risk
+1223,1,skilled,1,none,yes,No Risk
+1224,2,skilled,1,yes,yes,No Risk
+1225,1,skilled,1,yes,yes,Risk
+1226,2,skilled,1,none,no,Risk
+1227,1,skilled,1,yes,yes,Risk
+1228,1,skilled,1,none,yes,Risk
+1229,3,skilled,2,yes,yes,Risk
+1230,2,skilled,1,yes,yes,Risk
+1231,1,unskilled,1,none,yes,No Risk
+1232,1,skilled,2,yes,yes,Risk
+1233,2,management_self-employed,1,yes,yes,No Risk
+1234,1,skilled,1,none,yes,No Risk
+1235,1,unskilled,2,none,yes,No Risk
+1236,1,skilled,2,none,yes,No Risk
+1237,2,skilled,2,yes,yes,Risk
+1238,2,skilled,2,yes,yes,Risk
+1239,2,unskilled,1,none,yes,Risk
+1240,2,unskilled,1,none,yes,No Risk
+1241,1,skilled,1,none,yes,No Risk
+1242,1,skilled,1,none,yes,No Risk
+1243,1,skilled,1,none,yes,No Risk
+1244,2,skilled,1,none,yes,Risk
+1245,1,skilled,1,none,yes,No Risk
+1246,2,skilled,1,none,yes,No Risk
+1247,1,skilled,2,none,yes,No Risk
+1248,1,management_self-employed,1,yes,yes,No Risk
+1249,2,skilled,1,none,yes,No Risk
+1250,1,skilled,1,none,yes,No Risk
+1251,1,skilled,1,none,yes,No Risk
+1252,2,management_self-employed,2,yes,yes,Risk
+1253,1,skilled,1,none,yes,No Risk
+1254,2,skilled,1,yes,yes,Risk
+1255,1,unskilled,1,none,yes,No Risk
+1256,2,skilled,2,yes,yes,Risk
+1257,1,skilled,1,none,yes,No Risk
+1258,1,skilled,1,yes,yes,No Risk
+1259,1,unskilled,1,none,yes,No Risk
+1260,3,unskilled,2,yes,yes,Risk
+1261,2,skilled,1,yes,yes,No Risk
+1262,2,skilled,1,yes,yes,No Risk
+1263,1,skilled,1,yes,yes,No Risk
+1264,2,management_self-employed,2,yes,yes,Risk
+1265,1,skilled,1,none,yes,No Risk
+1266,2,skilled,1,none,yes,No Risk
+1267,2,skilled,2,yes,yes,Risk
+1268,1,skilled,1,yes,yes,Risk
+1269,1,unskilled,2,yes,yes,No Risk
+1270,1,skilled,2,none,yes,No Risk
+1271,2,skilled,1,yes,yes,No Risk
+1272,2,management_self-employed,1,yes,no,Risk
+1273,1,unskilled,1,none,yes,Risk
+1274,2,unskilled,1,none,yes,No Risk
+1275,1,skilled,1,none,yes,No Risk
+1276,2,skilled,1,yes,yes,No Risk
+1277,1,management_self-employed,1,none,yes,Risk
+1278,1,management_self-employed,1,none,no,Risk
+1279,2,management_self-employed,2,yes,yes,No Risk
+1280,1,skilled,1,none,yes,No Risk
+1281,1,skilled,1,none,yes,No Risk
+1282,2,skilled,1,yes,yes,Risk
+1283,1,unskilled,1,none,yes,No Risk
+1284,2,unemployed,1,yes,yes,No Risk
+1285,1,skilled,1,none,yes,No Risk
+1286,1,skilled,1,none,yes,No Risk
+1287,3,management_self-employed,2,yes,yes,Risk
+1288,1,skilled,1,none,yes,No Risk
+1289,1,skilled,1,none,yes,No Risk
+1290,1,skilled,1,yes,yes,No Risk
+1291,1,skilled,1,none,yes,Risk
+1292,3,management_self-employed,2,yes,yes,Risk
+1293,1,skilled,1,none,yes,No Risk
+1294,2,skilled,1,yes,no,Risk
+1295,1,skilled,1,yes,yes,Risk
+1296,1,skilled,1,yes,yes,No Risk
+1297,1,skilled,1,none,yes,No Risk
+1298,1,management_self-employed,1,none,yes,No Risk
+1299,1,skilled,1,none,yes,No Risk
+1300,2,skilled,1,none,yes,Risk
+1301,1,skilled,1,yes,yes,Risk
+1302,1,skilled,1,none,yes,No Risk
+1303,1,skilled,1,none,yes,No Risk
+1304,2,skilled,1,yes,yes,No Risk
+1305,1,skilled,2,yes,yes,No Risk
+1306,1,skilled,1,none,yes,No Risk
+1307,1,skilled,1,none,no,Risk
+1308,2,skilled,1,none,yes,Risk
+1309,1,unskilled,2,yes,yes,Risk
+1310,2,skilled,1,none,yes,No Risk
+1311,2,skilled,1,none,yes,No Risk
+1312,2,management_self-employed,2,yes,yes,No Risk
+1313,1,skilled,1,none,yes,No Risk
+1314,2,unskilled,1,yes,yes,No Risk
+1315,1,skilled,1,none,yes,Risk
+1316,2,skilled,2,yes,yes,Risk
+1317,1,skilled,1,none,yes,No Risk
+1318,2,skilled,1,none,yes,Risk
+1319,1,skilled,1,none,yes,No Risk
+1320,2,skilled,1,yes,yes,Risk
+1321,1,skilled,1,none,yes,No Risk
+1322,2,skilled,2,yes,yes,Risk
+1323,1,skilled,1,yes,yes,Risk
+1324,2,skilled,1,yes,yes,No Risk
+1325,1,skilled,1,none,yes,No Risk
+1326,2,skilled,1,none,yes,No Risk
+1327,1,skilled,1,none,yes,No Risk
+1328,1,skilled,1,none,yes,Risk
+1329,1,skilled,1,none,yes,No Risk
+1330,1,management_self-employed,1,none,yes,No Risk
+1331,1,skilled,1,none,yes,No Risk
+1332,1,skilled,1,yes,yes,Risk
+1333,1,skilled,1,none,yes,No Risk
+1334,1,skilled,1,none,yes,No Risk
+1335,2,management_self-employed,2,yes,yes,No Risk
+1336,2,unskilled,1,yes,yes,No Risk
+1337,1,skilled,1,none,yes,No Risk
+1338,2,skilled,1,none,yes,No Risk
+1339,1,management_self-employed,1,none,yes,No Risk
+1340,2,skilled,1,yes,yes,Risk
+1341,3,skilled,1,none,yes,Risk
+1342,1,unskilled,1,none,yes,No Risk
+1343,1,unskilled,1,yes,yes,No Risk
+1344,2,skilled,1,yes,yes,No Risk
+1345,1,management_self-employed,2,none,yes,Risk
+1346,2,skilled,1,none,yes,No Risk
+1347,2,skilled,1,yes,yes,Risk
+1348,3,skilled,1,none,yes,Risk
+1349,1,management_self-employed,1,none,yes,Risk
+1350,1,skilled,1,none,yes,No Risk
+1351,1,unskilled,1,none,yes,No Risk
+1352,1,management_self-employed,1,none,yes,No Risk
+1353,2,skilled,1,none,yes,No Risk
+1354,1,skilled,1,none,yes,No Risk
+1355,1,skilled,1,none,yes,No Risk
+1356,1,skilled,1,yes,yes,No Risk
+1357,1,skilled,1,none,yes,No Risk
+1358,2,skilled,1,none,yes,No Risk
+1359,1,unemployed,1,yes,yes,No Risk
+1360,1,skilled,1,none,yes,No Risk
+1361,1,skilled,1,none,yes,No Risk
+1362,1,skilled,1,yes,yes,Risk
+1363,1,unemployed,2,none,yes,No Risk
+1364,2,management_self-employed,1,none,yes,Risk
+1365,2,skilled,1,none,yes,No Risk
+1366,2,skilled,1,yes,yes,No Risk
+1367,1,skilled,1,none,yes,No Risk
+1368,1,skilled,1,none,yes,Risk
+1369,1,skilled,1,none,yes,No Risk
+1370,1,skilled,1,none,yes,No Risk
+1371,1,management_self-employed,1,none,yes,No Risk
+1372,1,skilled,2,yes,yes,No Risk
+1373,2,management_self-employed,1,yes,yes,No Risk
+1374,2,skilled,1,none,yes,No Risk
+1375,1,skilled,1,none,yes,No Risk
+1376,3,skilled,1,yes,yes,No Risk
+1377,1,management_self-employed,1,none,yes,No Risk
+1378,1,management_self-employed,1,yes,yes,No Risk
+1379,1,skilled,1,yes,yes,Risk
+1380,1,skilled,1,none,yes,No Risk
+1381,2,unskilled,2,yes,yes,No Risk
+1382,1,unemployed,1,none,yes,No Risk
+1383,1,skilled,1,none,yes,No Risk
+1384,1,skilled,1,none,yes,No Risk
+1385,1,skilled,1,none,yes,No Risk
+1386,2,skilled,2,yes,yes,Risk
+1387,1,skilled,1,none,yes,No Risk
+1388,1,skilled,1,none,yes,No Risk
+1389,1,unemployed,1,none,yes,No Risk
+1390,1,skilled,1,none,yes,No Risk
+1391,1,unskilled,1,none,yes,Risk
+1392,1,management_self-employed,1,yes,yes,No Risk
+1393,2,skilled,1,none,yes,Risk
+1394,1,skilled,1,none,yes,No Risk
+1395,1,unskilled,1,none,yes,Risk
+1396,1,skilled,1,none,yes,Risk
+1397,1,skilled,1,none,yes,No Risk
+1398,2,skilled,1,yes,yes,Risk
+1399,2,skilled,2,yes,yes,No Risk
+1400,2,management_self-employed,2,yes,no,Risk
+1401,1,skilled,1,none,yes,No Risk
+1402,1,skilled,2,none,yes,No Risk
+1403,2,management_self-employed,2,none,yes,No Risk
+1404,1,skilled,1,none,yes,Risk
+1405,1,skilled,1,yes,yes,No Risk
+1406,2,skilled,1,yes,no,No Risk
+1407,1,skilled,1,none,yes,No Risk
+1408,1,unskilled,1,none,yes,No Risk
+1409,1,skilled,1,yes,yes,Risk
+1410,1,skilled,1,none,yes,No Risk
+1411,1,skilled,1,none,yes,No Risk
+1412,1,skilled,1,none,yes,No Risk
+1413,1,skilled,1,none,yes,No Risk
+1414,3,skilled,2,yes,yes,Risk
+1415,1,skilled,1,none,yes,No Risk
+1416,1,skilled,1,none,yes,No Risk
+1417,1,skilled,1,none,yes,No Risk
+1418,2,skilled,1,none,yes,Risk
+1419,1,unskilled,1,yes,yes,No Risk
+1420,2,skilled,1,yes,yes,Risk
+1421,1,unemployed,1,yes,yes,No Risk
+1422,3,skilled,2,yes,yes,Risk
+1423,2,skilled,1,yes,yes,Risk
+1424,2,skilled,1,yes,yes,No Risk
+1425,2,skilled,2,yes,yes,Risk
+1426,1,skilled,1,none,yes,No Risk
+1427,1,skilled,1,none,yes,No Risk
+1428,1,skilled,1,yes,yes,Risk
+1429,1,unskilled,2,yes,yes,Risk
+1430,1,unskilled,1,none,yes,No Risk
+1431,2,unskilled,1,none,yes,No Risk
+1432,2,unemployed,1,none,yes,No Risk
+1433,1,management_self-employed,1,yes,yes,No Risk
+1434,1,unemployed,1,yes,yes,No Risk
+1435,1,unemployed,1,none,yes,No Risk
+1436,2,skilled,1,yes,yes,No Risk
+1437,2,skilled,1,none,yes,No Risk
+1438,2,skilled,1,none,yes,No Risk
+1439,1,unemployed,1,none,yes,Risk
+1440,1,skilled,1,none,yes,No Risk
+1441,2,skilled,1,yes,yes,No Risk
+1442,2,skilled,1,none,yes,No Risk
+1443,1,skilled,1,none,yes,No Risk
+1444,1,skilled,1,none,yes,No Risk
+1445,1,skilled,1,none,yes,No Risk
+1446,2,management_self-employed,1,none,yes,Risk
+1447,3,skilled,2,yes,yes,Risk
+1448,1,skilled,1,none,yes,No Risk
+1449,1,skilled,1,none,yes,No Risk
+1450,2,skilled,1,yes,yes,No Risk
+1451,1,management_self-employed,1,none,yes,Risk
+1452,1,skilled,1,none,yes,No Risk
+1453,1,skilled,1,none,yes,No Risk
+1454,2,skilled,1,yes,yes,Risk
+1455,2,skilled,1,yes,yes,No Risk
+1456,3,management_self-employed,1,yes,yes,Risk
+1457,2,unskilled,2,yes,yes,No Risk
+1458,2,skilled,1,yes,no,Risk
+1459,2,skilled,1,yes,yes,Risk
+1460,2,skilled,1,yes,yes,Risk
+1461,1,unskilled,1,none,yes,No Risk
+1462,1,skilled,1,yes,yes,No Risk
+1463,1,management_self-employed,1,none,yes,No Risk
+1464,1,skilled,2,yes,yes,No Risk
+1465,1,unemployed,1,none,yes,No Risk
+1466,2,skilled,2,yes,yes,Risk
+1467,1,skilled,1,none,yes,No Risk
+1468,2,skilled,1,none,yes,No Risk
+1469,2,management_self-employed,1,none,yes,No Risk
+1470,1,skilled,1,none,yes,No Risk
+1471,1,skilled,1,yes,yes,No Risk
+1472,2,skilled,1,yes,yes,Risk
+1473,1,unskilled,1,yes,yes,No Risk
+1474,2,skilled,1,yes,yes,Risk
+1475,1,skilled,1,none,yes,No Risk
+1476,1,skilled,1,none,yes,Risk
+1477,2,management_self-employed,2,yes,yes,Risk
+1478,1,skilled,1,none,yes,Risk
+1479,1,management_self-employed,1,none,yes,No Risk
+1480,2,management_self-employed,1,none,yes,No Risk
+1481,1,unskilled,1,none,yes,Risk
+1482,2,skilled,1,yes,yes,Risk
+1483,1,skilled,1,yes,yes,Risk
+1484,2,management_self-employed,1,none,yes,No Risk
+1485,1,skilled,1,none,yes,No Risk
+1486,2,skilled,1,yes,yes,Risk
+1487,1,skilled,1,none,no,No Risk
+1488,2,unskilled,2,yes,yes,No Risk
+1489,1,skilled,1,none,yes,No Risk
+1490,1,skilled,2,yes,yes,No Risk
+1491,2,management_self-employed,2,none,yes,No Risk
+1492,2,unskilled,1,yes,yes,No Risk
+1493,1,skilled,1,none,yes,Risk
+1494,1,skilled,1,none,yes,No Risk
+1495,2,unemployed,1,none,yes,No Risk
+1496,1,skilled,1,none,yes,No Risk
+1497,1,skilled,1,none,no,Risk
+1498,2,skilled,1,none,yes,No Risk
+1499,1,unemployed,1,none,yes,No Risk
+1500,2,management_self-employed,1,yes,yes,Risk
+1501,1,skilled,1,none,yes,No Risk
+1502,1,unskilled,2,yes,yes,No Risk
+1503,1,unskilled,1,none,yes,No Risk
+1504,1,skilled,1,none,yes,No Risk
+1505,2,management_self-employed,2,yes,yes,No Risk
+1506,1,unemployed,1,none,yes,No Risk
+1507,2,skilled,1,yes,yes,No Risk
+1508,1,skilled,1,none,yes,No Risk
+1509,1,skilled,1,none,yes,Risk
+1510,2,skilled,1,yes,yes,Risk
+1511,1,skilled,1,none,yes,No Risk
+1512,1,skilled,2,none,yes,No Risk
+1513,2,management_self-employed,1,yes,yes,Risk
+1514,1,skilled,1,none,yes,No Risk
+1515,1,skilled,1,none,yes,No Risk
+1516,2,skilled,2,yes,yes,Risk
+1517,2,skilled,1,yes,yes,No Risk
+1518,2,management_self-employed,1,none,yes,No Risk
+1519,1,skilled,1,none,yes,No Risk
+1520,1,skilled,1,none,yes,No Risk
+1521,1,skilled,1,yes,yes,No Risk
+1522,1,skilled,1,yes,yes,No Risk
+1523,1,management_self-employed,1,yes,yes,No Risk
+1524,2,skilled,1,yes,yes,No Risk
+1525,1,skilled,1,none,yes,No Risk
+1526,2,management_self-employed,2,yes,yes,No Risk
+1527,1,skilled,1,none,yes,No Risk
+1528,2,management_self-employed,2,yes,yes,No Risk
+1529,1,unskilled,1,yes,yes,No Risk
+1530,2,skilled,1,yes,yes,Risk
+1531,3,skilled,2,yes,yes,Risk
+1532,1,unemployed,1,none,yes,No Risk
+1533,1,management_self-employed,1,none,yes,Risk
+1534,3,skilled,1,yes,yes,Risk
+1535,1,unskilled,1,yes,yes,Risk
+1536,2,skilled,1,none,yes,No Risk
+1537,1,skilled,1,none,yes,No Risk
+1538,2,unskilled,2,yes,yes,No Risk
+1539,1,skilled,1,none,yes,No Risk
+1540,2,skilled,1,none,yes,Risk
+1541,1,management_self-employed,2,none,yes,No Risk
+1542,3,skilled,2,yes,no,Risk
+1543,2,skilled,1,none,yes,No Risk
+1544,2,skilled,1,none,yes,No Risk
+1545,1,skilled,1,none,yes,No Risk
+1546,2,skilled,1,yes,yes,Risk
+1547,2,unskilled,2,yes,yes,No Risk
+1548,1,skilled,1,none,yes,No Risk
+1549,1,management_self-employed,1,none,yes,No Risk
+1550,1,skilled,1,none,yes,Risk
+1551,1,unemployed,1,yes,yes,No Risk
+1552,1,skilled,1,none,yes,No Risk
+1553,1,skilled,1,none,yes,Risk
+1554,1,skilled,1,none,yes,No Risk
+1555,1,skilled,1,yes,yes,Risk
+1556,1,skilled,1,none,yes,No Risk
+1557,1,management_self-employed,2,none,yes,Risk
+1558,1,management_self-employed,1,none,yes,No Risk
+1559,1,unemployed,1,none,yes,No Risk
+1560,1,skilled,1,none,yes,No Risk
+1561,2,skilled,1,none,yes,Risk
+1562,2,skilled,2,yes,yes,Risk
+1563,1,skilled,1,yes,yes,No Risk
+1564,2,unskilled,1,yes,yes,Risk
+1565,2,skilled,1,yes,yes,Risk
+1566,2,unskilled,1,yes,yes,Risk
+1567,2,unemployed,1,yes,yes,Risk
+1568,2,management_self-employed,1,yes,yes,Risk
+1569,1,skilled,1,none,yes,No Risk
+1570,1,skilled,1,none,yes,No Risk
+1571,1,skilled,1,none,yes,No Risk
+1572,1,skilled,1,none,yes,No Risk
+1573,1,skilled,1,none,yes,No Risk
+1574,2,unskilled,1,yes,no,Risk
+1575,2,skilled,1,yes,yes,No Risk
+1576,1,management_self-employed,2,none,yes,Risk
+1577,1,skilled,1,none,yes,No Risk
+1578,1,skilled,1,none,yes,No Risk
+1579,2,management_self-employed,2,yes,yes,No Risk
+1580,1,skilled,1,yes,yes,No Risk
+1581,2,unemployed,1,yes,yes,Risk
+1582,1,unemployed,1,none,yes,No Risk
+1583,1,management_self-employed,1,none,yes,No Risk
+1584,1,skilled,1,none,yes,No Risk
+1585,2,skilled,1,none,yes,No Risk
+1586,2,skilled,1,yes,yes,Risk
+1587,2,skilled,2,yes,yes,No Risk
+1588,2,management_self-employed,2,yes,yes,No Risk
+1589,1,unskilled,1,yes,yes,No Risk
+1590,2,unskilled,1,yes,yes,No Risk
+1591,1,skilled,1,none,yes,No Risk
+1592,2,unskilled,1,none,yes,Risk
+1593,2,management_self-employed,1,yes,yes,Risk
+1594,1,skilled,2,yes,yes,No Risk
+1595,1,skilled,1,yes,yes,No Risk
+1596,3,skilled,2,yes,yes,Risk
+1597,1,skilled,1,none,yes,No Risk
+1598,3,management_self-employed,2,yes,yes,Risk
+1599,1,management_self-employed,1,none,yes,No Risk
+1600,2,management_self-employed,1,none,yes,No Risk
+1601,1,skilled,1,none,yes,No Risk
+1602,1,skilled,1,none,yes,No Risk
+1603,1,skilled,1,none,yes,No Risk
+1604,1,skilled,1,none,yes,No Risk
+1605,1,management_self-employed,1,none,yes,No Risk
+1606,2,skilled,1,yes,yes,No Risk
+1607,2,skilled,1,yes,yes,Risk
+1608,1,skilled,1,yes,yes,Risk
+1609,1,skilled,1,none,yes,No Risk
+1610,2,skilled,1,yes,yes,Risk
+1611,1,unskilled,1,none,yes,No Risk
+1612,1,skilled,1,none,yes,No Risk
+1613,1,management_self-employed,1,none,yes,No Risk
+1614,1,skilled,1,yes,yes,Risk
+1615,1,skilled,1,none,yes,No Risk
+1616,2,skilled,1,none,yes,No Risk
+1617,1,unemployed,1,none,yes,No Risk
+1618,1,unskilled,1,none,yes,No Risk
+1619,1,management_self-employed,1,none,no,No Risk
+1620,2,unskilled,2,yes,yes,No Risk
+1621,1,skilled,1,none,yes,No Risk
+1622,3,management_self-employed,2,yes,yes,Risk
+1623,1,skilled,1,none,yes,No Risk
+1624,1,skilled,1,yes,yes,Risk
+1625,1,unskilled,1,none,yes,No Risk
+1626,2,unskilled,2,yes,yes,No Risk
+1627,1,skilled,1,none,yes,No Risk
+1628,2,management_self-employed,1,none,yes,Risk
+1629,1,skilled,1,yes,yes,Risk
+1630,2,unemployed,2,yes,yes,No Risk
+1631,1,management_self-employed,1,none,yes,No Risk
+1632,1,skilled,1,yes,yes,No Risk
+1633,1,skilled,1,none,yes,No Risk
+1634,2,skilled,1,yes,yes,Risk
+1635,2,skilled,2,yes,yes,Risk
+1636,2,skilled,2,yes,yes,Risk
+1637,1,skilled,1,yes,yes,Risk
+1638,2,skilled,2,none,yes,Risk
+1639,1,skilled,1,none,yes,Risk
+1640,3,skilled,2,yes,yes,Risk
+1641,1,skilled,1,none,yes,No Risk
+1642,2,skilled,1,yes,yes,No Risk
+1643,1,skilled,1,none,yes,No Risk
+1644,1,skilled,1,none,yes,No Risk
+1645,2,unskilled,1,yes,yes,No Risk
+1646,2,skilled,2,yes,yes,Risk
+1647,2,skilled,1,none,yes,Risk
+1648,1,skilled,1,none,yes,No Risk
+1649,1,skilled,1,none,yes,Risk
+1650,2,unskilled,1,yes,yes,No Risk
+1651,1,skilled,1,none,yes,No Risk
+1652,1,skilled,1,none,yes,Risk
+1653,1,skilled,1,yes,yes,No Risk
+1654,2,skilled,1,yes,yes,No Risk
+1655,2,skilled,1,none,yes,No Risk
+1656,1,unskilled,1,none,yes,No Risk
+1657,1,management_self-employed,1,yes,yes,No Risk
+1658,2,management_self-employed,2,yes,yes,Risk
+1659,3,skilled,2,yes,yes,No Risk
+1660,2,skilled,2,yes,yes,No Risk
+1661,1,skilled,1,none,yes,No Risk
+1662,2,skilled,1,none,yes,No Risk
+1663,1,skilled,1,none,yes,No Risk
+1664,2,skilled,2,yes,yes,No Risk
+1665,1,unskilled,1,none,yes,No Risk
+1666,2,skilled,1,yes,yes,Risk
+1667,1,skilled,1,none,yes,Risk
+1668,1,skilled,1,none,yes,No Risk
+1669,1,management_self-employed,1,none,yes,No Risk
+1670,2,skilled,1,none,yes,No Risk
+1671,1,skilled,1,none,yes,No Risk
+1672,2,skilled,1,yes,yes,Risk
+1673,2,skilled,1,none,yes,Risk
+1674,2,skilled,1,none,yes,Risk
+1675,1,unskilled,1,yes,yes,Risk
+1676,2,management_self-employed,1,yes,yes,Risk
+1677,1,skilled,1,none,yes,No Risk
+1678,1,skilled,1,none,yes,Risk
+1679,2,management_self-employed,1,yes,yes,No Risk
+1680,2,unemployed,2,yes,yes,Risk
+1681,1,skilled,1,none,yes,Risk
+1682,2,skilled,1,yes,yes,No Risk
+1683,1,skilled,1,yes,no,Risk
+1684,2,unemployed,1,yes,no,No Risk
+1685,2,skilled,1,yes,yes,Risk
+1686,1,unskilled,1,none,yes,Risk
+1687,1,management_self-employed,1,none,yes,No Risk
+1688,1,skilled,1,none,yes,No Risk
+1689,2,skilled,1,none,yes,Risk
+1690,1,skilled,1,none,yes,No Risk
+1691,1,skilled,1,none,yes,No Risk
+1692,2,skilled,1,yes,yes,No Risk
+1693,1,unemployed,1,none,yes,Risk
+1694,2,skilled,1,yes,yes,No Risk
+1695,2,skilled,1,none,yes,No Risk
+1696,2,skilled,1,none,yes,No Risk
+1697,1,skilled,1,none,yes,No Risk
+1698,2,management_self-employed,2,yes,yes,No Risk
+1699,2,unskilled,1,yes,yes,Risk
+1700,2,skilled,1,none,yes,Risk
+1701,1,skilled,1,none,yes,No Risk
+1702,1,skilled,1,yes,yes,No Risk
+1703,1,skilled,1,none,yes,No Risk
+1704,1,unskilled,1,none,yes,No Risk
+1705,1,skilled,1,yes,yes,No Risk
+1706,2,skilled,1,yes,yes,No Risk
+1707,2,skilled,2,yes,yes,Risk
+1708,2,management_self-employed,1,yes,yes,Risk
+1709,1,skilled,1,yes,yes,Risk
+1710,1,skilled,1,none,yes,No Risk
+1711,1,skilled,1,none,yes,No Risk
+1712,2,unskilled,2,yes,yes,No Risk
+1713,2,management_self-employed,1,yes,yes,Risk
+1714,2,skilled,1,none,yes,No Risk
+1715,1,skilled,1,none,yes,No Risk
+1716,2,unemployed,1,yes,yes,Risk
+1717,1,skilled,1,none,yes,No Risk
+1718,2,skilled,1,yes,yes,Risk
+1719,2,management_self-employed,2,yes,yes,No Risk
+1720,2,skilled,2,yes,yes,Risk
+1721,1,management_self-employed,1,none,yes,No Risk
+1722,2,management_self-employed,1,none,yes,No Risk
+1723,2,skilled,2,yes,yes,Risk
+1724,2,skilled,2,yes,yes,Risk
+1725,1,unskilled,1,none,yes,No Risk
+1726,2,skilled,1,none,yes,No Risk
+1727,1,skilled,1,none,yes,No Risk
+1728,2,skilled,1,yes,yes,No Risk
+1729,2,management_self-employed,1,none,yes,No Risk
+1730,1,skilled,1,yes,yes,No Risk
+1731,1,skilled,1,none,yes,No Risk
+1732,1,skilled,1,none,yes,Risk
+1733,1,management_self-employed,1,yes,yes,No Risk
+1734,3,unemployed,2,yes,yes,No Risk
+1735,1,skilled,1,none,yes,No Risk
+1736,2,unemployed,2,yes,yes,No Risk
+1737,1,skilled,1,none,yes,No Risk
+1738,2,skilled,2,yes,yes,No Risk
+1739,1,unskilled,1,none,yes,No Risk
+1740,2,skilled,1,yes,yes,Risk
+1741,1,skilled,1,none,yes,No Risk
+1742,1,unskilled,1,none,yes,Risk
+1743,1,skilled,1,none,yes,No Risk
+1744,2,skilled,2,yes,yes,No Risk
+1745,1,unskilled,1,none,yes,No Risk
+1746,1,unskilled,1,none,yes,No Risk
+1747,2,unskilled,2,yes,yes,No Risk
+1748,2,management_self-employed,1,none,yes,Risk
+1749,2,management_self-employed,1,none,yes,No Risk
+1750,1,unskilled,1,none,yes,No Risk
+1751,1,skilled,1,none,yes,No Risk
+1752,2,skilled,1,yes,yes,Risk
+1753,1,skilled,1,none,yes,No Risk
+1754,1,management_self-employed,1,yes,yes,No Risk
+1755,1,skilled,1,none,yes,No Risk
+1756,1,skilled,1,none,yes,No Risk
+1757,2,skilled,1,yes,yes,No Risk
+1758,1,skilled,1,none,yes,No Risk
+1759,1,skilled,1,yes,no,No Risk
+1760,1,management_self-employed,1,yes,yes,Risk
+1761,1,unskilled,1,none,yes,No Risk
+1762,2,skilled,1,yes,yes,No Risk
+1763,1,skilled,1,none,yes,Risk
+1764,1,management_self-employed,1,none,yes,No Risk
+1765,1,skilled,1,none,yes,No Risk
+1766,1,skilled,1,yes,yes,No Risk
+1767,1,skilled,1,none,yes,No Risk
+1768,1,skilled,1,none,yes,Risk
+1769,1,skilled,1,none,yes,No Risk
+1770,2,management_self-employed,1,yes,yes,Risk
+1771,1,skilled,1,none,yes,No Risk
+1772,1,skilled,1,none,yes,No Risk
+1773,1,skilled,1,none,yes,No Risk
+1774,1,skilled,2,yes,yes,No Risk
+1775,1,unemployed,1,none,yes,No Risk
+1776,2,unemployed,1,none,yes,No Risk
+1777,1,skilled,1,none,yes,No Risk
+1778,1,unskilled,1,none,yes,No Risk
+1779,1,skilled,1,none,yes,No Risk
+1780,3,skilled,2,none,yes,Risk
+1781,1,unskilled,1,none,yes,No Risk
+1782,2,unemployed,2,none,yes,Risk
+1783,1,skilled,1,none,yes,No Risk
+1784,2,management_self-employed,2,yes,yes,Risk
+1785,2,skilled,1,none,yes,Risk
+1786,2,skilled,1,none,yes,No Risk
+1787,1,skilled,1,none,yes,No Risk
+1788,2,skilled,1,yes,yes,No Risk
+1789,2,unskilled,1,none,yes,No Risk
+1790,1,unskilled,1,none,yes,No Risk
+1791,1,skilled,1,none,yes,No Risk
+1792,2,unskilled,2,yes,yes,Risk
+1793,1,management_self-employed,1,none,yes,No Risk
+1794,2,skilled,1,none,yes,No Risk
+1795,1,management_self-employed,1,none,yes,No Risk
+1796,1,unskilled,1,none,yes,No Risk
+1797,1,skilled,1,none,yes,No Risk
+1798,2,unskilled,1,yes,yes,Risk
+1799,2,management_self-employed,1,yes,yes,No Risk
+1800,2,unskilled,1,yes,yes,No Risk
+1801,1,skilled,1,none,yes,No Risk
+1802,2,skilled,1,none,no,No Risk
+1803,2,skilled,1,none,yes,Risk
+1804,2,management_self-employed,1,yes,yes,Risk
+1805,2,skilled,1,yes,yes,Risk
+1806,2,unskilled,2,yes,yes,Risk
+1807,1,management_self-employed,1,yes,yes,No Risk
+1808,2,unemployed,1,yes,yes,Risk
+1809,2,unemployed,2,yes,yes,Risk
+1810,1,skilled,1,none,yes,No Risk
+1811,1,skilled,1,none,yes,No Risk
+1812,2,skilled,1,none,yes,No Risk
+1813,1,management_self-employed,1,yes,yes,No Risk
+1814,2,skilled,1,yes,yes,No Risk
+1815,1,skilled,1,none,yes,No Risk
+1816,2,management_self-employed,1,yes,yes,No Risk
+1817,1,skilled,1,none,yes,No Risk
+1818,1,unskilled,1,none,yes,Risk
+1819,2,skilled,1,yes,yes,Risk
+1820,1,skilled,1,none,yes,Risk
+1821,1,skilled,1,none,yes,No Risk
+1822,3,skilled,2,yes,no,Risk
+1823,1,skilled,1,yes,yes,No Risk
+1824,2,skilled,1,none,yes,Risk
+1825,2,management_self-employed,2,none,yes,No Risk
+1826,1,skilled,1,yes,yes,Risk
+1827,2,skilled,1,none,yes,No Risk
+1828,2,skilled,1,yes,yes,Risk
+1829,1,skilled,1,none,yes,No Risk
+1830,1,skilled,1,yes,yes,No Risk
+1831,1,skilled,1,yes,yes,No Risk
+1832,1,skilled,1,none,yes,Risk
+1833,1,unskilled,1,none,yes,No Risk
+1834,1,management_self-employed,1,none,yes,No Risk
+1835,1,skilled,1,none,yes,No Risk
+1836,1,skilled,1,none,yes,No Risk
+1837,2,unskilled,2,yes,yes,Risk
+1838,3,skilled,1,yes,yes,Risk
+1839,1,unemployed,1,none,yes,No Risk
+1840,2,skilled,1,none,yes,No Risk
+1841,2,skilled,1,yes,yes,Risk
+1842,1,skilled,1,none,yes,No Risk
+1843,2,unskilled,2,yes,yes,No Risk
+1844,2,skilled,1,none,yes,No Risk
+1845,2,skilled,1,yes,yes,Risk
+1846,1,skilled,1,yes,yes,Risk
+1847,1,unskilled,1,none,yes,Risk
+1848,1,skilled,1,yes,yes,No Risk
+1849,1,unskilled,1,none,yes,No Risk
+1850,2,skilled,2,none,yes,Risk
+1851,1,skilled,1,yes,yes,No Risk
+1852,2,management_self-employed,1,yes,yes,Risk
+1853,2,skilled,1,none,yes,No Risk
+1854,1,skilled,1,none,yes,No Risk
+1855,2,skilled,1,none,yes,Risk
+1856,2,skilled,1,none,yes,No Risk
+1857,1,unskilled,1,none,yes,No Risk
+1858,1,unskilled,1,yes,yes,No Risk
+1859,1,skilled,1,yes,yes,No Risk
+1860,2,skilled,1,none,yes,No Risk
+1861,1,skilled,1,none,yes,No Risk
+1862,3,skilled,2,yes,yes,Risk
+1863,1,skilled,1,yes,yes,Risk
+1864,1,skilled,1,none,yes,No Risk
+1865,1,unskilled,2,yes,yes,No Risk
+1866,2,skilled,1,none,yes,Risk
+1867,3,skilled,2,yes,yes,Risk
+1868,1,skilled,2,yes,no,Risk
+1869,2,skilled,1,yes,yes,No Risk
+1870,1,skilled,1,none,yes,No Risk
+1871,2,skilled,1,none,yes,Risk
+1872,2,unskilled,2,yes,yes,Risk
+1873,1,skilled,2,yes,yes,No Risk
+1874,1,unskilled,1,yes,yes,Risk
+1875,2,skilled,1,none,yes,No Risk
+1876,2,management_self-employed,1,yes,yes,No Risk
+1877,1,management_self-employed,1,yes,yes,Risk
+1878,1,skilled,1,yes,yes,No Risk
+1879,2,unskilled,1,yes,yes,No Risk
+1880,2,unskilled,1,yes,yes,No Risk
+1881,1,skilled,1,yes,yes,Risk
+1882,1,skilled,1,none,yes,No Risk
+1883,1,skilled,1,none,yes,No Risk
+1884,2,skilled,2,yes,yes,No Risk
+1885,2,unskilled,1,yes,yes,No Risk
+1886,1,skilled,1,none,yes,No Risk
+1887,1,skilled,1,yes,yes,No Risk
+1888,2,skilled,1,none,yes,No Risk
+1889,2,unskilled,2,yes,yes,No Risk
+1890,2,management_self-employed,1,yes,yes,No Risk
+1891,1,unskilled,1,none,yes,No Risk
+1892,1,skilled,1,none,yes,No Risk
+1893,1,skilled,1,none,yes,No Risk
+1894,2,skilled,1,yes,yes,Risk
+1895,1,skilled,1,yes,yes,No Risk
+1896,2,skilled,1,none,yes,Risk
+1897,1,skilled,1,none,yes,Risk
+1898,1,skilled,1,none,yes,No Risk
+1899,2,skilled,2,yes,yes,Risk
+1900,2,skilled,1,none,yes,No Risk
+1901,1,skilled,1,none,yes,No Risk
+1902,2,unemployed,2,yes,yes,No Risk
+1903,1,skilled,2,none,yes,No Risk
+1904,2,skilled,2,yes,yes,Risk
+1905,1,skilled,1,none,yes,No Risk
+1906,1,skilled,1,yes,yes,Risk
+1907,1,unskilled,1,yes,yes,Risk
+1908,2,skilled,2,yes,yes,Risk
+1909,1,skilled,1,none,yes,No Risk
+1910,2,management_self-employed,2,none,yes,Risk
+1911,1,skilled,2,yes,yes,Risk
+1912,2,skilled,1,none,yes,No Risk
+1913,1,unemployed,1,yes,yes,Risk
+1914,1,unemployed,1,yes,yes,No Risk
+1915,1,skilled,1,none,yes,No Risk
+1916,2,skilled,2,yes,yes,Risk
+1917,1,skilled,1,none,yes,No Risk
+1918,3,management_self-employed,2,yes,yes,Risk
+1919,2,skilled,1,none,yes,Risk
+1920,2,unskilled,1,yes,yes,Risk
+1921,1,skilled,1,yes,yes,No Risk
+1922,1,unskilled,1,none,yes,No Risk
+1923,2,management_self-employed,2,yes,yes,Risk
+1924,2,unskilled,1,yes,yes,No Risk
+1925,1,skilled,1,none,yes,No Risk
+1926,2,skilled,1,yes,yes,Risk
+1927,1,skilled,1,none,yes,No Risk
+1928,1,skilled,1,none,yes,No Risk
+1929,1,unemployed,1,yes,yes,No Risk
+1930,2,skilled,1,none,yes,No Risk
+1931,1,skilled,1,yes,yes,No Risk
+1932,1,skilled,1,none,yes,Risk
+1933,2,skilled,1,none,yes,Risk
+1934,1,skilled,1,none,yes,Risk
+1935,1,unskilled,1,none,yes,No Risk
+1936,2,skilled,1,none,yes,Risk
+1937,2,skilled,1,yes,yes,Risk
+1938,1,skilled,1,none,yes,Risk
+1939,1,skilled,1,none,yes,No Risk
+1940,1,unskilled,1,none,yes,No Risk
+1941,1,management_self-employed,1,none,no,No Risk
+1942,1,skilled,1,yes,yes,Risk
+1943,1,skilled,2,none,yes,No Risk
+1944,2,unskilled,1,none,yes,No Risk
+1945,1,skilled,2,none,yes,No Risk
+1946,2,skilled,1,yes,yes,No Risk
+1947,2,unskilled,2,yes,yes,No Risk
+1948,2,skilled,1,none,yes,Risk
+1949,2,skilled,1,yes,yes,No Risk
+1950,1,unemployed,1,none,yes,No Risk
+1951,1,unskilled,1,none,yes,No Risk
+1952,1,skilled,1,none,yes,No Risk
+1953,1,management_self-employed,1,none,yes,No Risk
+1954,2,unskilled,1,yes,yes,No Risk
+1955,2,management_self-employed,1,none,yes,No Risk
+1956,2,management_self-employed,2,none,yes,Risk
+1957,1,skilled,1,yes,yes,No Risk
+1958,2,skilled,1,none,yes,No Risk
+1959,1,skilled,1,none,yes,Risk
+1960,2,skilled,1,none,yes,No Risk
+1961,2,skilled,1,none,yes,No Risk
+1962,3,skilled,2,yes,yes,Risk
+1963,1,unemployed,1,none,yes,No Risk
+1964,1,skilled,1,none,yes,No Risk
+1965,1,skilled,1,none,yes,No Risk
+1966,2,unskilled,1,yes,yes,No Risk
+1967,2,skilled,1,none,yes,No Risk
+1968,3,skilled,2,yes,yes,No Risk
+1969,1,unskilled,1,none,yes,No Risk
+1970,1,skilled,1,none,yes,No Risk
+1971,1,skilled,1,none,yes,No Risk
+1972,1,skilled,1,none,yes,Risk
+1973,1,skilled,1,none,yes,No Risk
+1974,1,skilled,1,yes,yes,Risk
+1975,1,unskilled,1,none,yes,Risk
+1976,1,skilled,2,yes,yes,No Risk
+1977,1,skilled,1,none,yes,Risk
+1978,1,skilled,1,none,yes,No Risk
+1979,2,skilled,1,none,yes,No Risk
+1980,2,skilled,2,yes,yes,Risk
+1981,1,skilled,1,yes,yes,Risk
+1982,2,unskilled,1,yes,yes,No Risk
+1983,1,skilled,1,none,yes,Risk
+1984,1,skilled,1,none,yes,No Risk
+1985,2,unemployed,1,none,yes,No Risk
+1986,1,skilled,1,none,yes,No Risk
+1987,1,skilled,1,none,yes,No Risk
+1988,2,skilled,2,yes,no,Risk
+1989,1,skilled,1,none,yes,Risk
+1990,1,skilled,1,none,yes,No Risk
+1991,1,unskilled,1,none,yes,No Risk
+1992,2,skilled,1,yes,yes,Risk
+1993,1,unskilled,1,none,yes,No Risk
+1994,1,unskilled,1,none,yes,No Risk
+1995,2,skilled,1,none,yes,No Risk
+1996,1,unskilled,1,yes,yes,No Risk
+1997,2,unemployed,1,yes,yes,Risk
+1998,2,skilled,1,yes,yes,Risk
+1999,2,skilled,2,yes,yes,Risk
+2000,1,unskilled,1,yes,yes,No Risk
+2001,2,skilled,1,none,yes,Risk
+2002,1,skilled,1,none,yes,No Risk
+2003,1,unskilled,1,none,yes,No Risk
+2004,1,skilled,1,yes,yes,Risk
+2005,1,skilled,1,none,yes,No Risk
+2006,1,skilled,1,none,yes,No Risk
+2007,2,skilled,1,yes,yes,Risk
+2008,2,skilled,2,yes,yes,Risk
+2009,2,skilled,2,yes,yes,Risk
+2010,1,unemployed,1,none,yes,Risk
+2011,1,management_self-employed,1,none,yes,No Risk
+2012,1,unskilled,1,none,yes,Risk
+2013,1,skilled,1,none,yes,No Risk
+2014,3,unskilled,2,yes,yes,Risk
+2015,1,management_self-employed,1,none,yes,No Risk
+2016,1,skilled,1,yes,yes,No Risk
+2017,1,skilled,1,none,yes,No Risk
+2018,2,skilled,2,yes,yes,Risk
+2019,1,skilled,1,yes,yes,No Risk
+2020,1,skilled,1,none,yes,No Risk
+2021,1,unemployed,1,none,yes,No Risk
+2022,1,unskilled,1,none,yes,No Risk
+2023,2,management_self-employed,1,none,yes,No Risk
+2024,2,management_self-employed,1,yes,yes,Risk
+2025,1,skilled,1,none,yes,No Risk
+2026,2,skilled,2,yes,yes,Risk
+2027,1,skilled,2,none,yes,No Risk
+2028,2,skilled,1,yes,yes,Risk
+2029,2,skilled,1,yes,yes,Risk
+2030,1,skilled,1,none,yes,No Risk
+2031,1,skilled,1,none,yes,No Risk
+2032,1,skilled,1,none,yes,No Risk
+2033,1,skilled,1,none,yes,Risk
+2034,1,skilled,1,none,yes,No Risk
+2035,2,skilled,2,yes,yes,Risk
+2036,1,skilled,1,none,yes,No Risk
+2037,1,skilled,1,none,yes,No Risk
+2038,2,skilled,1,yes,yes,Risk
+2039,1,skilled,1,none,yes,No Risk
+2040,1,management_self-employed,1,yes,yes,No Risk
+2041,1,unskilled,1,none,yes,No Risk
+2042,2,unskilled,2,yes,yes,No Risk
+2043,2,skilled,2,yes,yes,Risk
+2044,3,skilled,2,yes,yes,No Risk
+2045,1,skilled,1,none,yes,No Risk
+2046,2,skilled,1,yes,yes,Risk
+2047,1,skilled,1,none,yes,No Risk
+2048,2,management_self-employed,2,yes,yes,No Risk
+2049,1,unemployed,2,yes,yes,No Risk
+2050,1,skilled,1,none,yes,No Risk
+2051,1,skilled,1,none,yes,No Risk
+2052,2,skilled,1,yes,yes,Risk
+2053,1,management_self-employed,1,none,yes,Risk
+2054,2,management_self-employed,1,yes,yes,No Risk
+2055,1,unemployed,1,none,yes,No Risk
+2056,2,skilled,1,yes,yes,Risk
+2057,1,skilled,1,none,yes,No Risk
+2058,2,skilled,1,yes,yes,No Risk
+2059,1,skilled,1,none,yes,No Risk
+2060,1,unskilled,1,yes,yes,No Risk
+2061,1,skilled,1,none,yes,No Risk
+2062,3,unskilled,2,yes,yes,Risk
+2063,1,skilled,1,none,yes,No Risk
+2064,3,skilled,1,yes,yes,No Risk
+2065,1,skilled,1,none,yes,No Risk
+2066,2,skilled,1,none,yes,Risk
+2067,2,management_self-employed,2,none,yes,Risk
+2068,2,skilled,1,none,yes,No Risk
+2069,1,skilled,1,none,yes,No Risk
+2070,2,skilled,1,yes,yes,Risk
+2071,1,skilled,1,none,yes,No Risk
+2072,1,management_self-employed,1,none,yes,Risk
+2073,1,skilled,1,none,yes,No Risk
+2074,2,skilled,1,yes,yes,No Risk
+2075,2,skilled,1,none,yes,No Risk
+2076,3,unskilled,1,yes,yes,Risk
+2077,2,skilled,2,yes,yes,No Risk
+2078,2,skilled,1,none,yes,No Risk
+2079,1,skilled,1,none,yes,No Risk
+2080,1,unskilled,1,yes,yes,No Risk
+2081,1,skilled,1,yes,yes,No Risk
+2082,2,skilled,1,yes,yes,No Risk
+2083,1,skilled,1,none,yes,No Risk
+2084,1,skilled,1,none,yes,Risk
+2085,1,skilled,1,none,yes,No Risk
+2086,1,skilled,1,yes,yes,No Risk
+2087,1,skilled,1,none,yes,Risk
+2088,2,unskilled,1,yes,yes,Risk
+2089,1,skilled,1,yes,yes,No Risk
+2090,1,skilled,1,none,yes,No Risk
+2091,1,skilled,1,yes,yes,No Risk
+2092,2,skilled,1,yes,yes,Risk
+2093,1,skilled,1,none,yes,No Risk
+2094,2,management_self-employed,2,yes,yes,Risk
+2095,1,skilled,1,yes,yes,No Risk
+2096,1,skilled,1,none,yes,No Risk
+2097,1,skilled,1,none,yes,No Risk
+2098,1,unskilled,2,yes,yes,No Risk
+2099,1,skilled,1,none,yes,No Risk
+2100,2,management_self-employed,1,yes,yes,Risk
+2101,1,skilled,1,none,yes,Risk
+2102,2,unemployed,1,yes,yes,No Risk
+2103,1,skilled,1,none,yes,No Risk
+2104,2,unskilled,1,yes,yes,Risk
+2105,1,skilled,1,none,yes,No Risk
+2106,1,skilled,1,yes,yes,No Risk
+2107,1,skilled,1,yes,yes,Risk
+2108,3,skilled,1,none,yes,Risk
+2109,1,unskilled,1,none,yes,No Risk
+2110,2,skilled,1,yes,yes,Risk
+2111,1,unskilled,1,yes,yes,No Risk
+2112,1,skilled,1,none,yes,No Risk
+2113,1,skilled,1,none,yes,No Risk
+2114,1,skilled,2,none,yes,Risk
+2115,3,skilled,2,yes,yes,Risk
+2116,1,skilled,1,none,yes,No Risk
+2117,1,management_self-employed,2,none,yes,No Risk
+2118,1,skilled,1,none,yes,Risk
+2119,1,skilled,1,none,yes,No Risk
+2120,2,management_self-employed,1,none,yes,No Risk
+2121,1,skilled,1,none,yes,No Risk
+2122,1,unskilled,1,yes,yes,No Risk
+2123,1,skilled,1,none,yes,No Risk
+2124,2,unskilled,1,yes,yes,Risk
+2125,2,unskilled,2,yes,yes,Risk
+2126,2,skilled,2,yes,yes,No Risk
+2127,1,skilled,1,yes,yes,No Risk
+2128,1,skilled,1,none,yes,No Risk
+2129,3,skilled,2,yes,yes,Risk
+2130,2,skilled,1,yes,yes,Risk
+2131,1,management_self-employed,1,none,yes,No Risk
+2132,2,skilled,1,yes,yes,Risk
+2133,1,management_self-employed,1,none,yes,No Risk
+2134,1,skilled,1,none,yes,No Risk
+2135,1,skilled,1,none,yes,No Risk
+2136,2,skilled,1,none,yes,Risk
+2137,1,skilled,1,none,yes,No Risk
+2138,1,unemployed,1,none,yes,No Risk
+2139,2,management_self-employed,1,yes,yes,Risk
+2140,2,unskilled,1,none,yes,No Risk
+2141,2,skilled,1,yes,yes,Risk
+2142,3,skilled,1,yes,yes,Risk
+2143,1,skilled,1,none,yes,No Risk
+2144,2,skilled,1,none,yes,Risk
+2145,1,skilled,1,yes,yes,No Risk
+2146,2,management_self-employed,1,yes,yes,Risk
+2147,1,unemployed,1,none,yes,No Risk
+2148,2,skilled,1,none,no,No Risk
+2149,2,skilled,1,none,yes,No Risk
+2150,1,skilled,1,yes,yes,Risk
+2151,2,skilled,1,none,yes,No Risk
+2152,2,skilled,1,none,yes,No Risk
+2153,1,unskilled,1,none,yes,No Risk
+2154,2,skilled,1,none,yes,Risk
+2155,1,skilled,1,none,yes,Risk
+2156,2,skilled,1,none,yes,No Risk
+2157,1,skilled,1,none,yes,No Risk
+2158,1,skilled,1,none,yes,No Risk
+2159,1,skilled,1,yes,yes,No Risk
+2160,1,skilled,1,none,yes,No Risk
+2161,2,skilled,1,none,yes,No Risk
+2162,1,skilled,1,none,yes,No Risk
+2163,1,skilled,1,none,yes,Risk
+2164,2,skilled,1,yes,yes,Risk
+2165,1,skilled,1,none,yes,No Risk
+2166,2,skilled,1,none,yes,Risk
+2167,2,management_self-employed,1,yes,yes,No Risk
+2168,2,skilled,1,none,yes,Risk
+2169,1,skilled,2,yes,yes,No Risk
+2170,1,unskilled,1,none,yes,Risk
+2171,1,skilled,1,none,yes,No Risk
+2172,2,skilled,1,none,yes,Risk
+2173,1,skilled,1,yes,yes,No Risk
+2174,2,skilled,2,none,yes,No Risk
+2175,1,skilled,1,yes,yes,No Risk
+2176,1,unskilled,1,none,yes,No Risk
+2177,1,management_self-employed,1,none,yes,Risk
+2178,1,skilled,1,yes,yes,No Risk
+2179,2,skilled,1,yes,yes,Risk
+2180,2,skilled,2,yes,yes,Risk
+2181,1,unemployed,1,none,yes,No Risk
+2182,2,skilled,1,yes,yes,Risk
+2183,2,skilled,1,yes,yes,Risk
+2184,1,skilled,1,yes,yes,No Risk
+2185,2,management_self-employed,1,none,yes,No Risk
+2186,1,skilled,1,none,yes,No Risk
+2187,1,management_self-employed,2,none,yes,No Risk
+2188,2,management_self-employed,2,yes,yes,Risk
+2189,2,skilled,1,yes,yes,Risk
+2190,2,skilled,1,none,yes,Risk
+2191,1,unskilled,1,none,yes,No Risk
+2192,2,skilled,1,yes,yes,Risk
+2193,1,unskilled,1,yes,yes,No Risk
+2194,1,skilled,1,yes,yes,Risk
+2195,1,skilled,1,none,yes,No Risk
+2196,1,skilled,1,none,yes,Risk
+2197,1,skilled,1,none,yes,No Risk
+2198,2,skilled,1,none,yes,Risk
+2199,1,skilled,1,none,yes,No Risk
+2200,2,management_self-employed,2,yes,yes,Risk
+2201,2,skilled,1,yes,yes,No Risk
+2202,2,skilled,1,none,yes,Risk
+2203,1,skilled,1,none,yes,No Risk
+2204,3,skilled,2,yes,yes,Risk
+2205,1,management_self-employed,1,yes,yes,No Risk
+2206,2,skilled,2,yes,yes,No Risk
+2207,1,skilled,1,yes,yes,No Risk
+2208,1,skilled,1,none,yes,No Risk
+2209,1,skilled,1,none,yes,No Risk
+2210,1,skilled,1,none,yes,Risk
+2211,1,skilled,1,none,yes,Risk
+2212,2,skilled,2,yes,yes,Risk
+2213,2,skilled,1,none,yes,No Risk
+2214,2,skilled,2,yes,yes,Risk
+2215,1,unskilled,1,none,yes,No Risk
+2216,2,skilled,2,yes,yes,Risk
+2217,1,skilled,1,yes,yes,No Risk
+2218,2,skilled,2,yes,yes,No Risk
+2219,2,skilled,1,yes,yes,Risk
+2220,1,skilled,1,none,yes,No Risk
+2221,2,skilled,1,none,yes,No Risk
+2222,2,management_self-employed,2,yes,yes,No Risk
+2223,1,skilled,1,none,yes,No Risk
+2224,1,skilled,1,none,yes,No Risk
+2225,2,skilled,1,none,yes,No Risk
+2226,2,skilled,2,yes,yes,Risk
+2227,1,skilled,1,none,yes,No Risk
+2228,1,skilled,1,none,yes,No Risk
+2229,1,skilled,1,none,yes,No Risk
+2230,2,unemployed,1,yes,yes,No Risk
+2231,1,management_self-employed,2,none,yes,No Risk
+2232,1,skilled,1,none,yes,No Risk
+2233,1,unemployed,1,none,yes,Risk
+2234,1,skilled,1,none,yes,No Risk
+2235,1,skilled,1,none,yes,No Risk
+2236,1,skilled,1,none,yes,Risk
+2237,1,unemployed,1,yes,yes,No Risk
+2238,2,skilled,2,yes,yes,Risk
+2239,1,unemployed,1,none,yes,No Risk
+2240,2,skilled,1,none,yes,Risk
+2241,2,skilled,1,yes,yes,No Risk
+2242,1,management_self-employed,2,yes,yes,Risk
+2243,1,skilled,1,none,yes,No Risk
+2244,2,skilled,1,yes,yes,Risk
+2245,2,skilled,1,none,yes,No Risk
+2246,2,skilled,1,yes,yes,No Risk
+2247,1,unskilled,1,none,yes,No Risk
+2248,1,unskilled,1,none,yes,No Risk
+2249,2,skilled,1,yes,yes,No Risk
+2250,1,skilled,1,none,yes,No Risk
+2251,1,skilled,1,none,yes,No Risk
+2252,1,skilled,1,none,yes,No Risk
+2253,1,skilled,1,none,yes,No Risk
+2254,1,skilled,1,none,yes,No Risk
+2255,1,unskilled,1,yes,yes,No Risk
+2256,2,skilled,1,none,yes,No Risk
+2257,2,skilled,1,yes,yes,No Risk
+2258,1,skilled,1,none,yes,No Risk
+2259,1,skilled,1,none,yes,No Risk
+2260,1,management_self-employed,1,none,yes,No Risk
+2261,1,management_self-employed,2,yes,yes,Risk
+2262,1,skilled,1,yes,yes,No Risk
+2263,1,skilled,1,none,yes,No Risk
+2264,2,unemployed,2,yes,yes,Risk
+2265,1,skilled,1,none,yes,No Risk
+2266,2,management_self-employed,2,yes,yes,Risk
+2267,1,unskilled,1,none,yes,No Risk
+2268,1,skilled,1,none,yes,No Risk
+2269,1,skilled,1,none,yes,No Risk
+2270,1,management_self-employed,1,yes,yes,Risk
+2271,2,skilled,1,none,yes,Risk
+2272,1,skilled,2,yes,yes,No Risk
+2273,1,skilled,1,none,yes,No Risk
+2274,1,skilled,1,none,yes,No Risk
+2275,1,management_self-employed,1,none,yes,No Risk
+2276,1,unskilled,1,none,yes,Risk
+2277,1,skilled,1,none,yes,No Risk
+2278,1,skilled,1,none,yes,No Risk
+2279,1,unemployed,1,none,yes,No Risk
+2280,1,skilled,1,yes,yes,No Risk
+2281,1,skilled,1,none,yes,No Risk
+2282,2,unemployed,1,none,yes,No Risk
+2283,2,skilled,1,none,yes,No Risk
+2284,1,skilled,1,none,yes,No Risk
+2285,1,skilled,1,none,yes,No Risk
+2286,2,unskilled,2,yes,yes,Risk
+2287,1,skilled,1,none,yes,No Risk
+2288,1,skilled,1,yes,yes,No Risk
+2289,1,unskilled,1,yes,yes,No Risk
+2290,2,skilled,1,yes,yes,Risk
+2291,2,skilled,1,yes,yes,Risk
+2292,1,skilled,1,none,yes,No Risk
+2293,2,management_self-employed,1,none,yes,No Risk
+2294,1,management_self-employed,1,none,yes,No Risk
+2295,1,skilled,1,yes,yes,No Risk
+2296,2,skilled,2,yes,yes,Risk
+2297,2,skilled,1,none,yes,Risk
+2298,1,skilled,1,none,yes,No Risk
+2299,1,management_self-employed,1,none,yes,No Risk
+2300,1,management_self-employed,1,none,yes,No Risk
+2301,2,skilled,1,yes,yes,Risk
+2302,1,skilled,1,none,yes,No Risk
+2303,1,skilled,1,none,yes,No Risk
+2304,1,unemployed,1,none,yes,No Risk
+2305,1,skilled,2,yes,yes,No Risk
+2306,2,skilled,1,none,yes,Risk
+2307,1,skilled,1,yes,yes,No Risk
+2308,1,skilled,1,none,yes,Risk
+2309,1,unemployed,1,none,yes,No Risk
+2310,2,skilled,2,yes,yes,Risk
+2311,1,unskilled,1,yes,yes,Risk
+2312,1,skilled,1,none,yes,Risk
+2313,1,skilled,1,yes,yes,Risk
+2314,2,unskilled,1,yes,yes,No Risk
+2315,1,unskilled,2,yes,yes,No Risk
+2316,1,skilled,1,yes,yes,Risk
+2317,1,skilled,1,none,yes,No Risk
+2318,3,management_self-employed,2,yes,yes,No Risk
+2319,1,management_self-employed,1,none,yes,No Risk
+2320,2,unskilled,1,yes,yes,No Risk
+2321,2,skilled,1,none,yes,No Risk
+2322,1,unskilled,1,none,yes,No Risk
+2323,1,skilled,1,none,yes,No Risk
+2324,2,unskilled,1,yes,yes,No Risk
+2325,3,skilled,2,yes,yes,Risk
+2326,2,skilled,1,yes,no,No Risk
+2327,1,unemployed,1,yes,yes,No Risk
+2328,2,management_self-employed,2,yes,yes,No Risk
+2329,1,unemployed,1,none,yes,No Risk
+2330,2,management_self-employed,1,yes,yes,Risk
+2331,2,management_self-employed,1,none,yes,Risk
+2332,1,skilled,1,none,yes,No Risk
+2333,2,skilled,1,none,yes,Risk
+2334,2,skilled,2,yes,yes,No Risk
+2335,1,unskilled,1,none,yes,No Risk
+2336,2,skilled,1,yes,yes,No Risk
+2337,1,skilled,1,yes,yes,Risk
+2338,2,management_self-employed,1,none,yes,No Risk
+2339,2,skilled,1,none,yes,No Risk
+2340,1,skilled,1,none,yes,Risk
+2341,1,skilled,1,yes,yes,Risk
+2342,1,skilled,1,yes,yes,No Risk
+2343,1,skilled,1,none,yes,No Risk
+2344,2,unskilled,1,none,yes,No Risk
+2345,1,unemployed,1,none,yes,No Risk
+2346,2,skilled,1,none,yes,Risk
+2347,1,skilled,1,yes,yes,No Risk
+2348,2,skilled,1,none,yes,No Risk
+2349,2,management_self-employed,2,yes,yes,Risk
+2350,2,skilled,2,yes,yes,No Risk
+2351,1,unskilled,1,none,yes,No Risk
+2352,2,skilled,1,none,no,Risk
+2353,1,skilled,1,none,yes,No Risk
+2354,1,unskilled,1,none,yes,No Risk
+2355,1,skilled,1,none,yes,No Risk
+2356,2,skilled,2,yes,yes,No Risk
+2357,1,skilled,1,none,yes,No Risk
+2358,2,skilled,1,none,yes,No Risk
+2359,2,unskilled,1,yes,yes,No Risk
+2360,2,skilled,1,yes,yes,Risk
+2361,2,skilled,1,none,yes,No Risk
+2362,1,skilled,1,none,yes,No Risk
+2363,1,unemployed,1,yes,yes,No Risk
+2364,2,management_self-employed,1,yes,yes,Risk
+2365,1,skilled,1,yes,yes,No Risk
+2366,2,skilled,1,yes,yes,Risk
+2367,1,skilled,1,none,yes,No Risk
+2368,1,skilled,1,none,yes,No Risk
+2369,1,skilled,1,none,yes,No Risk
+2370,2,skilled,1,none,yes,No Risk
+2371,2,unskilled,1,yes,yes,No Risk
+2372,2,skilled,1,yes,yes,Risk
+2373,1,skilled,1,yes,yes,Risk
+2374,1,unskilled,1,none,yes,No Risk
+2375,2,management_self-employed,1,none,yes,Risk
+2376,2,skilled,1,yes,yes,Risk
+2377,1,skilled,1,none,yes,No Risk
+2378,1,management_self-employed,1,none,yes,No Risk
+2379,1,unemployed,1,none,yes,No Risk
+2380,3,skilled,2,yes,yes,Risk
+2381,1,skilled,1,none,yes,No Risk
+2382,2,skilled,1,none,yes,No Risk
+2383,2,skilled,2,yes,yes,Risk
+2384,2,skilled,2,none,yes,No Risk
+2385,1,unskilled,1,none,yes,Risk
+2386,1,unskilled,1,none,yes,No Risk
+2387,1,skilled,1,yes,yes,No Risk
+2388,1,skilled,1,none,yes,No Risk
+2389,1,management_self-employed,1,none,yes,No Risk
+2390,1,skilled,1,none,yes,No Risk
+2391,2,management_self-employed,1,none,yes,Risk
+2392,1,management_self-employed,1,none,yes,No Risk
+2393,1,skilled,2,yes,yes,No Risk
+2394,2,unskilled,1,yes,yes,No Risk
+2395,3,management_self-employed,2,yes,yes,No Risk
+2396,2,skilled,1,yes,yes,Risk
+2397,1,skilled,1,none,yes,Risk
+2398,1,unemployed,1,none,yes,No Risk
+2399,2,skilled,1,none,yes,Risk
+2400,1,skilled,1,none,yes,No Risk
+2401,1,skilled,1,none,yes,No Risk
+2402,1,skilled,1,none,yes,No Risk
+2403,1,unemployed,1,none,yes,No Risk
+2404,1,skilled,1,none,yes,No Risk
+2405,1,skilled,1,none,yes,No Risk
+2406,1,skilled,1,none,yes,No Risk
+2407,1,unemployed,1,yes,yes,No Risk
+2408,1,management_self-employed,1,yes,yes,Risk
+2409,1,management_self-employed,1,none,yes,No Risk
+2410,2,skilled,1,yes,yes,Risk
+2411,1,skilled,1,none,yes,No Risk
+2412,1,unemployed,1,none,yes,Risk
+2413,1,management_self-employed,1,none,yes,No Risk
+2414,1,management_self-employed,1,none,yes,No Risk
+2415,1,skilled,1,yes,yes,No Risk
+2416,2,skilled,1,yes,yes,Risk
+2417,1,unemployed,1,yes,yes,Risk
+2418,1,skilled,1,none,yes,No Risk
+2419,2,skilled,1,yes,yes,No Risk
+2420,2,skilled,1,yes,yes,Risk
+2421,2,management_self-employed,1,none,yes,Risk
+2422,2,skilled,1,none,yes,No Risk
+2423,2,skilled,1,none,yes,Risk
+2424,2,skilled,1,yes,yes,Risk
+2425,2,unskilled,1,yes,yes,Risk
+2426,2,skilled,1,none,yes,Risk
+2427,1,skilled,1,yes,yes,Risk
+2428,2,unemployed,1,none,yes,No Risk
+2429,2,skilled,2,none,yes,No Risk
+2430,1,skilled,1,none,yes,No Risk
+2431,3,skilled,2,yes,yes,Risk
+2432,2,skilled,1,yes,yes,Risk
+2433,1,skilled,1,none,yes,No Risk
+2434,1,skilled,1,none,yes,No Risk
+2435,2,skilled,1,yes,yes,No Risk
+2436,2,skilled,1,none,yes,Risk
+2437,1,skilled,1,none,yes,No Risk
+2438,1,skilled,1,none,yes,Risk
+2439,1,skilled,1,none,yes,No Risk
+2440,2,unskilled,2,yes,yes,Risk
+2441,1,skilled,1,none,yes,No Risk
+2442,2,skilled,2,yes,yes,No Risk
+2443,2,skilled,1,none,yes,No Risk
+2444,2,skilled,2,yes,yes,Risk
+2445,1,skilled,1,none,yes,No Risk
+2446,2,skilled,1,yes,yes,Risk
+2447,1,unskilled,1,none,yes,No Risk
+2448,2,skilled,1,none,yes,No Risk
+2449,1,skilled,1,yes,yes,Risk
+2450,1,unskilled,1,none,yes,No Risk
+2451,2,skilled,1,none,yes,No Risk
+2452,1,unemployed,1,none,yes,No Risk
+2453,1,skilled,1,none,yes,No Risk
+2454,2,unskilled,1,yes,yes,No Risk
+2455,1,skilled,1,none,yes,No Risk
+2456,1,skilled,1,none,yes,Risk
+2457,2,skilled,2,yes,no,Risk
+2458,2,skilled,1,none,yes,Risk
+2459,1,unskilled,1,none,yes,No Risk
+2460,2,management_self-employed,1,yes,yes,Risk
+2461,1,skilled,1,none,yes,No Risk
+2462,1,unskilled,1,none,yes,No Risk
+2463,1,skilled,1,none,yes,No Risk
+2464,2,skilled,1,none,yes,Risk
+2465,1,unskilled,1,none,yes,No Risk
+2466,2,management_self-employed,1,yes,yes,No Risk
+2467,1,skilled,1,yes,yes,No Risk
+2468,2,unskilled,2,yes,yes,Risk
+2469,2,skilled,1,yes,yes,No Risk
+2470,2,skilled,1,yes,yes,No Risk
+2471,2,unskilled,1,yes,yes,No Risk
+2472,2,management_self-employed,1,none,yes,Risk
+2473,1,unskilled,1,none,yes,No Risk
+2474,1,unskilled,1,none,yes,Risk
+2475,1,management_self-employed,1,none,yes,No Risk
+2476,2,skilled,2,yes,yes,No Risk
+2477,2,unskilled,2,none,yes,No Risk
+2478,2,skilled,1,none,yes,No Risk
+2479,1,skilled,1,yes,yes,Risk
+2480,1,skilled,1,none,yes,No Risk
+2481,2,skilled,1,none,yes,No Risk
+2482,2,skilled,1,none,yes,Risk
+2483,3,skilled,1,yes,yes,Risk
+2484,2,management_self-employed,1,none,yes,No Risk
+2485,2,skilled,1,none,yes,Risk
+2486,1,skilled,1,none,no,No Risk
+2487,1,skilled,1,none,yes,Risk
+2488,1,skilled,1,none,yes,No Risk
+2489,1,skilled,1,none,yes,No Risk
+2490,2,skilled,2,yes,yes,Risk
+2491,1,skilled,1,yes,yes,No Risk
+2492,1,skilled,1,none,yes,No Risk
+2493,3,skilled,2,yes,yes,Risk
+2494,2,skilled,1,none,yes,No Risk
+2495,1,skilled,1,none,yes,No Risk
+2496,2,skilled,2,yes,yes,Risk
+2497,2,management_self-employed,1,none,yes,No Risk
+2498,1,skilled,1,none,yes,No Risk
+2499,1,unskilled,1,yes,yes,No Risk
+2500,3,management_self-employed,2,yes,yes,Risk
+2501,2,management_self-employed,1,none,yes,No Risk
+2502,1,skilled,1,none,yes,No Risk
+2503,1,skilled,1,none,yes,No Risk
+2504,2,skilled,2,yes,yes,Risk
+2505,1,unskilled,1,none,yes,No Risk
+2506,2,skilled,1,yes,yes,Risk
+2507,1,skilled,1,none,yes,Risk
+2508,2,unskilled,1,yes,yes,Risk
+2509,1,unskilled,1,none,yes,No Risk
+2510,1,skilled,1,none,yes,No Risk
+2511,1,skilled,1,none,yes,No Risk
+2512,2,skilled,1,none,yes,Risk
+2513,1,skilled,1,none,yes,No Risk
+2514,1,skilled,1,none,yes,No Risk
+2515,2,skilled,1,yes,yes,No Risk
+2516,2,management_self-employed,2,yes,yes,No Risk
+2517,1,management_self-employed,1,none,yes,No Risk
+2518,1,unskilled,1,none,yes,No Risk
+2519,2,skilled,2,yes,yes,Risk
+2520,2,management_self-employed,2,yes,no,Risk
+2521,1,unemployed,1,none,yes,No Risk
+2522,1,skilled,1,none,yes,No Risk
+2523,1,skilled,1,none,yes,No Risk
+2524,1,unemployed,1,none,yes,No Risk
+2525,1,unskilled,1,none,yes,No Risk
+2526,2,management_self-employed,2,yes,yes,No Risk
+2527,1,skilled,1,none,yes,No Risk
+2528,1,skilled,1,yes,yes,No Risk
+2529,1,skilled,1,none,yes,No Risk
+2530,2,skilled,1,yes,yes,Risk
+2531,2,unskilled,1,yes,yes,No Risk
+2532,1,skilled,1,none,yes,No Risk
+2533,1,skilled,1,none,yes,Risk
+2534,1,skilled,1,yes,yes,No Risk
+2535,1,skilled,2,yes,yes,No Risk
+2536,2,skilled,1,none,yes,No Risk
+2537,1,skilled,1,none,yes,Risk
+2538,2,unskilled,1,yes,yes,No Risk
+2539,2,skilled,1,none,yes,No Risk
+2540,2,skilled,1,yes,yes,Risk
+2541,1,skilled,1,none,yes,No Risk
+2542,2,skilled,1,none,yes,No Risk
+2543,2,skilled,1,none,yes,No Risk
+2544,2,skilled,1,none,yes,No Risk
+2545,2,unemployed,1,yes,yes,No Risk
+2546,2,skilled,1,yes,yes,Risk
+2547,1,skilled,1,none,yes,No Risk
+2548,2,skilled,1,none,yes,Risk
+2549,1,unemployed,1,yes,yes,No Risk
+2550,2,skilled,2,yes,yes,Risk
+2551,1,skilled,1,none,yes,No Risk
+2552,1,skilled,1,none,yes,No Risk
+2553,1,management_self-employed,1,yes,yes,No Risk
+2554,2,skilled,1,yes,yes,No Risk
+2555,1,skilled,1,none,yes,No Risk
+2556,2,skilled,1,none,yes,No Risk
+2557,1,skilled,1,yes,yes,No Risk
+2558,2,skilled,1,yes,yes,No Risk
+2559,2,skilled,2,yes,yes,Risk
+2560,1,skilled,1,yes,yes,No Risk
+2561,2,skilled,1,none,yes,Risk
+2562,1,unemployed,2,none,yes,No Risk
+2563,2,management_self-employed,1,none,yes,No Risk
+2564,3,skilled,1,yes,yes,Risk
+2565,1,management_self-employed,1,none,yes,No Risk
+2566,2,skilled,1,none,yes,Risk
+2567,1,skilled,1,none,yes,No Risk
+2568,2,skilled,1,none,yes,No Risk
+2569,1,skilled,1,none,yes,Risk
+2570,2,skilled,1,none,yes,No Risk
+2571,1,unemployed,1,none,yes,No Risk
+2572,2,unskilled,1,yes,yes,Risk
+2573,1,skilled,1,none,yes,Risk
+2574,1,unemployed,1,yes,yes,No Risk
+2575,2,management_self-employed,1,none,yes,No Risk
+2576,2,skilled,2,yes,yes,No Risk
+2577,1,skilled,1,none,yes,No Risk
+2578,2,skilled,1,none,yes,Risk
+2579,1,skilled,1,yes,yes,Risk
+2580,1,skilled,1,none,yes,Risk
+2581,2,skilled,2,none,yes,No Risk
+2582,2,skilled,2,none,yes,Risk
+2583,2,unemployed,1,yes,yes,Risk
+2584,2,skilled,1,yes,yes,Risk
+2585,2,management_self-employed,1,yes,yes,No Risk
+2586,3,skilled,1,yes,yes,Risk
+2587,1,skilled,1,none,yes,No Risk
+2588,2,skilled,2,yes,yes,Risk
+2589,1,skilled,1,none,yes,No Risk
+2590,1,skilled,1,yes,yes,No Risk
+2591,2,skilled,1,none,yes,No Risk
+2592,1,management_self-employed,1,none,yes,No Risk
+2593,2,skilled,1,yes,yes,No Risk
+2594,2,unskilled,1,yes,yes,No Risk
+2595,1,skilled,1,none,yes,No Risk
+2596,2,skilled,1,none,yes,Risk
+2597,1,skilled,1,none,yes,Risk
+2598,2,skilled,1,yes,yes,No Risk
+2599,1,skilled,1,none,yes,No Risk
+2600,1,skilled,1,none,yes,No Risk
+2601,2,skilled,1,none,yes,Risk
+2602,2,skilled,2,yes,yes,Risk
+2603,1,unskilled,2,none,yes,No Risk
+2604,2,skilled,1,none,yes,No Risk
+2605,1,unskilled,1,yes,yes,No Risk
+2606,1,management_self-employed,1,none,yes,No Risk
+2607,2,skilled,1,yes,yes,No Risk
+2608,2,skilled,1,none,yes,Risk
+2609,2,management_self-employed,2,yes,yes,Risk
+2610,3,unskilled,2,yes,yes,No Risk
+2611,1,skilled,1,none,yes,No Risk
+2612,2,skilled,1,none,yes,Risk
+2613,1,unemployed,1,none,yes,No Risk
+2614,2,skilled,2,yes,yes,Risk
+2615,2,skilled,1,yes,yes,No Risk
+2616,2,unskilled,1,yes,yes,No Risk
+2617,2,skilled,2,yes,yes,No Risk
+2618,1,skilled,1,none,yes,No Risk
+2619,2,management_self-employed,1,yes,yes,Risk
+2620,1,skilled,1,none,yes,Risk
+2621,1,unskilled,1,none,yes,No Risk
+2622,1,skilled,2,yes,yes,No Risk
+2623,1,unskilled,1,none,yes,No Risk
+2624,3,unskilled,2,yes,yes,Risk
+2625,1,skilled,1,yes,yes,Risk
+2626,2,skilled,1,yes,yes,Risk
+2627,3,skilled,2,yes,yes,Risk
+2628,1,skilled,2,none,yes,No Risk
+2629,1,skilled,1,none,yes,No Risk
+2630,2,skilled,2,yes,yes,Risk
+2631,1,unskilled,1,none,yes,No Risk
+2632,1,skilled,1,none,yes,No Risk
+2633,2,skilled,1,none,yes,No Risk
+2634,2,skilled,1,yes,yes,No Risk
+2635,2,skilled,1,none,yes,No Risk
+2636,1,skilled,1,yes,yes,No Risk
+2637,2,skilled,1,none,yes,Risk
+2638,2,management_self-employed,1,yes,yes,No Risk
+2639,1,skilled,1,none,yes,No Risk
+2640,2,skilled,1,none,yes,No Risk
+2641,1,unemployed,1,none,yes,No Risk
+2642,1,skilled,1,yes,yes,No Risk
+2643,1,skilled,1,none,yes,No Risk
+2644,2,unskilled,1,yes,yes,No Risk
+2645,2,skilled,1,none,yes,No Risk
+2646,1,skilled,1,none,yes,No Risk
+2647,1,unskilled,1,none,yes,No Risk
+2648,1,skilled,1,none,yes,No Risk
+2649,2,skilled,1,none,yes,No Risk
+2650,2,skilled,1,none,yes,No Risk
+2651,1,unskilled,1,none,yes,No Risk
+2652,2,skilled,1,yes,yes,Risk
+2653,1,skilled,1,none,yes,No Risk
+2654,1,unemployed,1,none,yes,No Risk
+2655,1,skilled,1,none,yes,No Risk
+2656,2,skilled,1,yes,yes,Risk
+2657,1,skilled,1,none,yes,No Risk
+2658,1,skilled,2,yes,yes,No Risk
+2659,1,management_self-employed,1,none,yes,No Risk
+2660,2,unskilled,1,none,yes,No Risk
+2661,2,unemployed,1,none,yes,No Risk
+2662,2,skilled,1,none,yes,Risk
+2663,2,unskilled,1,none,yes,No Risk
+2664,1,skilled,1,none,yes,No Risk
+2665,1,skilled,1,yes,yes,Risk
+2666,2,unemployed,1,yes,yes,No Risk
+2667,1,skilled,1,none,yes,No Risk
+2668,2,skilled,2,yes,yes,Risk
+2669,1,skilled,2,none,yes,No Risk
+2670,2,skilled,1,yes,yes,Risk
+2671,1,unemployed,1,yes,yes,Risk
+2672,2,skilled,1,yes,yes,No Risk
+2673,1,unskilled,1,none,yes,No Risk
+2674,3,unskilled,2,yes,yes,No Risk
+2675,2,skilled,2,none,yes,No Risk
+2676,2,skilled,1,yes,yes,No Risk
+2677,2,skilled,1,yes,yes,Risk
+2678,2,skilled,1,none,no,No Risk
+2679,2,skilled,1,yes,yes,Risk
+2680,1,unemployed,1,none,no,No Risk
+2681,1,skilled,2,yes,yes,Risk
+2682,2,unskilled,1,none,yes,Risk
+2683,1,unskilled,1,none,yes,No Risk
+2684,1,unskilled,1,yes,yes,Risk
+2685,1,skilled,1,none,yes,No Risk
+2686,2,management_self-employed,1,none,yes,No Risk
+2687,1,skilled,1,none,yes,No Risk
+2688,2,management_self-employed,1,yes,yes,Risk
+2689,1,unskilled,1,none,yes,No Risk
+2690,1,skilled,1,none,yes,No Risk
+2691,2,unskilled,1,none,yes,No Risk
+2692,1,unskilled,1,none,yes,No Risk
+2693,1,skilled,1,none,yes,Risk
+2694,2,skilled,1,yes,yes,Risk
+2695,1,skilled,1,yes,yes,No Risk
+2696,1,unskilled,1,none,yes,No Risk
+2697,1,skilled,1,none,yes,No Risk
+2698,2,management_self-employed,2,yes,yes,Risk
+2699,2,skilled,2,none,yes,No Risk
+2700,2,skilled,1,yes,yes,No Risk
+2701,2,management_self-employed,2,yes,yes,Risk
+2702,1,skilled,1,yes,yes,No Risk
+2703,1,skilled,1,none,yes,No Risk
+2704,2,skilled,2,yes,yes,Risk
+2705,1,skilled,1,none,yes,No Risk
+2706,1,skilled,1,none,yes,No Risk
+2707,1,skilled,1,yes,yes,No Risk
+2708,1,skilled,1,none,yes,Risk
+2709,1,skilled,1,none,yes,No Risk
+2710,1,skilled,1,none,yes,Risk
+2711,1,unskilled,1,yes,yes,No Risk
+2712,1,skilled,1,none,yes,No Risk
+2713,1,management_self-employed,1,none,yes,No Risk
+2714,2,skilled,1,yes,yes,Risk
+2715,1,skilled,1,none,yes,No Risk
+2716,2,skilled,1,yes,yes,Risk
+2717,1,skilled,1,yes,yes,No Risk
+2718,2,skilled,1,yes,yes,Risk
+2719,1,skilled,1,none,yes,No Risk
+2720,1,skilled,1,none,yes,No Risk
+2721,1,unskilled,1,yes,yes,Risk
+2722,1,skilled,1,none,yes,No Risk
+2723,1,skilled,1,none,yes,No Risk
+2724,1,skilled,1,none,yes,No Risk
+2725,1,skilled,1,none,yes,No Risk
+2726,3,management_self-employed,2,yes,yes,Risk
+2727,1,skilled,1,none,yes,No Risk
+2728,1,skilled,1,none,yes,No Risk
+2729,2,skilled,1,yes,yes,Risk
+2730,3,management_self-employed,2,yes,yes,Risk
+2731,1,skilled,1,none,yes,No Risk
+2732,2,management_self-employed,2,yes,yes,Risk
+2733,2,skilled,1,none,yes,No Risk
+2734,2,skilled,1,yes,yes,Risk
+2735,1,unskilled,1,none,yes,No Risk
+2736,1,skilled,1,none,yes,No Risk
+2737,1,skilled,1,yes,yes,Risk
+2738,1,skilled,1,none,yes,No Risk
+2739,2,skilled,1,yes,yes,No Risk
+2740,2,skilled,1,none,yes,No Risk
+2741,1,skilled,1,none,yes,No Risk
+2742,1,skilled,1,none,yes,No Risk
+2743,1,unemployed,1,yes,yes,No Risk
+2744,2,skilled,2,none,yes,Risk
+2745,2,skilled,2,none,yes,Risk
+2746,1,skilled,1,none,yes,No Risk
+2747,1,skilled,1,none,no,No Risk
+2748,1,unskilled,1,none,yes,No Risk
+2749,1,management_self-employed,1,none,yes,No Risk
+2750,1,skilled,1,none,yes,No Risk
+2751,2,skilled,1,yes,yes,No Risk
+2752,2,unskilled,2,yes,yes,No Risk
+2753,1,management_self-employed,1,none,yes,No Risk
+2754,2,skilled,2,yes,yes,Risk
+2755,1,skilled,1,yes,yes,No Risk
+2756,1,skilled,1,yes,yes,No Risk
+2757,1,skilled,1,none,yes,Risk
+2758,2,management_self-employed,2,yes,no,No Risk
+2759,1,management_self-employed,1,none,yes,No Risk
+2760,2,skilled,1,yes,yes,No Risk
+2761,1,skilled,1,none,yes,No Risk
+2762,1,skilled,1,none,yes,Risk
+2763,1,skilled,1,none,yes,No Risk
+2764,2,skilled,1,none,yes,No Risk
+2765,2,skilled,1,none,yes,No Risk
+2766,1,skilled,1,none,yes,Risk
+2767,2,skilled,1,yes,yes,No Risk
+2768,2,skilled,1,yes,yes,No Risk
+2769,1,skilled,1,none,yes,Risk
+2770,1,skilled,1,none,yes,Risk
+2771,1,skilled,1,none,yes,No Risk
+2772,2,skilled,1,none,no,No Risk
+2773,1,skilled,1,yes,yes,No Risk
+2774,2,skilled,2,none,yes,Risk
+2775,1,unskilled,1,none,yes,No Risk
+2776,1,skilled,1,none,yes,No Risk
+2777,1,skilled,1,none,yes,No Risk
+2778,2,unskilled,1,none,yes,No Risk
+2779,1,skilled,1,none,yes,No Risk
+2780,3,unskilled,2,yes,yes,Risk
+2781,1,skilled,1,none,yes,No Risk
+2782,2,skilled,1,none,yes,No Risk
+2783,1,unskilled,1,none,yes,No Risk
+2784,3,management_self-employed,2,yes,yes,Risk
+2785,1,unskilled,1,none,yes,No Risk
+2786,2,skilled,1,none,yes,No Risk
+2787,1,management_self-employed,1,none,yes,Risk
+2788,2,skilled,1,yes,yes,Risk
+2789,1,skilled,1,none,yes,No Risk
+2790,1,skilled,1,none,yes,No Risk
+2791,2,management_self-employed,1,none,yes,Risk
+2792,2,management_self-employed,1,none,yes,No Risk
+2793,2,unemployed,1,yes,yes,Risk
+2794,1,management_self-employed,1,none,yes,Risk
+2795,1,skilled,1,none,yes,No Risk
+2796,1,skilled,1,none,yes,No Risk
+2797,2,skilled,2,none,yes,Risk
+2798,2,skilled,2,yes,yes,No Risk
+2799,1,skilled,1,none,yes,No Risk
+2800,2,skilled,2,none,yes,No Risk
+2801,2,skilled,2,yes,yes,Risk
+2802,1,skilled,1,none,yes,No Risk
+2803,2,skilled,2,none,yes,No Risk
+2804,1,skilled,1,none,yes,No Risk
+2805,1,unemployed,1,yes,yes,Risk
+2806,2,unemployed,1,yes,yes,Risk
+2807,1,skilled,1,none,yes,No Risk
+2808,2,management_self-employed,2,yes,yes,No Risk
+2809,2,skilled,1,none,yes,Risk
+2810,2,skilled,1,none,yes,Risk
+2811,1,unskilled,1,none,yes,No Risk
+2812,2,skilled,2,yes,yes,Risk
+2813,2,skilled,1,yes,yes,Risk
+2814,2,unskilled,1,none,yes,No Risk
+2815,1,skilled,2,yes,yes,No Risk
+2816,1,skilled,1,none,yes,No Risk
+2817,1,management_self-employed,2,none,yes,No Risk
+2818,1,skilled,1,none,yes,No Risk
+2819,1,unskilled,1,none,yes,No Risk
+2820,2,skilled,2,yes,yes,Risk
+2821,1,management_self-employed,1,none,yes,No Risk
+2822,2,skilled,1,none,yes,Risk
+2823,3,unemployed,2,yes,yes,Risk
+2824,1,skilled,1,none,yes,No Risk
+2825,1,management_self-employed,1,yes,yes,No Risk
+2826,1,skilled,1,none,yes,No Risk
+2827,1,unskilled,1,yes,yes,No Risk
+2828,2,management_self-employed,1,yes,yes,Risk
+2829,1,skilled,1,none,yes,Risk
+2830,2,skilled,1,yes,yes,No Risk
+2831,1,skilled,1,none,yes,No Risk
+2832,2,skilled,1,none,no,No Risk
+2833,1,skilled,1,none,yes,No Risk
+2834,2,skilled,1,none,yes,No Risk
+2835,2,skilled,1,none,yes,Risk
+2836,2,unskilled,2,yes,yes,Risk
+2837,2,skilled,1,none,yes,Risk
+2838,2,unskilled,1,yes,yes,Risk
+2839,1,skilled,1,yes,yes,No Risk
+2840,2,skilled,1,yes,yes,Risk
+2841,1,skilled,1,none,yes,No Risk
+2842,2,skilled,1,none,yes,No Risk
+2843,1,skilled,1,none,yes,No Risk
+2844,1,skilled,1,none,yes,No Risk
+2845,1,skilled,2,yes,yes,Risk
+2846,1,skilled,1,none,yes,No Risk
+2847,1,unemployed,1,none,yes,Risk
+2848,2,skilled,1,none,yes,No Risk
+2849,2,management_self-employed,1,none,yes,Risk
+2850,1,skilled,1,none,yes,No Risk
+2851,1,management_self-employed,1,none,yes,No Risk
+2852,1,skilled,1,none,yes,Risk
+2853,2,skilled,1,yes,yes,Risk
+2854,1,unemployed,1,yes,yes,No Risk
+2855,2,skilled,1,yes,yes,Risk
+2856,2,skilled,1,yes,yes,Risk
+2857,1,skilled,1,yes,yes,No Risk
+2858,2,skilled,1,yes,yes,No Risk
+2859,2,skilled,1,none,yes,Risk
+2860,1,unskilled,1,none,yes,Risk
+2861,1,skilled,1,none,yes,No Risk
+2862,3,skilled,2,yes,yes,Risk
+2863,2,skilled,1,none,yes,No Risk
+2864,1,skilled,1,none,yes,No Risk
+2865,2,skilled,1,none,yes,No Risk
+2866,2,skilled,2,yes,yes,Risk
+2867,2,skilled,2,yes,yes,No Risk
+2868,3,skilled,1,none,yes,Risk
+2869,1,skilled,1,none,yes,No Risk
+2870,1,skilled,1,none,yes,No Risk
+2871,1,unskilled,1,none,yes,Risk
+2872,1,unskilled,1,yes,yes,No Risk
+2873,1,skilled,2,yes,yes,Risk
+2874,2,unskilled,1,yes,yes,No Risk
+2875,2,skilled,2,yes,yes,Risk
+2876,2,skilled,1,none,yes,No Risk
+2877,1,skilled,2,yes,yes,No Risk
+2878,1,skilled,1,none,yes,No Risk
+2879,1,skilled,1,yes,yes,No Risk
+2880,1,unemployed,1,yes,yes,No Risk
+2881,1,unskilled,1,none,yes,No Risk
+2882,1,skilled,1,none,yes,No Risk
+2883,2,skilled,1,none,yes,No Risk
+2884,2,skilled,1,yes,yes,Risk
+2885,1,skilled,1,none,yes,No Risk
+2886,2,unskilled,2,none,yes,No Risk
+2887,1,unskilled,1,yes,yes,No Risk
+2888,2,skilled,1,none,no,No Risk
+2889,1,skilled,1,none,yes,No Risk
+2890,2,skilled,1,yes,yes,Risk
+2891,1,skilled,1,none,yes,No Risk
+2892,1,skilled,1,none,yes,No Risk
+2893,2,skilled,1,none,yes,No Risk
+2894,2,skilled,2,none,yes,No Risk
+2895,2,management_self-employed,1,yes,yes,Risk
+2896,2,skilled,1,none,no,Risk
+2897,1,unskilled,1,none,yes,No Risk
+2898,1,unemployed,1,yes,yes,No Risk
+2899,1,skilled,2,none,yes,No Risk
+2900,2,skilled,1,yes,yes,No Risk
+2901,1,unskilled,1,none,yes,No Risk
+2902,1,management_self-employed,1,none,yes,No Risk
+2903,2,skilled,2,yes,yes,Risk
+2904,2,management_self-employed,1,yes,yes,Risk
+2905,1,skilled,1,none,yes,No Risk
+2906,1,skilled,2,none,yes,No Risk
+2907,1,skilled,1,yes,yes,No Risk
+2908,2,unskilled,2,yes,yes,Risk
+2909,1,unskilled,1,none,yes,Risk
+2910,2,skilled,2,yes,yes,No Risk
+2911,1,unskilled,1,none,yes,Risk
+2912,3,skilled,1,yes,yes,Risk
+2913,1,management_self-employed,1,yes,yes,No Risk
+2914,2,management_self-employed,2,yes,yes,Risk
+2915,2,unskilled,1,yes,yes,No Risk
+2916,2,skilled,1,none,yes,No Risk
+2917,2,unemployed,1,none,yes,Risk
+2918,1,skilled,1,none,yes,No Risk
+2919,2,skilled,1,none,yes,No Risk
+2920,1,skilled,1,none,yes,No Risk
+2921,1,management_self-employed,2,none,yes,No Risk
+2922,1,skilled,1,yes,yes,Risk
+2923,2,skilled,1,none,no,No Risk
+2924,2,skilled,1,yes,yes,Risk
+2925,1,unskilled,1,yes,yes,No Risk
+2926,1,skilled,2,yes,no,No Risk
+2927,1,skilled,1,none,yes,No Risk
+2928,1,skilled,1,none,yes,Risk
+2929,1,skilled,1,yes,yes,No Risk
+2930,1,skilled,1,none,yes,Risk
+2931,1,skilled,1,none,yes,No Risk
+2932,1,skilled,1,none,yes,Risk
+2933,1,skilled,1,none,yes,Risk
+2934,1,skilled,1,none,yes,No Risk
+2935,2,skilled,2,yes,yes,Risk
+2936,1,unemployed,1,yes,yes,Risk
+2937,1,skilled,1,none,yes,No Risk
+2938,2,skilled,2,yes,yes,Risk
+2939,1,skilled,1,none,yes,No Risk
+2940,2,skilled,1,none,yes,No Risk
+2941,1,skilled,1,none,yes,No Risk
+2942,3,unskilled,2,yes,yes,No Risk
+2943,1,management_self-employed,1,none,yes,No Risk
+2944,2,skilled,2,yes,yes,Risk
+2945,1,skilled,1,yes,yes,No Risk
+2946,2,skilled,2,none,yes,No Risk
+2947,2,skilled,1,none,yes,Risk
+2948,1,skilled,1,none,yes,No Risk
+2949,2,skilled,1,yes,yes,No Risk
+2950,1,skilled,1,yes,yes,No Risk
+2951,2,unskilled,2,yes,yes,Risk
+2952,1,management_self-employed,1,none,yes,No Risk
+2953,1,unskilled,1,none,yes,No Risk
+2954,2,management_self-employed,2,yes,yes,No Risk
+2955,2,unemployed,2,yes,yes,No Risk
+2956,2,skilled,2,yes,yes,Risk
+2957,1,unskilled,1,none,yes,No Risk
+2958,1,skilled,1,none,yes,Risk
+2959,2,skilled,1,yes,yes,Risk
+2960,2,management_self-employed,1,none,yes,No Risk
+2961,1,skilled,1,none,yes,Risk
+2962,2,skilled,1,yes,yes,Risk
+2963,1,skilled,1,none,yes,No Risk
+2964,1,skilled,1,none,yes,No Risk
+2965,1,skilled,1,none,yes,No Risk
+2966,1,skilled,1,none,yes,No Risk
+2967,1,management_self-employed,1,none,yes,No Risk
+2968,2,unskilled,1,yes,yes,Risk
+2969,2,management_self-employed,1,none,yes,No Risk
+2970,2,skilled,2,yes,yes,Risk
+2971,1,skilled,1,none,yes,No Risk
+2972,2,skilled,2,yes,yes,Risk
+2973,1,skilled,1,none,yes,No Risk
+2974,1,skilled,1,none,yes,No Risk
+2975,2,skilled,1,none,yes,No Risk
+2976,2,skilled,2,yes,yes,Risk
+2977,1,skilled,1,none,yes,No Risk
+2978,2,skilled,1,yes,yes,Risk
+2979,1,skilled,1,none,yes,No Risk
+2980,2,unskilled,1,yes,yes,No Risk
+2981,1,skilled,1,yes,yes,No Risk
+2982,1,skilled,1,none,yes,No Risk
+2983,1,skilled,1,none,yes,No Risk
+2984,1,management_self-employed,1,none,yes,No Risk
+2985,2,management_self-employed,1,yes,yes,No Risk
+2986,1,skilled,1,none,yes,No Risk
+2987,1,management_self-employed,1,none,yes,No Risk
+2988,1,skilled,1,none,yes,No Risk
+2989,1,unskilled,1,none,yes,Risk
+2990,2,skilled,1,none,yes,Risk
+2991,2,unskilled,1,none,no,No Risk
+2992,1,management_self-employed,1,none,yes,No Risk
+2993,1,skilled,1,none,yes,No Risk
+2994,2,skilled,2,none,yes,No Risk
+2995,1,unskilled,1,none,yes,No Risk
+2996,1,skilled,1,none,yes,No Risk
+2997,1,skilled,1,none,yes,No Risk
+2998,1,unemployed,1,none,yes,No Risk
+2999,1,skilled,1,none,yes,No Risk
+3000,1,skilled,1,yes,yes,Risk
+3001,1,skilled,2,yes,yes,No Risk
+3002,2,management_self-employed,2,yes,yes,Risk
+3003,1,unemployed,1,yes,yes,Risk
+3004,3,skilled,1,yes,no,Risk
+3005,1,skilled,1,yes,yes,No Risk
+3006,2,skilled,1,yes,yes,No Risk
+3007,1,skilled,1,none,yes,No Risk
+3008,1,skilled,1,yes,yes,No Risk
+3009,1,management_self-employed,1,none,yes,No Risk
+3010,2,skilled,1,none,yes,No Risk
+3011,1,skilled,1,yes,yes,Risk
+3012,2,skilled,1,none,yes,Risk
+3013,1,management_self-employed,1,none,yes,No Risk
+3014,2,skilled,2,yes,yes,No Risk
+3015,1,unemployed,1,none,yes,No Risk
+3016,1,skilled,1,none,yes,No Risk
+3017,2,skilled,1,none,yes,Risk
+3018,2,skilled,1,yes,yes,No Risk
+3019,1,unskilled,1,yes,yes,No Risk
+3020,2,skilled,1,none,yes,No Risk
+3021,1,skilled,1,none,yes,No Risk
+3022,2,skilled,1,yes,yes,Risk
+3023,2,skilled,1,none,yes,Risk
+3024,1,skilled,1,none,yes,Risk
+3025,2,management_self-employed,1,yes,yes,No Risk
+3026,1,skilled,1,none,yes,No Risk
+3027,1,skilled,1,none,yes,No Risk
+3028,2,skilled,1,yes,yes,No Risk
+3029,1,skilled,1,yes,yes,No Risk
+3030,1,skilled,2,none,yes,No Risk
+3031,1,skilled,1,yes,yes,Risk
+3032,2,skilled,1,none,yes,No Risk
+3033,1,skilled,1,yes,yes,No Risk
+3034,1,skilled,1,yes,yes,No Risk
+3035,1,skilled,1,none,yes,No Risk
+3036,1,unskilled,1,none,yes,Risk
+3037,1,skilled,1,none,yes,No Risk
+3038,1,skilled,1,none,yes,No Risk
+3039,2,skilled,1,none,yes,No Risk
+3040,2,skilled,2,yes,yes,Risk
+3041,1,skilled,1,none,yes,No Risk
+3042,2,skilled,2,yes,yes,Risk
+3043,1,skilled,1,yes,yes,Risk
+3044,2,skilled,1,none,yes,No Risk
+3045,2,unemployed,1,none,yes,No Risk
+3046,2,skilled,1,none,yes,No Risk
+3047,1,skilled,1,none,yes,No Risk
+3048,1,skilled,1,none,yes,No Risk
+3049,1,skilled,1,none,yes,No Risk
+3050,1,skilled,1,none,yes,No Risk
+3051,1,management_self-employed,1,yes,yes,No Risk
+3052,1,unskilled,1,none,yes,No Risk
+3053,1,skilled,1,none,yes,No Risk
+3054,3,skilled,2,yes,yes,Risk
+3055,1,skilled,1,none,yes,No Risk
+3056,1,skilled,1,none,yes,No Risk
+3057,2,unemployed,1,yes,yes,No Risk
+3058,2,skilled,1,yes,yes,Risk
+3059,1,skilled,1,none,yes,No Risk
+3060,2,skilled,1,yes,yes,Risk
+3061,1,unskilled,1,none,yes,No Risk
+3062,2,skilled,1,yes,yes,Risk
+3063,1,skilled,1,none,yes,No Risk
+3064,1,skilled,1,yes,yes,No Risk
+3065,2,unskilled,1,none,yes,Risk
+3066,2,skilled,1,yes,yes,No Risk
+3067,1,skilled,1,yes,yes,No Risk
+3068,2,unskilled,2,yes,yes,Risk
+3069,2,skilled,1,yes,yes,Risk
+3070,3,unskilled,2,yes,yes,Risk
+3071,2,unskilled,1,none,yes,Risk
+3072,2,unskilled,1,none,yes,No Risk
+3073,1,management_self-employed,1,yes,yes,No Risk
+3074,1,unskilled,1,yes,yes,No Risk
+3075,1,unskilled,1,none,yes,No Risk
+3076,1,unskilled,1,none,yes,No Risk
+3077,1,skilled,1,none,yes,No Risk
+3078,2,unemployed,1,yes,yes,No Risk
+3079,2,skilled,2,yes,yes,Risk
+3080,2,unemployed,1,yes,yes,No Risk
+3081,1,unskilled,1,yes,yes,No Risk
+3082,3,skilled,2,yes,yes,Risk
+3083,2,unskilled,1,yes,yes,No Risk
+3084,2,skilled,1,none,yes,No Risk
+3085,1,skilled,2,none,yes,Risk
+3086,2,management_self-employed,1,none,yes,No Risk
+3087,1,unemployed,1,none,yes,No Risk
+3088,2,skilled,1,yes,yes,Risk
+3089,1,skilled,1,none,yes,No Risk
+3090,1,skilled,2,yes,yes,No Risk
+3091,1,unskilled,1,none,yes,No Risk
+3092,2,skilled,2,yes,yes,Risk
+3093,2,skilled,1,none,yes,No Risk
+3094,1,skilled,1,none,yes,No Risk
+3095,3,skilled,2,yes,yes,Risk
+3096,1,skilled,1,none,yes,No Risk
+3097,1,skilled,1,none,yes,No Risk
+3098,2,management_self-employed,1,yes,no,Risk
+3099,1,skilled,1,none,yes,No Risk
+3100,1,skilled,1,yes,yes,Risk
+3101,1,skilled,1,none,yes,Risk
+3102,2,skilled,2,yes,yes,Risk
+3103,2,unskilled,2,yes,yes,Risk
+3104,1,unskilled,1,yes,no,No Risk
+3105,1,skilled,1,none,yes,No Risk
+3106,1,unemployed,1,yes,yes,No Risk
+3107,1,unemployed,1,none,yes,No Risk
+3108,2,skilled,1,yes,yes,No Risk
+3109,2,unskilled,2,none,yes,Risk
+3110,1,skilled,1,yes,yes,No Risk
+3111,2,skilled,1,none,yes,Risk
+3112,2,skilled,1,none,yes,No Risk
+3113,1,skilled,1,none,no,No Risk
+3114,1,unemployed,1,yes,yes,No Risk
+3115,2,management_self-employed,1,none,yes,Risk
+3116,1,skilled,1,none,yes,No Risk
+3117,2,skilled,1,yes,yes,No Risk
+3118,1,skilled,1,none,yes,No Risk
+3119,1,skilled,1,none,yes,No Risk
+3120,2,unskilled,1,yes,yes,No Risk
+3121,1,skilled,1,none,yes,No Risk
+3122,1,unskilled,1,none,yes,No Risk
+3123,1,unskilled,1,none,yes,No Risk
+3124,2,skilled,1,none,yes,No Risk
+3125,1,skilled,1,none,yes,No Risk
+3126,1,skilled,1,none,yes,No Risk
+3127,1,skilled,1,none,yes,No Risk
+3128,2,skilled,2,yes,yes,Risk
+3129,1,skilled,1,yes,yes,Risk
+3130,2,management_self-employed,1,yes,yes,Risk
+3131,2,skilled,1,yes,yes,Risk
+3132,2,skilled,2,yes,yes,Risk
+3133,1,skilled,1,none,yes,No Risk
+3134,1,skilled,1,none,yes,No Risk
+3135,2,skilled,1,yes,yes,No Risk
+3136,2,skilled,1,none,yes,No Risk
+3137,1,skilled,1,none,yes,No Risk
+3138,1,skilled,1,none,yes,No Risk
+3139,2,unskilled,2,yes,yes,Risk
+3140,2,skilled,1,none,yes,Risk
+3141,1,skilled,1,none,yes,No Risk
+3142,1,unemployed,1,yes,yes,No Risk
+3143,1,unemployed,1,none,yes,No Risk
+3144,2,skilled,1,none,yes,No Risk
+3145,1,skilled,1,yes,yes,No Risk
+3146,2,skilled,2,yes,yes,Risk
+3147,1,unskilled,1,none,yes,No Risk
+3148,1,skilled,1,none,no,No Risk
+3149,2,management_self-employed,1,yes,yes,No Risk
+3150,1,skilled,1,yes,yes,No Risk
+3151,3,skilled,2,yes,yes,Risk
+3152,1,skilled,1,none,yes,Risk
+3153,2,skilled,1,none,yes,Risk
+3154,2,management_self-employed,2,yes,yes,Risk
+3155,2,skilled,1,yes,yes,No Risk
+3156,3,skilled,2,yes,yes,Risk
+3157,2,skilled,1,none,yes,No Risk
+3158,2,unskilled,1,none,yes,No Risk
+3159,1,unskilled,1,none,yes,No Risk
+3160,1,skilled,1,none,yes,Risk
+3161,1,unskilled,1,yes,yes,Risk
+3162,2,skilled,1,yes,yes,No Risk
+3163,2,skilled,2,yes,yes,Risk
+3164,2,skilled,1,yes,yes,No Risk
+3165,1,skilled,1,none,yes,No Risk
+3166,2,unskilled,1,none,yes,No Risk
+3167,1,management_self-employed,1,yes,yes,No Risk
+3168,2,unskilled,1,yes,yes,No Risk
+3169,1,management_self-employed,1,none,yes,No Risk
+3170,2,skilled,1,yes,yes,Risk
+3171,1,skilled,1,yes,yes,No Risk
+3172,2,skilled,2,yes,yes,Risk
+3173,2,unemployed,2,yes,yes,No Risk
+3174,2,skilled,1,none,yes,Risk
+3175,1,skilled,1,none,yes,No Risk
+3176,1,skilled,1,none,yes,No Risk
+3177,2,skilled,2,yes,yes,No Risk
+3178,2,skilled,1,yes,yes,Risk
+3179,1,unskilled,1,none,yes,No Risk
+3180,2,skilled,2,yes,yes,Risk
+3181,1,skilled,1,none,yes,No Risk
+3182,2,management_self-employed,2,yes,yes,Risk
+3183,2,skilled,1,yes,yes,No Risk
+3184,2,skilled,1,yes,yes,Risk
+3185,1,skilled,1,none,yes,No Risk
+3186,2,management_self-employed,1,yes,yes,Risk
+3187,1,skilled,1,yes,yes,No Risk
+3188,1,skilled,1,none,yes,No Risk
+3189,1,unskilled,1,none,yes,No Risk
+3190,2,skilled,1,yes,yes,Risk
+3191,1,unskilled,1,none,yes,No Risk
+3192,3,skilled,2,yes,yes,Risk
+3193,1,unemployed,1,yes,yes,No Risk
+3194,3,skilled,1,yes,yes,Risk
+3195,2,skilled,1,none,yes,Risk
+3196,1,management_self-employed,1,yes,yes,No Risk
+3197,1,skilled,1,none,yes,No Risk
+3198,1,unskilled,1,none,yes,No Risk
+3199,1,skilled,2,none,yes,No Risk
+3200,2,skilled,1,yes,yes,No Risk
+3201,2,skilled,2,yes,yes,No Risk
+3202,1,skilled,1,yes,yes,Risk
+3203,2,management_self-employed,1,yes,yes,Risk
+3204,1,skilled,1,none,yes,Risk
+3205,2,skilled,2,yes,yes,Risk
+3206,1,skilled,1,yes,yes,No Risk
+3207,2,skilled,1,yes,yes,Risk
+3208,2,skilled,2,yes,yes,Risk
+3209,1,skilled,1,none,yes,Risk
+3210,1,skilled,1,none,yes,No Risk
+3211,1,management_self-employed,1,none,yes,No Risk
+3212,2,unskilled,2,yes,yes,No Risk
+3213,2,management_self-employed,1,yes,yes,Risk
+3214,1,unskilled,1,none,yes,No Risk
+3215,1,skilled,1,none,yes,No Risk
+3216,1,skilled,1,none,yes,No Risk
+3217,2,skilled,1,yes,no,No Risk
+3218,2,skilled,1,yes,yes,No Risk
+3219,1,skilled,2,yes,yes,No Risk
+3220,2,unemployed,2,yes,yes,Risk
+3221,1,skilled,1,none,no,No Risk
+3222,1,skilled,1,none,yes,No Risk
+3223,2,management_self-employed,2,yes,yes,No Risk
+3224,1,management_self-employed,1,none,yes,Risk
+3225,1,skilled,1,yes,yes,Risk
+3226,1,skilled,2,yes,yes,Risk
+3227,1,skilled,1,yes,yes,Risk
+3228,1,skilled,1,yes,yes,No Risk
+3229,1,skilled,1,none,yes,No Risk
+3230,1,skilled,1,none,yes,No Risk
+3231,2,skilled,1,yes,yes,No Risk
+3232,2,skilled,1,yes,yes,Risk
+3233,1,skilled,1,none,yes,No Risk
+3234,2,skilled,2,yes,no,Risk
+3235,2,skilled,1,yes,yes,Risk
+3236,2,skilled,1,none,yes,Risk
+3237,1,management_self-employed,1,none,yes,No Risk
+3238,1,skilled,1,none,yes,No Risk
+3239,1,skilled,1,none,yes,No Risk
+3240,2,skilled,1,yes,yes,No Risk
+3241,1,skilled,1,none,yes,No Risk
+3242,1,management_self-employed,1,none,yes,No Risk
+3243,1,skilled,1,none,yes,Risk
+3244,2,skilled,1,yes,yes,Risk
+3245,1,skilled,1,yes,yes,No Risk
+3246,2,skilled,1,yes,yes,No Risk
+3247,1,unskilled,1,yes,yes,No Risk
+3248,2,management_self-employed,1,yes,no,No Risk
+3249,1,management_self-employed,1,none,yes,No Risk
+3250,3,management_self-employed,2,yes,yes,Risk
+3251,2,unskilled,1,yes,yes,Risk
+3252,2,management_self-employed,1,yes,yes,Risk
+3253,2,skilled,1,yes,no,Risk
+3254,2,skilled,1,yes,yes,Risk
+3255,2,skilled,1,none,yes,Risk
+3256,2,skilled,1,none,yes,Risk
+3257,1,skilled,1,none,yes,No Risk
+3258,1,skilled,1,yes,yes,Risk
+3259,1,skilled,1,none,yes,No Risk
+3260,1,skilled,1,yes,yes,No Risk
+3261,1,skilled,1,none,yes,No Risk
+3262,1,unemployed,2,none,yes,No Risk
+3263,1,skilled,1,none,yes,No Risk
+3264,1,unemployed,1,none,yes,No Risk
+3265,2,unemployed,1,none,yes,Risk
+3266,2,skilled,2,yes,yes,No Risk
+3267,1,unskilled,1,none,yes,No Risk
+3268,1,skilled,1,yes,yes,No Risk
+3269,2,skilled,2,none,yes,Risk
+3270,1,skilled,1,none,yes,No Risk
+3271,1,skilled,1,none,yes,No Risk
+3272,1,skilled,1,none,yes,No Risk
+3273,1,skilled,1,none,yes,No Risk
+3274,2,skilled,1,none,yes,No Risk
+3275,1,skilled,1,none,yes,No Risk
+3276,2,unskilled,2,none,yes,No Risk
+3277,1,unskilled,1,yes,yes,Risk
+3278,1,skilled,1,yes,yes,Risk
+3279,1,skilled,1,none,yes,No Risk
+3280,1,skilled,1,yes,yes,No Risk
+3281,1,management_self-employed,1,none,yes,Risk
+3282,1,skilled,1,none,yes,No Risk
+3283,1,management_self-employed,1,none,yes,No Risk
+3284,1,unemployed,1,none,no,No Risk
+3285,1,management_self-employed,1,none,yes,No Risk
+3286,1,skilled,1,none,yes,No Risk
+3287,1,skilled,1,none,no,No Risk
+3288,1,skilled,1,yes,yes,No Risk
+3289,1,skilled,1,yes,yes,No Risk
+3290,1,management_self-employed,2,none,yes,No Risk
+3291,2,unskilled,2,yes,yes,Risk
+3292,1,skilled,2,yes,yes,No Risk
+3293,1,skilled,1,none,yes,No Risk
+3294,2,unskilled,1,none,yes,No Risk
+3295,1,skilled,2,none,yes,Risk
+3296,1,skilled,1,none,yes,Risk
+3297,1,skilled,1,none,yes,No Risk
+3298,2,unskilled,2,yes,yes,Risk
+3299,1,skilled,2,yes,yes,Risk
+3300,2,skilled,2,yes,yes,Risk
+3301,1,management_self-employed,1,none,yes,Risk
+3302,1,skilled,1,none,yes,Risk
+3303,1,skilled,1,none,yes,No Risk
+3304,1,skilled,1,none,yes,Risk
+3305,1,skilled,1,none,yes,No Risk
+3306,1,skilled,1,yes,yes,No Risk
+3307,1,skilled,1,none,yes,No Risk
+3308,3,skilled,2,yes,yes,Risk
+3309,1,skilled,1,none,yes,No Risk
+3310,2,unemployed,1,none,yes,No Risk
+3311,1,unskilled,1,none,yes,No Risk
+3312,1,unskilled,1,none,yes,No Risk
+3313,2,skilled,1,yes,yes,Risk
+3314,2,skilled,1,yes,yes,Risk
+3315,1,skilled,1,none,yes,No Risk
+3316,2,management_self-employed,1,yes,yes,Risk
+3317,2,unskilled,1,none,yes,Risk
+3318,1,skilled,1,yes,yes,No Risk
+3319,2,skilled,1,yes,yes,Risk
+3320,1,skilled,1,none,yes,No Risk
+3321,1,skilled,1,none,yes,No Risk
+3322,2,unemployed,1,yes,yes,Risk
+3323,1,unskilled,2,none,yes,No Risk
+3324,1,management_self-employed,1,yes,yes,Risk
+3325,1,unskilled,1,none,yes,No Risk
+3326,2,unemployed,1,none,yes,Risk
+3327,1,skilled,1,none,yes,No Risk
+3328,2,management_self-employed,1,yes,yes,No Risk
+3329,2,skilled,1,none,yes,Risk
+3330,2,unskilled,1,none,yes,No Risk
+3331,2,skilled,2,yes,yes,No Risk
+3332,1,skilled,1,none,yes,No Risk
+3333,1,skilled,1,yes,no,Risk
+3334,1,unskilled,1,none,yes,No Risk
+3335,2,unemployed,1,yes,yes,No Risk
+3336,2,skilled,1,none,yes,No Risk
+3337,1,skilled,1,none,yes,No Risk
+3338,1,skilled,1,yes,yes,No Risk
+3339,1,management_self-employed,1,none,yes,No Risk
+3340,2,skilled,1,yes,yes,Risk
+3341,1,skilled,1,none,yes,No Risk
+3342,2,unemployed,1,yes,yes,No Risk
+3343,2,skilled,1,none,yes,No Risk
+3344,2,skilled,1,none,yes,Risk
+3345,2,unskilled,2,none,yes,No Risk
+3346,2,skilled,1,yes,yes,No Risk
+3347,1,unskilled,1,yes,yes,Risk
+3348,1,unskilled,1,yes,yes,No Risk
+3349,1,skilled,1,none,yes,No Risk
+3350,1,skilled,1,none,yes,No Risk
+3351,1,skilled,1,none,yes,No Risk
+3352,1,skilled,1,yes,yes,No Risk
+3353,2,skilled,1,none,yes,No Risk
+3354,2,skilled,1,yes,yes,Risk
+3355,1,skilled,1,none,yes,No Risk
+3356,1,skilled,1,none,yes,Risk
+3357,1,unskilled,1,none,yes,No Risk
+3358,2,unemployed,2,yes,yes,No Risk
+3359,2,skilled,1,none,no,No Risk
+3360,2,skilled,1,none,yes,No Risk
+3361,2,skilled,2,yes,yes,Risk
+3362,2,unskilled,1,none,yes,No Risk
+3363,1,skilled,1,none,yes,No Risk
+3364,1,unemployed,1,yes,yes,No Risk
+3365,2,skilled,1,yes,yes,Risk
+3366,2,skilled,1,yes,yes,Risk
+3367,1,management_self-employed,1,yes,yes,No Risk
+3368,1,skilled,1,yes,yes,No Risk
+3369,1,skilled,1,none,yes,No Risk
+3370,1,unemployed,1,yes,yes,No Risk
+3371,2,skilled,1,none,yes,Risk
+3372,2,skilled,1,yes,yes,Risk
+3373,1,skilled,1,none,yes,No Risk
+3374,3,skilled,2,yes,yes,Risk
+3375,1,skilled,1,none,yes,No Risk
+3376,2,skilled,1,yes,yes,No Risk
+3377,1,skilled,1,none,yes,Risk
+3378,2,management_self-employed,1,none,yes,Risk
+3379,1,unemployed,1,none,yes,No Risk
+3380,3,management_self-employed,1,yes,yes,Risk
+3381,1,skilled,2,none,yes,No Risk
+3382,1,management_self-employed,1,yes,yes,No Risk
+3383,1,unemployed,1,none,yes,No Risk
+3384,3,skilled,2,yes,yes,Risk
+3385,2,skilled,2,yes,no,Risk
+3386,1,skilled,1,none,yes,No Risk
+3387,2,skilled,2,yes,yes,Risk
+3388,2,skilled,1,yes,yes,Risk
+3389,1,skilled,1,none,yes,No Risk
+3390,2,unemployed,1,none,yes,Risk
+3391,1,unskilled,1,none,yes,No Risk
+3392,1,skilled,2,yes,yes,No Risk
+3393,1,skilled,2,none,yes,Risk
+3394,1,skilled,1,none,yes,No Risk
+3395,1,unemployed,1,none,yes,No Risk
+3396,2,skilled,1,yes,yes,No Risk
+3397,1,skilled,1,yes,yes,No Risk
+3398,2,management_self-employed,1,none,yes,Risk
+3399,1,skilled,1,none,yes,No Risk
+3400,1,skilled,1,none,yes,No Risk
+3401,1,skilled,1,yes,yes,No Risk
+3402,1,skilled,1,none,yes,No Risk
+3403,1,skilled,1,yes,yes,Risk
+3404,1,management_self-employed,1,none,yes,Risk
+3405,2,skilled,1,none,yes,No Risk
+3406,3,skilled,1,yes,yes,Risk
+3407,1,skilled,1,none,yes,No Risk
+3408,2,skilled,1,yes,yes,No Risk
+3409,2,skilled,1,yes,yes,No Risk
+3410,2,unemployed,1,yes,yes,No Risk
+3411,1,management_self-employed,1,none,yes,No Risk
+3412,2,unskilled,1,none,yes,No Risk
+3413,1,skilled,1,yes,yes,No Risk
+3414,2,skilled,1,yes,yes,Risk
+3415,1,skilled,1,none,yes,Risk
+3416,1,skilled,1,none,yes,No Risk
+3417,2,skilled,1,none,yes,No Risk
+3418,1,skilled,1,none,yes,Risk
+3419,2,unskilled,2,yes,yes,No Risk
+3420,2,skilled,1,none,yes,No Risk
+3421,2,skilled,1,none,no,Risk
+3422,1,skilled,1,none,yes,No Risk
+3423,2,skilled,1,yes,yes,No Risk
+3424,2,management_self-employed,1,none,yes,No Risk
+3425,1,skilled,1,none,yes,No Risk
+3426,2,skilled,1,none,yes,Risk
+3427,1,skilled,1,none,yes,No Risk
+3428,1,skilled,1,none,yes,No Risk
+3429,2,skilled,1,yes,yes,Risk
+3430,2,skilled,1,yes,yes,No Risk
+3431,2,unemployed,2,yes,yes,Risk
+3432,1,skilled,1,none,yes,No Risk
+3433,2,unskilled,1,none,yes,No Risk
+3434,2,unemployed,2,yes,yes,Risk
+3435,1,skilled,1,none,yes,No Risk
+3436,2,skilled,2,yes,yes,Risk
+3437,1,skilled,1,yes,yes,Risk
+3438,1,skilled,1,none,yes,No Risk
+3439,1,skilled,1,none,yes,No Risk
+3440,2,management_self-employed,1,none,yes,No Risk
+3441,1,skilled,1,none,yes,No Risk
+3442,2,skilled,1,yes,yes,No Risk
+3443,2,unemployed,1,yes,yes,No Risk
+3444,2,skilled,1,yes,yes,No Risk
+3445,1,skilled,1,none,yes,No Risk
+3446,1,skilled,1,none,yes,No Risk
+3447,1,skilled,1,none,yes,No Risk
+3448,1,skilled,1,yes,yes,Risk
+3449,2,unskilled,1,none,yes,No Risk
+3450,2,skilled,1,yes,yes,Risk
+3451,1,skilled,1,none,yes,No Risk
+3452,2,skilled,1,yes,yes,No Risk
+3453,1,skilled,1,none,yes,No Risk
+3454,2,skilled,1,none,yes,No Risk
+3455,1,management_self-employed,1,none,yes,No Risk
+3456,1,skilled,1,none,yes,No Risk
+3457,2,unskilled,1,yes,yes,No Risk
+3458,2,unskilled,1,none,yes,No Risk
+3459,2,skilled,1,none,yes,Risk
+3460,1,skilled,1,none,yes,No Risk
+3461,2,unemployed,1,yes,yes,No Risk
+3462,2,skilled,1,none,yes,No Risk
+3463,1,unskilled,1,none,yes,No Risk
+3464,2,skilled,2,yes,yes,Risk
+3465,1,skilled,1,none,yes,No Risk
+3466,2,skilled,1,yes,yes,Risk
+3467,1,skilled,1,none,yes,Risk
+3468,1,skilled,1,none,yes,No Risk
+3469,1,skilled,1,none,yes,Risk
+3470,2,skilled,1,yes,yes,Risk
+3471,1,unemployed,1,none,yes,No Risk
+3472,2,skilled,1,none,yes,Risk
+3473,1,skilled,1,yes,yes,Risk
+3474,1,skilled,1,none,yes,No Risk
+3475,1,skilled,1,none,yes,No Risk
+3476,1,skilled,1,yes,yes,No Risk
+3477,1,unskilled,1,yes,yes,No Risk
+3478,2,unskilled,2,yes,yes,No Risk
+3479,1,skilled,1,none,yes,No Risk
+3480,1,skilled,1,none,yes,No Risk
+3481,1,management_self-employed,1,yes,yes,No Risk
+3482,1,skilled,2,yes,yes,No Risk
+3483,1,unskilled,1,none,yes,No Risk
+3484,2,skilled,1,none,yes,No Risk
+3485,1,management_self-employed,1,none,yes,No Risk
+3486,2,skilled,1,none,yes,Risk
+3487,1,skilled,1,none,yes,No Risk
+3488,2,skilled,1,yes,yes,Risk
+3489,1,skilled,1,yes,yes,No Risk
+3490,2,skilled,1,yes,no,Risk
+3491,1,skilled,1,none,yes,No Risk
+3492,1,skilled,1,none,yes,No Risk
+3493,1,skilled,1,none,yes,No Risk
+3494,2,skilled,1,yes,yes,No Risk
+3495,1,skilled,1,none,yes,No Risk
+3496,1,skilled,1,none,yes,No Risk
+3497,2,skilled,2,yes,yes,Risk
+3498,2,unskilled,2,yes,yes,Risk
+3499,1,skilled,1,none,yes,No Risk
+3500,2,unemployed,1,none,yes,No Risk
+3501,1,skilled,1,none,yes,No Risk
+3502,1,skilled,1,none,yes,Risk
+3503,1,skilled,1,none,yes,No Risk
+3504,2,skilled,1,yes,yes,Risk
+3505,2,skilled,1,none,yes,Risk
+3506,1,skilled,1,none,yes,No Risk
+3507,1,skilled,1,none,yes,No Risk
+3508,2,unskilled,1,yes,yes,Risk
+3509,1,skilled,1,none,yes,No Risk
+3510,2,management_self-employed,1,yes,yes,Risk
+3511,1,unemployed,1,none,yes,No Risk
+3512,2,management_self-employed,2,yes,yes,Risk
+3513,1,management_self-employed,2,none,yes,No Risk
+3514,2,unskilled,1,none,yes,Risk
+3515,1,management_self-employed,1,none,yes,No Risk
+3516,2,skilled,1,yes,yes,Risk
+3517,1,skilled,1,none,yes,No Risk
+3518,1,management_self-employed,1,yes,yes,Risk
+3519,2,unemployed,1,yes,yes,No Risk
+3520,1,skilled,1,yes,yes,Risk
+3521,2,unskilled,2,yes,no,No Risk
+3522,2,skilled,1,yes,yes,Risk
+3523,1,skilled,1,none,yes,No Risk
+3524,1,skilled,1,none,yes,No Risk
+3525,1,unskilled,1,none,yes,No Risk
+3526,1,management_self-employed,1,yes,no,No Risk
+3527,1,skilled,1,none,yes,No Risk
+3528,1,skilled,1,yes,yes,No Risk
+3529,1,unskilled,1,none,yes,No Risk
+3530,2,skilled,1,none,yes,Risk
+3531,1,skilled,1,yes,yes,No Risk
+3532,3,skilled,2,yes,yes,Risk
+3533,2,management_self-employed,2,yes,yes,No Risk
+3534,1,skilled,1,yes,yes,No Risk
+3535,1,skilled,1,none,yes,No Risk
+3536,3,skilled,2,yes,yes,Risk
+3537,2,skilled,1,yes,yes,No Risk
+3538,2,skilled,1,yes,yes,Risk
+3539,1,skilled,1,yes,yes,No Risk
+3540,2,unskilled,1,yes,yes,No Risk
+3541,1,skilled,1,none,yes,No Risk
+3542,1,unskilled,2,yes,yes,No Risk
+3543,1,management_self-employed,1,yes,yes,No Risk
+3544,2,management_self-employed,1,yes,yes,Risk
+3545,1,skilled,1,none,yes,No Risk
+3546,1,skilled,1,none,yes,No Risk
+3547,1,skilled,1,yes,yes,Risk
+3548,1,skilled,1,none,yes,No Risk
+3549,1,skilled,1,none,yes,No Risk
+3550,2,skilled,1,yes,yes,No Risk
+3551,2,management_self-employed,1,yes,yes,No Risk
+3552,1,skilled,1,none,yes,Risk
+3553,1,management_self-employed,1,yes,yes,Risk
+3554,2,skilled,1,yes,yes,Risk
+3555,1,skilled,1,none,yes,No Risk
+3556,1,skilled,1,none,yes,No Risk
+3557,2,unskilled,2,yes,yes,No Risk
+3558,1,skilled,1,none,yes,No Risk
+3559,2,skilled,2,yes,yes,Risk
+3560,3,skilled,2,yes,yes,Risk
+3561,1,skilled,1,none,yes,Risk
+3562,1,skilled,1,none,yes,No Risk
+3563,1,unskilled,2,yes,yes,No Risk
+3564,2,unskilled,1,yes,yes,Risk
+3565,1,management_self-employed,1,yes,yes,No Risk
+3566,2,skilled,1,yes,yes,Risk
+3567,2,skilled,1,none,yes,No Risk
+3568,1,skilled,1,yes,yes,Risk
+3569,1,skilled,1,none,yes,No Risk
+3570,1,skilled,1,none,yes,No Risk
+3571,1,skilled,1,none,yes,No Risk
+3572,1,skilled,1,none,yes,No Risk
+3573,1,unskilled,1,none,yes,No Risk
+3574,2,skilled,1,yes,yes,Risk
+3575,1,skilled,1,none,yes,No Risk
+3576,2,unskilled,1,none,yes,No Risk
+3577,1,unemployed,1,none,yes,No Risk
+3578,1,skilled,1,none,yes,No Risk
+3579,1,skilled,1,yes,yes,No Risk
+3580,3,skilled,1,yes,yes,Risk
+3581,1,skilled,1,none,yes,No Risk
+3582,1,unemployed,1,yes,yes,No Risk
+3583,1,skilled,1,yes,yes,Risk
+3584,2,management_self-employed,1,yes,yes,Risk
+3585,1,skilled,1,yes,yes,No Risk
+3586,1,unemployed,1,none,yes,No Risk
+3587,1,unemployed,1,yes,yes,No Risk
+3588,2,skilled,1,none,yes,No Risk
+3589,2,management_self-employed,1,yes,no,No Risk
+3590,2,unskilled,2,none,yes,No Risk
+3591,2,skilled,1,none,yes,Risk
+3592,2,skilled,1,none,yes,No Risk
+3593,1,skilled,2,none,yes,No Risk
+3594,2,unskilled,1,yes,yes,No Risk
+3595,1,skilled,1,none,yes,No Risk
+3596,2,skilled,1,yes,yes,No Risk
+3597,1,skilled,1,yes,yes,No Risk
+3598,1,skilled,1,yes,yes,Risk
+3599,1,skilled,1,none,yes,No Risk
+3600,2,skilled,2,yes,yes,Risk
+3601,2,skilled,1,none,yes,No Risk
+3602,3,skilled,2,yes,yes,Risk
+3603,1,skilled,1,none,yes,No Risk
+3604,2,unskilled,1,yes,yes,Risk
+3605,1,skilled,1,none,yes,No Risk
+3606,2,unskilled,1,none,yes,No Risk
+3607,1,unskilled,1,none,yes,No Risk
+3608,2,skilled,2,yes,yes,Risk
+3609,1,skilled,1,none,yes,No Risk
+3610,2,skilled,1,none,yes,Risk
+3611,3,skilled,2,yes,yes,Risk
+3612,1,skilled,1,none,yes,No Risk
+3613,1,management_self-employed,1,none,yes,No Risk
+3614,1,skilled,1,yes,yes,No Risk
+3615,2,skilled,1,none,yes,No Risk
+3616,1,unskilled,1,yes,yes,No Risk
+3617,2,management_self-employed,2,yes,yes,No Risk
+3618,2,skilled,1,yes,yes,Risk
+3619,2,skilled,1,yes,yes,Risk
+3620,1,unskilled,1,none,yes,No Risk
+3621,1,skilled,1,none,yes,No Risk
+3622,2,skilled,1,none,yes,Risk
+3623,1,skilled,1,none,yes,No Risk
+3624,3,skilled,2,yes,yes,Risk
+3625,1,skilled,2,yes,yes,Risk
+3626,2,skilled,1,yes,yes,No Risk
+3627,2,skilled,1,none,yes,No Risk
+3628,2,management_self-employed,2,yes,yes,No Risk
+3629,1,management_self-employed,1,yes,yes,No Risk
+3630,1,skilled,1,none,yes,No Risk
+3631,1,unemployed,2,none,yes,Risk
+3632,1,skilled,1,yes,yes,No Risk
+3633,1,skilled,1,none,yes,No Risk
+3634,1,management_self-employed,1,none,yes,No Risk
+3635,1,skilled,1,yes,yes,No Risk
+3636,2,skilled,1,yes,yes,No Risk
+3637,2,unskilled,1,yes,yes,No Risk
+3638,1,skilled,1,none,yes,No Risk
+3639,1,skilled,1,none,yes,No Risk
+3640,1,unskilled,1,none,yes,Risk
+3641,2,skilled,1,none,yes,Risk
+3642,1,skilled,1,none,yes,No Risk
+3643,2,skilled,1,none,yes,No Risk
+3644,2,skilled,2,yes,yes,Risk
+3645,1,skilled,1,none,yes,No Risk
+3646,1,unskilled,1,yes,yes,No Risk
+3647,2,skilled,1,yes,yes,Risk
+3648,3,skilled,1,yes,yes,Risk
+3649,1,management_self-employed,1,none,yes,No Risk
+3650,2,skilled,1,yes,yes,No Risk
+3651,1,skilled,1,none,yes,No Risk
+3652,1,skilled,1,yes,yes,No Risk
+3653,1,skilled,1,yes,yes,No Risk
+3654,2,skilled,1,none,yes,No Risk
+3655,1,skilled,1,none,yes,No Risk
+3656,1,unskilled,1,yes,yes,Risk
+3657,1,skilled,1,none,yes,No Risk
+3658,1,skilled,1,none,yes,No Risk
+3659,1,skilled,1,yes,yes,Risk
+3660,2,skilled,1,none,yes,Risk
+3661,2,skilled,2,yes,yes,Risk
+3662,1,skilled,1,none,yes,No Risk
+3663,1,skilled,1,none,yes,No Risk
+3664,1,skilled,1,yes,yes,No Risk
+3665,2,unskilled,2,yes,yes,Risk
+3666,2,unskilled,1,yes,yes,No Risk
+3667,1,unemployed,1,none,yes,No Risk
+3668,1,skilled,1,none,yes,No Risk
+3669,1,skilled,2,yes,yes,No Risk
+3670,1,unskilled,1,none,yes,No Risk
+3671,2,unskilled,2,none,yes,No Risk
+3672,1,management_self-employed,1,none,yes,No Risk
+3673,1,skilled,1,none,yes,Risk
+3674,1,skilled,1,yes,yes,No Risk
+3675,1,skilled,1,none,yes,No Risk
+3676,2,skilled,1,yes,yes,Risk
+3677,1,unskilled,1,none,yes,No Risk
+3678,2,skilled,1,none,yes,Risk
+3679,1,unemployed,1,none,yes,No Risk
+3680,1,skilled,1,none,yes,No Risk
+3681,1,skilled,1,none,yes,No Risk
+3682,2,skilled,1,yes,no,Risk
+3683,2,skilled,1,none,yes,No Risk
+3684,1,skilled,1,none,yes,No Risk
+3685,2,unemployed,1,none,yes,No Risk
+3686,2,skilled,2,yes,yes,Risk
+3687,2,management_self-employed,1,yes,yes,Risk
+3688,1,skilled,1,none,yes,No Risk
+3689,2,skilled,1,none,yes,No Risk
+3690,2,skilled,1,none,yes,No Risk
+3691,1,unskilled,1,none,yes,No Risk
+3692,1,skilled,1,yes,yes,No Risk
+3693,1,skilled,1,none,yes,No Risk
+3694,1,skilled,1,yes,yes,Risk
+3695,3,unskilled,2,yes,yes,Risk
+3696,1,unskilled,1,none,yes,No Risk
+3697,1,management_self-employed,1,none,yes,Risk
+3698,3,skilled,2,yes,yes,Risk
+3699,2,skilled,2,yes,yes,Risk
+3700,1,skilled,1,none,yes,No Risk
+3701,1,unemployed,1,none,yes,No Risk
+3702,2,management_self-employed,2,yes,yes,Risk
+3703,1,unskilled,1,none,yes,No Risk
+3704,2,skilled,1,none,yes,No Risk
+3705,1,skilled,1,none,yes,No Risk
+3706,2,skilled,1,yes,yes,No Risk
+3707,1,skilled,1,yes,yes,No Risk
+3708,1,unskilled,1,none,yes,No Risk
+3709,1,management_self-employed,1,yes,yes,No Risk
+3710,2,skilled,1,none,yes,No Risk
+3711,1,unskilled,1,yes,yes,No Risk
+3712,1,unemployed,1,none,yes,No Risk
+3713,1,unskilled,1,none,yes,No Risk
+3714,2,skilled,1,none,yes,No Risk
+3715,1,skilled,1,yes,yes,No Risk
+3716,1,skilled,1,none,yes,No Risk
+3717,1,skilled,1,none,yes,No Risk
+3718,2,unskilled,2,yes,yes,No Risk
+3719,2,management_self-employed,1,yes,yes,Risk
+3720,2,skilled,1,none,yes,No Risk
+3721,2,management_self-employed,1,none,yes,No Risk
+3722,2,skilled,2,yes,yes,Risk
+3723,1,skilled,1,none,yes,No Risk
+3724,2,skilled,1,none,yes,No Risk
+3725,1,unskilled,1,none,yes,No Risk
+3726,1,skilled,1,yes,yes,No Risk
+3727,1,skilled,1,none,yes,No Risk
+3728,2,management_self-employed,1,yes,yes,Risk
+3729,1,skilled,1,none,yes,No Risk
+3730,2,skilled,1,none,yes,Risk
+3731,1,skilled,1,none,yes,No Risk
+3732,2,skilled,2,yes,yes,Risk
+3733,1,skilled,1,none,yes,No Risk
+3734,2,management_self-employed,1,none,yes,No Risk
+3735,1,skilled,1,none,yes,No Risk
+3736,2,skilled,1,none,yes,No Risk
+3737,1,skilled,1,none,yes,No Risk
+3738,2,management_self-employed,1,yes,yes,No Risk
+3739,1,skilled,1,none,yes,No Risk
+3740,1,management_self-employed,1,yes,yes,No Risk
+3741,1,skilled,1,none,yes,Risk
+3742,2,management_self-employed,1,yes,yes,Risk
+3743,1,management_self-employed,1,none,yes,Risk
+3744,2,skilled,1,none,yes,No Risk
+3745,1,skilled,1,none,no,No Risk
+3746,2,unskilled,2,yes,yes,Risk
+3747,1,skilled,2,yes,yes,No Risk
+3748,2,skilled,2,yes,yes,Risk
+3749,1,unskilled,1,none,yes,No Risk
+3750,2,skilled,1,none,yes,No Risk
+3751,2,skilled,1,none,yes,No Risk
+3752,2,skilled,1,none,yes,Risk
+3753,2,management_self-employed,1,none,yes,No Risk
+3754,2,skilled,2,yes,yes,No Risk
+3755,1,management_self-employed,1,none,yes,No Risk
+3756,1,management_self-employed,1,none,yes,No Risk
+3757,1,skilled,1,none,yes,No Risk
+3758,1,unskilled,1,none,yes,No Risk
+3759,1,skilled,1,none,yes,Risk
+3760,2,management_self-employed,1,yes,yes,Risk
+3761,1,skilled,1,none,yes,No Risk
+3762,1,unemployed,2,yes,yes,Risk
+3763,1,skilled,1,none,yes,Risk
+3764,2,skilled,2,none,yes,No Risk
+3765,2,skilled,1,yes,yes,No Risk
+3766,2,unskilled,2,yes,yes,Risk
+3767,1,skilled,1,none,yes,Risk
+3768,3,skilled,2,yes,yes,Risk
+3769,1,skilled,1,none,no,No Risk
+3770,2,skilled,1,yes,yes,Risk
+3771,1,skilled,1,none,yes,No Risk
+3772,2,skilled,1,yes,yes,Risk
+3773,2,skilled,1,yes,yes,No Risk
+3774,2,unskilled,1,yes,yes,Risk
+3775,1,skilled,1,none,yes,No Risk
+3776,2,unskilled,1,yes,yes,No Risk
+3777,1,skilled,2,yes,yes,Risk
+3778,2,unskilled,2,yes,yes,Risk
+3779,1,skilled,1,none,yes,No Risk
+3780,1,skilled,1,none,yes,No Risk
+3781,3,management_self-employed,2,yes,yes,Risk
+3782,2,skilled,1,yes,yes,No Risk
+3783,1,skilled,1,yes,yes,Risk
+3784,1,skilled,1,none,yes,No Risk
+3785,1,skilled,1,yes,yes,No Risk
+3786,2,unskilled,1,none,yes,No Risk
+3787,1,skilled,1,none,yes,No Risk
+3788,1,unskilled,1,none,yes,No Risk
+3789,1,management_self-employed,1,none,yes,No Risk
+3790,2,skilled,2,yes,yes,Risk
+3791,1,management_self-employed,1,none,yes,No Risk
+3792,1,management_self-employed,1,none,yes,No Risk
+3793,1,skilled,1,none,yes,No Risk
+3794,2,skilled,1,none,yes,No Risk
+3795,1,skilled,1,none,yes,Risk
+3796,2,skilled,2,none,yes,No Risk
+3797,1,unemployed,1,none,yes,No Risk
+3798,2,management_self-employed,2,yes,yes,No Risk
+3799,1,unskilled,1,yes,yes,Risk
+3800,1,skilled,1,none,yes,No Risk
+3801,2,skilled,1,yes,yes,Risk
+3802,1,skilled,1,yes,yes,Risk
+3803,1,skilled,1,none,yes,No Risk
+3804,2,skilled,1,none,yes,No Risk
+3805,1,skilled,1,none,yes,No Risk
+3806,2,unskilled,1,none,yes,No Risk
+3807,3,skilled,2,yes,yes,Risk
+3808,2,skilled,1,none,yes,No Risk
+3809,1,management_self-employed,2,yes,yes,No Risk
+3810,1,unskilled,1,none,yes,No Risk
+3811,1,skilled,1,none,yes,Risk
+3812,2,skilled,1,yes,yes,Risk
+3813,3,unskilled,2,yes,yes,No Risk
+3814,1,skilled,1,none,yes,No Risk
+3815,2,skilled,1,none,yes,Risk
+3816,1,unskilled,1,yes,yes,No Risk
+3817,1,skilled,1,none,yes,No Risk
+3818,1,skilled,1,none,yes,No Risk
+3819,1,skilled,2,yes,yes,No Risk
+3820,1,skilled,1,none,yes,No Risk
+3821,1,unemployed,1,none,yes,No Risk
+3822,2,management_self-employed,2,yes,yes,Risk
+3823,1,unemployed,1,yes,yes,No Risk
+3824,2,skilled,1,none,yes,Risk
+3825,1,unskilled,1,none,yes,No Risk
+3826,1,management_self-employed,1,none,yes,No Risk
+3827,1,management_self-employed,1,none,yes,Risk
+3828,2,skilled,1,yes,yes,Risk
+3829,2,skilled,1,none,yes,No Risk
+3830,2,skilled,1,none,yes,Risk
+3831,2,unemployed,1,yes,no,Risk
+3832,2,unskilled,2,yes,yes,Risk
+3833,1,skilled,1,none,yes,No Risk
+3834,2,management_self-employed,1,yes,yes,Risk
+3835,2,management_self-employed,1,none,yes,No Risk
+3836,1,unskilled,1,none,yes,No Risk
+3837,1,skilled,1,none,yes,No Risk
+3838,2,skilled,2,yes,no,Risk
+3839,1,skilled,1,none,yes,No Risk
+3840,2,skilled,2,yes,yes,Risk
+3841,1,unemployed,1,yes,yes,No Risk
+3842,1,skilled,1,none,yes,No Risk
+3843,1,skilled,1,none,yes,No Risk
+3844,1,skilled,1,none,yes,No Risk
+3845,1,skilled,1,none,yes,No Risk
+3846,1,skilled,1,none,yes,No Risk
+3847,2,skilled,1,none,yes,No Risk
+3848,1,skilled,1,yes,yes,Risk
+3849,2,skilled,1,none,yes,No Risk
+3850,2,unskilled,1,yes,yes,Risk
+3851,1,skilled,1,none,yes,No Risk
+3852,2,skilled,1,yes,yes,Risk
+3853,2,skilled,1,none,yes,Risk
+3854,1,skilled,1,none,yes,No Risk
+3855,1,skilled,1,none,yes,No Risk
+3856,1,skilled,1,none,yes,No Risk
+3857,1,skilled,1,none,yes,No Risk
+3858,1,unemployed,1,none,yes,No Risk
+3859,1,skilled,1,none,yes,Risk
+3860,1,skilled,1,yes,yes,Risk
+3861,1,skilled,2,yes,yes,No Risk
+3862,1,skilled,1,yes,yes,No Risk
+3863,1,skilled,1,none,yes,No Risk
+3864,2,unskilled,1,yes,yes,No Risk
+3865,1,management_self-employed,1,none,yes,No Risk
+3866,1,skilled,1,none,yes,Risk
+3867,2,skilled,1,yes,yes,Risk
+3868,2,skilled,2,yes,yes,No Risk
+3869,1,unskilled,1,none,yes,Risk
+3870,2,skilled,1,yes,yes,Risk
+3871,1,management_self-employed,1,none,yes,No Risk
+3872,1,unemployed,1,yes,yes,No Risk
+3873,1,management_self-employed,1,none,yes,No Risk
+3874,1,management_self-employed,1,none,yes,No Risk
+3875,1,skilled,1,yes,yes,No Risk
+3876,2,management_self-employed,2,yes,yes,No Risk
+3877,1,skilled,1,none,yes,Risk
+3878,1,skilled,1,none,yes,No Risk
+3879,1,skilled,1,none,yes,No Risk
+3880,1,skilled,1,none,yes,No Risk
+3881,1,unskilled,1,yes,yes,Risk
+3882,1,unskilled,1,yes,yes,No Risk
+3883,2,unskilled,2,yes,yes,No Risk
+3884,1,skilled,1,none,yes,No Risk
+3885,1,skilled,1,none,yes,No Risk
+3886,1,skilled,1,none,yes,No Risk
+3887,2,skilled,1,yes,yes,Risk
+3888,2,unskilled,1,none,yes,No Risk
+3889,1,skilled,1,none,yes,Risk
+3890,2,skilled,1,yes,yes,Risk
+3891,2,management_self-employed,1,yes,yes,No Risk
+3892,2,skilled,1,yes,yes,Risk
+3893,1,skilled,1,none,yes,No Risk
+3894,1,skilled,1,none,yes,No Risk
+3895,1,unemployed,1,yes,yes,No Risk
+3896,1,skilled,1,yes,yes,No Risk
+3897,1,skilled,1,none,yes,No Risk
+3898,2,unemployed,1,none,yes,No Risk
+3899,1,skilled,1,yes,yes,No Risk
+3900,2,skilled,1,yes,yes,No Risk
+3901,1,skilled,1,none,yes,No Risk
+3902,2,skilled,2,yes,yes,Risk
+3903,1,skilled,1,none,yes,Risk
+3904,1,skilled,2,yes,yes,Risk
+3905,1,skilled,2,yes,yes,No Risk
+3906,2,unskilled,1,yes,yes,No Risk
+3907,1,skilled,1,none,yes,No Risk
+3908,2,skilled,1,none,yes,No Risk
+3909,1,unskilled,1,none,yes,No Risk
+3910,1,skilled,1,none,yes,No Risk
+3911,1,skilled,1,none,yes,No Risk
+3912,2,skilled,1,none,yes,Risk
+3913,3,skilled,2,yes,yes,Risk
+3914,2,skilled,1,yes,yes,No Risk
+3915,1,skilled,1,none,yes,No Risk
+3916,2,skilled,1,none,yes,No Risk
+3917,1,skilled,1,none,yes,No Risk
+3918,2,unskilled,1,yes,yes,Risk
+3919,2,skilled,1,yes,yes,Risk
+3920,2,skilled,1,yes,yes,No Risk
+3921,2,skilled,1,yes,yes,Risk
+3922,2,skilled,1,none,yes,No Risk
+3923,1,skilled,1,none,yes,No Risk
+3924,2,skilled,1,yes,yes,No Risk
+3925,2,unskilled,2,none,yes,No Risk
+3926,1,management_self-employed,1,none,yes,No Risk
+3927,1,skilled,1,none,yes,No Risk
+3928,2,unskilled,1,yes,yes,Risk
+3929,1,skilled,1,none,yes,No Risk
+3930,2,skilled,2,yes,yes,Risk
+3931,2,skilled,1,none,yes,No Risk
+3932,2,skilled,1,yes,yes,Risk
+3933,1,unemployed,1,yes,yes,Risk
+3934,1,skilled,1,yes,yes,No Risk
+3935,2,unskilled,1,yes,no,No Risk
+3936,2,unskilled,1,none,yes,No Risk
+3937,1,skilled,1,yes,yes,Risk
+3938,2,management_self-employed,2,yes,yes,Risk
+3939,2,skilled,1,yes,yes,Risk
+3940,2,skilled,2,yes,yes,No Risk
+3941,1,skilled,1,none,yes,No Risk
+3942,1,skilled,1,yes,yes,No Risk
+3943,1,unemployed,1,yes,yes,Risk
+3944,2,unskilled,2,yes,yes,Risk
+3945,2,management_self-employed,1,none,no,Risk
+3946,2,skilled,2,yes,yes,Risk
+3947,2,management_self-employed,1,yes,yes,Risk
+3948,2,skilled,2,yes,yes,Risk
+3949,1,skilled,1,none,yes,No Risk
+3950,3,skilled,1,yes,yes,No Risk
+3951,2,skilled,2,yes,yes,Risk
+3952,2,management_self-employed,1,none,yes,No Risk
+3953,1,skilled,1,none,yes,Risk
+3954,1,skilled,1,none,yes,No Risk
+3955,1,skilled,1,yes,yes,No Risk
+3956,1,skilled,2,none,yes,No Risk
+3957,1,skilled,1,none,yes,No Risk
+3958,2,skilled,1,yes,yes,Risk
+3959,1,skilled,1,none,yes,No Risk
+3960,2,skilled,1,yes,yes,Risk
+3961,1,skilled,1,none,yes,No Risk
+3962,2,unskilled,2,yes,yes,Risk
+3963,1,unemployed,1,none,yes,No Risk
+3964,1,unemployed,1,yes,yes,No Risk
+3965,1,skilled,1,none,yes,No Risk
+3966,2,skilled,1,none,yes,No Risk
+3967,1,skilled,2,yes,yes,Risk
+3968,2,skilled,2,yes,yes,No Risk
+3969,2,skilled,1,yes,yes,Risk
+3970,2,management_self-employed,1,none,yes,No Risk
+3971,2,skilled,2,yes,yes,Risk
+3972,2,management_self-employed,2,yes,yes,Risk
+3973,2,skilled,1,yes,yes,No Risk
+3974,1,unskilled,1,yes,yes,No Risk
+3975,1,skilled,1,none,yes,No Risk
+3976,2,skilled,2,yes,yes,Risk
+3977,1,management_self-employed,1,yes,yes,No Risk
+3978,2,skilled,1,none,yes,No Risk
+3979,1,skilled,1,none,yes,No Risk
+3980,2,skilled,1,none,yes,No Risk
+3981,3,unskilled,1,yes,no,No Risk
+3982,1,unskilled,1,yes,yes,No Risk
+3983,2,unskilled,1,none,yes,No Risk
+3984,1,unskilled,1,yes,yes,No Risk
+3985,1,skilled,1,none,yes,No Risk
+3986,1,unskilled,1,yes,yes,Risk
+3987,1,skilled,2,yes,no,No Risk
+3988,1,skilled,1,none,yes,Risk
+3989,1,unskilled,1,none,yes,No Risk
+3990,2,unskilled,1,yes,yes,Risk
+3991,2,management_self-employed,1,yes,yes,No Risk
+3992,2,management_self-employed,1,none,yes,No Risk
+3993,2,unskilled,2,yes,yes,No Risk
+3994,2,skilled,1,yes,yes,Risk
+3995,2,skilled,1,yes,yes,Risk
+3996,1,management_self-employed,2,none,yes,No Risk
+3997,2,skilled,1,none,yes,Risk
+3998,1,skilled,1,none,yes,No Risk
+3999,1,skilled,1,none,yes,No Risk
+4000,2,skilled,2,yes,yes,Risk
+4001,1,skilled,1,none,yes,No Risk
+4002,1,skilled,1,yes,yes,No Risk
+4003,2,management_self-employed,1,yes,yes,No Risk
+4004,2,skilled,1,none,yes,No Risk
+4005,2,skilled,1,yes,yes,Risk
+4006,2,unskilled,1,none,yes,No Risk
+4007,1,skilled,1,none,yes,No Risk
+4008,2,skilled,1,none,yes,No Risk
+4009,2,skilled,2,yes,yes,No Risk
+4010,2,management_self-employed,1,none,yes,Risk
+4011,1,management_self-employed,1,none,yes,No Risk
+4012,2,unemployed,2,yes,yes,Risk
+4013,1,management_self-employed,1,yes,yes,Risk
+4014,1,skilled,1,none,yes,No Risk
+4015,1,skilled,1,none,yes,No Risk
+4016,2,management_self-employed,2,yes,yes,No Risk
+4017,2,skilled,1,yes,yes,Risk
+4018,2,skilled,1,yes,yes,Risk
+4019,1,skilled,2,none,yes,Risk
+4020,1,skilled,1,yes,no,No Risk
+4021,1,management_self-employed,1,yes,yes,No Risk
+4022,2,skilled,1,yes,yes,Risk
+4023,1,skilled,1,none,yes,Risk
+4024,3,skilled,1,none,yes,Risk
+4025,1,skilled,1,yes,yes,Risk
+4026,1,skilled,1,none,yes,Risk
+4027,1,management_self-employed,1,yes,yes,No Risk
+4028,2,skilled,1,yes,yes,Risk
+4029,1,unemployed,1,none,yes,No Risk
+4030,2,skilled,2,none,yes,Risk
+4031,2,skilled,2,yes,yes,Risk
+4032,2,unskilled,2,yes,yes,Risk
+4033,2,skilled,1,yes,yes,No Risk
+4034,1,skilled,1,none,yes,No Risk
+4035,2,skilled,1,yes,yes,Risk
+4036,3,skilled,2,yes,yes,Risk
+4037,2,management_self-employed,2,yes,yes,Risk
+4038,2,skilled,1,yes,yes,Risk
+4039,1,skilled,1,none,yes,No Risk
+4040,2,skilled,2,yes,yes,No Risk
+4041,1,management_self-employed,1,none,yes,No Risk
+4042,1,unemployed,1,none,yes,No Risk
+4043,1,skilled,1,none,yes,No Risk
+4044,1,skilled,1,none,yes,Risk
+4045,1,skilled,1,none,yes,No Risk
+4046,1,unemployed,1,none,yes,No Risk
+4047,1,unskilled,1,none,yes,Risk
+4048,1,skilled,2,yes,yes,No Risk
+4049,1,management_self-employed,1,none,yes,No Risk
+4050,2,unskilled,1,yes,yes,No Risk
+4051,1,unskilled,1,none,yes,No Risk
+4052,1,unemployed,1,yes,yes,No Risk
+4053,2,unskilled,1,yes,yes,Risk
+4054,1,skilled,1,none,yes,No Risk
+4055,2,skilled,1,yes,yes,No Risk
+4056,1,skilled,1,none,yes,No Risk
+4057,1,skilled,1,none,yes,No Risk
+4058,2,skilled,1,yes,yes,No Risk
+4059,2,skilled,1,none,yes,Risk
+4060,1,skilled,1,none,yes,No Risk
+4061,1,unskilled,2,yes,yes,No Risk
+4062,2,skilled,1,yes,yes,Risk
+4063,2,skilled,1,none,yes,No Risk
+4064,2,skilled,1,yes,yes,No Risk
+4065,2,skilled,1,none,yes,No Risk
+4066,3,skilled,1,none,yes,No Risk
+4067,1,unskilled,1,none,yes,No Risk
+4068,1,skilled,1,none,yes,Risk
+4069,2,skilled,1,yes,yes,Risk
+4070,1,skilled,1,none,yes,No Risk
+4071,2,skilled,1,none,yes,Risk
+4072,2,skilled,1,yes,yes,Risk
+4073,1,skilled,1,none,yes,No Risk
+4074,2,management_self-employed,2,yes,yes,Risk
+4075,1,unemployed,1,none,yes,No Risk
+4076,1,skilled,1,none,yes,No Risk
+4077,1,management_self-employed,2,none,yes,Risk
+4078,2,unemployed,2,yes,yes,No Risk
+4079,1,management_self-employed,1,yes,yes,No Risk
+4080,2,skilled,1,yes,yes,Risk
+4081,1,skilled,1,none,yes,No Risk
+4082,2,management_self-employed,1,yes,no,Risk
+4083,2,skilled,1,none,yes,Risk
+4084,2,management_self-employed,1,yes,no,Risk
+4085,1,skilled,1,none,yes,No Risk
+4086,2,skilled,2,yes,yes,Risk
+4087,2,skilled,1,yes,yes,Risk
+4088,1,skilled,1,none,yes,Risk
+4089,2,management_self-employed,1,yes,yes,Risk
+4090,2,unskilled,1,none,yes,No Risk
+4091,2,skilled,1,yes,yes,Risk
+4092,1,skilled,1,none,yes,No Risk
+4093,1,skilled,1,none,yes,No Risk
+4094,2,skilled,1,none,yes,Risk
+4095,2,skilled,1,none,yes,Risk
+4096,2,skilled,1,none,yes,No Risk
+4097,1,skilled,1,yes,yes,No Risk
+4098,1,skilled,1,yes,no,Risk
+4099,2,skilled,1,none,yes,Risk
+4100,1,skilled,1,none,yes,No Risk
+4101,1,unskilled,1,none,yes,No Risk
+4102,3,skilled,2,yes,yes,Risk
+4103,1,unskilled,2,yes,yes,No Risk
+4104,2,skilled,2,yes,yes,Risk
+4105,2,skilled,1,yes,yes,No Risk
+4106,3,skilled,2,yes,yes,Risk
+4107,1,unskilled,1,none,yes,No Risk
+4108,2,unskilled,1,none,yes,Risk
+4109,2,skilled,1,yes,yes,Risk
+4110,2,skilled,1,none,yes,No Risk
+4111,1,unskilled,1,none,yes,No Risk
+4112,1,unemployed,2,none,yes,No Risk
+4113,2,unskilled,1,yes,yes,Risk
+4114,2,skilled,1,yes,yes,Risk
+4115,2,management_self-employed,1,yes,yes,No Risk
+4116,2,skilled,1,yes,yes,Risk
+4117,1,skilled,1,yes,yes,No Risk
+4118,1,management_self-employed,1,none,yes,No Risk
+4119,1,skilled,1,none,yes,Risk
+4120,1,skilled,2,yes,yes,Risk
+4121,2,skilled,1,yes,yes,Risk
+4122,2,skilled,1,yes,yes,Risk
+4123,2,management_self-employed,1,yes,yes,Risk
+4124,2,skilled,2,yes,yes,No Risk
+4125,1,skilled,1,yes,yes,No Risk
+4126,1,skilled,1,none,yes,No Risk
+4127,1,skilled,2,none,yes,No Risk
+4128,1,skilled,1,none,yes,No Risk
+4129,1,skilled,1,none,yes,No Risk
+4130,2,skilled,1,none,yes,Risk
+4131,1,unskilled,1,none,yes,Risk
+4132,1,management_self-employed,1,yes,yes,Risk
+4133,1,skilled,1,none,yes,No Risk
+4134,2,management_self-employed,1,yes,yes,Risk
+4135,1,skilled,1,none,yes,No Risk
+4136,1,unskilled,1,none,yes,No Risk
+4137,2,skilled,1,yes,yes,Risk
+4138,1,skilled,1,none,yes,No Risk
+4139,2,skilled,1,none,yes,Risk
+4140,1,skilled,1,none,yes,No Risk
+4141,1,skilled,1,none,yes,No Risk
+4142,2,skilled,1,none,yes,Risk
+4143,1,skilled,1,none,yes,No Risk
+4144,2,skilled,1,yes,yes,Risk
+4145,1,unskilled,1,none,yes,No Risk
+4146,1,skilled,1,none,yes,No Risk
+4147,1,skilled,1,none,yes,No Risk
+4148,1,unskilled,1,none,yes,No Risk
+4149,2,skilled,1,yes,yes,No Risk
+4150,2,management_self-employed,1,yes,yes,Risk
+4151,2,skilled,1,yes,yes,Risk
+4152,1,skilled,1,none,yes,No Risk
+4153,1,skilled,1,none,yes,No Risk
+4154,1,skilled,1,yes,yes,No Risk
+4155,1,skilled,1,none,yes,No Risk
+4156,1,skilled,1,none,yes,No Risk
+4157,1,skilled,1,none,yes,No Risk
+4158,2,skilled,1,none,yes,No Risk
+4159,1,unskilled,1,none,yes,No Risk
+4160,1,skilled,1,none,yes,No Risk
+4161,2,skilled,1,yes,yes,No Risk
+4162,2,skilled,2,yes,yes,Risk
+4163,1,skilled,1,none,yes,No Risk
+4164,2,management_self-employed,1,yes,yes,No Risk
+4165,1,skilled,1,none,yes,No Risk
+4166,1,skilled,1,none,yes,No Risk
+4167,1,skilled,1,none,yes,No Risk
+4168,1,skilled,1,yes,yes,Risk
+4169,2,skilled,2,yes,yes,Risk
+4170,1,skilled,1,none,yes,Risk
+4171,3,skilled,2,yes,yes,Risk
+4172,1,skilled,1,none,yes,No Risk
+4173,2,management_self-employed,2,none,yes,Risk
+4174,2,skilled,1,yes,yes,No Risk
+4175,1,unemployed,1,yes,yes,Risk
+4176,2,skilled,1,yes,yes,Risk
+4177,2,unskilled,1,yes,yes,Risk
+4178,1,skilled,1,none,yes,No Risk
+4179,2,skilled,1,yes,yes,No Risk
+4180,2,management_self-employed,1,yes,yes,Risk
+4181,1,skilled,1,none,yes,No Risk
+4182,1,management_self-employed,1,yes,yes,Risk
+4183,1,management_self-employed,1,none,yes,No Risk
+4184,1,unskilled,1,none,yes,No Risk
+4185,2,skilled,1,none,yes,No Risk
+4186,2,skilled,2,yes,yes,No Risk
+4187,1,skilled,1,none,yes,No Risk
+4188,2,management_self-employed,1,yes,yes,Risk
+4189,2,unskilled,1,yes,no,Risk
+4190,1,management_self-employed,2,none,no,No Risk
+4191,1,skilled,1,none,yes,No Risk
+4192,3,skilled,1,none,yes,Risk
+4193,1,management_self-employed,2,yes,yes,No Risk
+4194,1,skilled,1,none,yes,No Risk
+4195,1,unskilled,1,none,yes,No Risk
+4196,2,unskilled,1,none,yes,No Risk
+4197,2,unskilled,2,yes,yes,Risk
+4198,2,management_self-employed,1,yes,yes,No Risk
+4199,1,skilled,1,yes,yes,No Risk
+4200,2,unemployed,1,yes,yes,No Risk
+4201,2,skilled,1,none,yes,No Risk
+4202,1,skilled,1,yes,yes,Risk
+4203,1,skilled,1,none,yes,No Risk
+4204,1,management_self-employed,1,yes,yes,No Risk
+4205,1,management_self-employed,1,none,yes,Risk
+4206,2,skilled,1,none,yes,Risk
+4207,1,skilled,2,none,yes,Risk
+4208,1,skilled,1,none,yes,No Risk
+4209,2,skilled,1,none,yes,No Risk
+4210,2,skilled,1,none,yes,Risk
+4211,2,skilled,1,yes,yes,No Risk
+4212,1,management_self-employed,1,none,yes,Risk
+4213,2,skilled,1,none,no,Risk
+4214,1,skilled,1,yes,yes,Risk
+4215,1,skilled,1,none,yes,No Risk
+4216,3,skilled,2,yes,yes,No Risk
+4217,2,skilled,1,yes,yes,Risk
+4218,2,skilled,1,none,yes,No Risk
+4219,1,unskilled,1,yes,yes,Risk
+4220,1,unemployed,1,none,yes,No Risk
+4221,1,unskilled,1,none,yes,No Risk
+4222,2,skilled,2,yes,yes,Risk
+4223,1,skilled,1,none,yes,Risk
+4224,2,skilled,1,none,yes,No Risk
+4225,1,skilled,1,none,yes,No Risk
+4226,2,unskilled,1,none,yes,Risk
+4227,1,skilled,1,yes,yes,No Risk
+4228,1,skilled,1,none,yes,Risk
+4229,1,skilled,1,yes,yes,No Risk
+4230,1,skilled,1,none,yes,No Risk
+4231,2,skilled,2,yes,no,Risk
+4232,2,management_self-employed,2,yes,yes,Risk
+4233,1,unskilled,2,none,yes,No Risk
+4234,2,management_self-employed,1,none,yes,No Risk
+4235,1,skilled,1,none,yes,No Risk
+4236,1,management_self-employed,1,none,yes,No Risk
+4237,2,unemployed,1,yes,yes,Risk
+4238,2,unskilled,2,yes,yes,No Risk
+4239,1,skilled,1,none,yes,No Risk
+4240,2,management_self-employed,1,none,yes,Risk
+4241,2,management_self-employed,1,none,yes,No Risk
+4242,2,skilled,2,yes,yes,Risk
+4243,1,skilled,1,none,yes,No Risk
+4244,2,skilled,2,yes,yes,Risk
+4245,1,unskilled,1,none,yes,No Risk
+4246,1,skilled,1,none,yes,Risk
+4247,1,skilled,1,none,yes,Risk
+4248,1,skilled,1,yes,yes,No Risk
+4249,1,skilled,1,none,yes,No Risk
+4250,3,skilled,1,none,yes,Risk
+4251,1,skilled,1,none,yes,Risk
+4252,1,skilled,1,none,yes,No Risk
+4253,1,management_self-employed,1,yes,yes,No Risk
+4254,1,skilled,1,none,yes,No Risk
+4255,1,skilled,1,yes,yes,No Risk
+4256,2,management_self-employed,2,yes,yes,Risk
+4257,1,management_self-employed,1,none,yes,No Risk
+4258,1,skilled,1,yes,yes,No Risk
+4259,1,unskilled,1,yes,yes,No Risk
+4260,2,unemployed,1,yes,yes,No Risk
+4261,1,unemployed,1,none,yes,No Risk
+4262,2,skilled,2,yes,yes,Risk
+4263,1,skilled,1,none,yes,No Risk
+4264,1,management_self-employed,2,yes,yes,No Risk
+4265,1,skilled,1,none,yes,No Risk
+4266,1,skilled,1,none,yes,Risk
+4267,1,skilled,1,yes,yes,No Risk
+4268,2,skilled,1,none,yes,No Risk
+4269,1,unskilled,1,none,yes,No Risk
+4270,1,skilled,1,yes,yes,No Risk
+4271,1,unskilled,1,none,yes,No Risk
+4272,2,skilled,1,yes,yes,Risk
+4273,1,unskilled,1,none,yes,No Risk
+4274,1,skilled,1,none,yes,Risk
+4275,1,management_self-employed,2,yes,yes,No Risk
+4276,2,skilled,1,yes,yes,Risk
+4277,1,skilled,1,none,yes,No Risk
+4278,2,skilled,1,none,yes,Risk
+4279,1,skilled,1,none,yes,No Risk
+4280,1,skilled,1,none,yes,No Risk
+4281,1,skilled,1,none,yes,No Risk
+4282,1,unemployed,1,none,yes,Risk
+4283,1,skilled,1,none,yes,No Risk
+4284,2,skilled,1,yes,yes,Risk
+4285,2,skilled,1,none,yes,Risk
+4286,2,unskilled,1,none,yes,No Risk
+4287,2,skilled,1,yes,yes,No Risk
+4288,2,unskilled,2,yes,no,Risk
+4289,1,unskilled,1,none,yes,No Risk
+4290,2,skilled,1,yes,yes,Risk
+4291,2,unskilled,1,none,yes,No Risk
+4292,3,skilled,2,yes,yes,Risk
+4293,1,skilled,1,none,yes,No Risk
+4294,2,skilled,2,yes,yes,Risk
+4295,1,skilled,1,yes,yes,No Risk
+4296,2,skilled,1,yes,yes,No Risk
+4297,1,skilled,1,none,yes,No Risk
+4298,2,skilled,2,yes,yes,Risk
+4299,1,skilled,1,none,yes,No Risk
+4300,2,skilled,1,yes,yes,No Risk
+4301,1,management_self-employed,2,yes,yes,No Risk
+4302,2,skilled,1,yes,yes,No Risk
+4303,1,skilled,1,none,yes,No Risk
+4304,1,unskilled,1,none,yes,No Risk
+4305,1,skilled,1,none,yes,No Risk
+4306,2,skilled,1,none,yes,Risk
+4307,1,skilled,1,none,yes,No Risk
+4308,1,skilled,1,yes,yes,No Risk
+4309,1,management_self-employed,1,yes,yes,No Risk
+4310,2,skilled,2,yes,yes,Risk
+4311,1,skilled,1,yes,yes,No Risk
+4312,2,skilled,2,yes,no,Risk
+4313,1,skilled,1,none,yes,No Risk
+4314,1,skilled,1,none,yes,No Risk
+4315,1,skilled,1,yes,yes,Risk
+4316,1,skilled,1,none,yes,No Risk
+4317,2,skilled,1,yes,yes,Risk
+4318,2,skilled,1,yes,yes,Risk
+4319,1,unemployed,1,yes,yes,No Risk
+4320,1,unemployed,1,none,yes,No Risk
+4321,1,skilled,1,none,yes,No Risk
+4322,2,skilled,1,none,yes,No Risk
+4323,2,skilled,1,yes,yes,No Risk
+4324,2,skilled,1,yes,yes,No Risk
+4325,1,unskilled,1,none,yes,No Risk
+4326,2,skilled,1,none,yes,No Risk
+4327,1,management_self-employed,2,none,yes,Risk
+4328,1,skilled,1,none,yes,No Risk
+4329,1,skilled,1,none,yes,No Risk
+4330,1,skilled,2,none,yes,No Risk
+4331,2,unskilled,1,none,yes,No Risk
+4332,1,unemployed,1,none,yes,No Risk
+4333,1,skilled,1,none,yes,Risk
+4334,3,skilled,1,none,yes,No Risk
+4335,2,unskilled,1,yes,yes,No Risk
+4336,2,skilled,1,none,yes,No Risk
+4337,1,unskilled,1,yes,yes,Risk
+4338,2,management_self-employed,1,none,yes,Risk
+4339,1,skilled,1,none,yes,Risk
+4340,1,skilled,1,yes,no,Risk
+4341,1,management_self-employed,1,none,yes,No Risk
+4342,1,skilled,2,none,yes,No Risk
+4343,2,skilled,1,none,yes,Risk
+4344,1,skilled,1,yes,no,Risk
+4345,1,management_self-employed,1,none,yes,No Risk
+4346,2,skilled,1,yes,yes,Risk
+4347,2,skilled,1,none,no,Risk
+4348,1,skilled,1,none,yes,No Risk
+4349,1,skilled,1,none,yes,No Risk
+4350,2,skilled,2,yes,yes,Risk
+4351,2,unemployed,1,yes,yes,Risk
+4352,2,unskilled,2,none,yes,No Risk
+4353,2,skilled,1,none,yes,No Risk
+4354,2,management_self-employed,1,yes,yes,Risk
+4355,1,skilled,1,none,yes,No Risk
+4356,1,management_self-employed,1,none,yes,Risk
+4357,1,unskilled,2,yes,no,No Risk
+4358,1,unemployed,1,none,yes,Risk
+4359,1,management_self-employed,2,yes,yes,No Risk
+4360,1,skilled,1,none,yes,No Risk
+4361,1,unemployed,1,yes,yes,No Risk
+4362,2,skilled,1,yes,yes,Risk
+4363,1,unskilled,1,none,yes,No Risk
+4364,2,management_self-employed,1,yes,yes,No Risk
+4365,1,skilled,1,yes,yes,No Risk
+4366,2,management_self-employed,1,yes,yes,Risk
+4367,1,unskilled,1,yes,yes,No Risk
+4368,1,management_self-employed,1,none,yes,No Risk
+4369,2,skilled,2,yes,yes,Risk
+4370,2,skilled,1,yes,yes,No Risk
+4371,2,unskilled,1,none,yes,No Risk
+4372,1,skilled,1,none,yes,Risk
+4373,1,skilled,1,none,yes,No Risk
+4374,2,management_self-employed,1,none,yes,No Risk
+4375,2,skilled,2,yes,yes,No Risk
+4376,1,skilled,1,none,yes,No Risk
+4377,2,unskilled,1,none,yes,No Risk
+4378,2,skilled,1,none,yes,No Risk
+4379,2,unemployed,2,yes,yes,Risk
+4380,2,unskilled,1,none,yes,No Risk
+4381,1,skilled,1,none,yes,No Risk
+4382,1,skilled,1,yes,yes,Risk
+4383,1,skilled,1,none,yes,No Risk
+4384,1,unemployed,1,none,yes,No Risk
+4385,1,management_self-employed,1,none,yes,No Risk
+4386,2,skilled,1,yes,yes,Risk
+4387,1,unemployed,1,none,yes,No Risk
+4388,1,management_self-employed,1,none,yes,No Risk
+4389,1,unskilled,1,yes,yes,Risk
+4390,2,skilled,1,yes,yes,Risk
+4391,1,skilled,1,none,yes,No Risk
+4392,2,skilled,1,yes,yes,No Risk
+4393,1,management_self-employed,1,none,yes,No Risk
+4394,1,skilled,1,none,yes,No Risk
+4395,1,skilled,2,yes,yes,No Risk
+4396,1,skilled,1,none,yes,No Risk
+4397,1,skilled,1,none,yes,No Risk
+4398,1,skilled,2,none,yes,No Risk
+4399,2,management_self-employed,1,none,yes,No Risk
+4400,1,unemployed,1,none,yes,No Risk
+4401,1,skilled,1,none,yes,No Risk
+4402,1,skilled,1,yes,yes,No Risk
+4403,1,management_self-employed,1,none,yes,No Risk
+4404,2,skilled,1,none,yes,Risk
+4405,1,skilled,1,none,yes,Risk
+4406,1,skilled,1,none,yes,No Risk
+4407,2,management_self-employed,1,none,yes,No Risk
+4408,1,skilled,1,none,yes,Risk
+4409,1,management_self-employed,1,none,yes,No Risk
+4410,2,skilled,1,yes,yes,Risk
+4411,1,skilled,1,none,yes,No Risk
+4412,1,skilled,1,yes,yes,Risk
+4413,2,skilled,1,yes,yes,Risk
+4414,2,skilled,1,none,yes,Risk
+4415,1,unskilled,1,none,yes,No Risk
+4416,3,skilled,2,yes,yes,Risk
+4417,1,skilled,1,none,yes,No Risk
+4418,2,skilled,1,yes,yes,Risk
+4419,2,skilled,1,none,yes,No Risk
+4420,1,unemployed,1,yes,yes,Risk
+4421,1,skilled,1,none,yes,Risk
+4422,2,unskilled,1,none,yes,Risk
+4423,2,skilled,1,yes,yes,Risk
+4424,1,skilled,1,none,yes,No Risk
+4425,1,skilled,1,yes,yes,No Risk
+4426,2,unskilled,1,yes,yes,No Risk
+4427,1,skilled,1,yes,yes,No Risk
+4428,3,management_self-employed,2,yes,yes,Risk
+4429,1,skilled,1,none,yes,No Risk
+4430,1,skilled,1,yes,yes,No Risk
+4431,2,management_self-employed,1,none,yes,Risk
+4432,2,unskilled,2,yes,yes,Risk
+4433,1,skilled,1,none,yes,Risk
+4434,2,unskilled,1,yes,yes,No Risk
+4435,2,unemployed,1,yes,yes,Risk
+4436,1,skilled,1,none,yes,No Risk
+4437,1,skilled,1,none,yes,No Risk
+4438,2,skilled,1,yes,yes,Risk
+4439,2,skilled,1,none,yes,Risk
+4440,1,skilled,1,none,yes,No Risk
+4441,1,skilled,1,none,yes,No Risk
+4442,2,skilled,2,yes,yes,Risk
+4443,2,skilled,1,none,yes,No Risk
+4444,1,skilled,1,none,yes,No Risk
+4445,1,skilled,2,yes,yes,No Risk
+4446,2,skilled,1,yes,yes,Risk
+4447,1,skilled,1,none,yes,No Risk
+4448,2,management_self-employed,1,yes,yes,No Risk
+4449,1,skilled,1,yes,yes,No Risk
+4450,1,unskilled,1,none,yes,No Risk
+4451,1,management_self-employed,1,none,yes,No Risk
+4452,2,unemployed,1,yes,yes,No Risk
+4453,1,skilled,1,none,yes,No Risk
+4454,1,skilled,1,none,yes,No Risk
+4455,1,management_self-employed,1,none,yes,No Risk
+4456,2,skilled,1,yes,yes,Risk
+4457,2,skilled,2,yes,yes,No Risk
+4458,1,skilled,1,yes,yes,No Risk
+4459,1,skilled,1,none,yes,No Risk
+4460,1,skilled,1,none,yes,No Risk
+4461,1,skilled,1,none,yes,No Risk
+4462,2,skilled,1,yes,yes,Risk
+4463,1,skilled,1,none,yes,No Risk
+4464,2,skilled,2,yes,yes,Risk
+4465,3,skilled,1,none,yes,Risk
+4466,2,skilled,1,yes,yes,No Risk
+4467,1,unskilled,2,none,yes,No Risk
+4468,1,skilled,1,none,yes,No Risk
+4469,1,skilled,1,none,yes,No Risk
+4470,1,skilled,1,none,yes,No Risk
+4471,1,skilled,1,none,yes,No Risk
+4472,2,management_self-employed,1,none,yes,No Risk
+4473,1,skilled,1,none,yes,No Risk
+4474,1,skilled,1,yes,yes,No Risk
+4475,2,skilled,1,none,yes,Risk
+4476,1,unskilled,1,yes,yes,Risk
+4477,1,skilled,2,none,yes,No Risk
+4478,1,skilled,1,yes,yes,No Risk
+4479,1,unskilled,2,yes,yes,No Risk
+4480,1,unskilled,1,yes,yes,No Risk
+4481,1,skilled,1,none,yes,No Risk
+4482,2,skilled,1,none,yes,No Risk
+4483,1,skilled,1,yes,no,Risk
+4484,3,skilled,1,yes,yes,No Risk
+4485,2,skilled,1,none,yes,Risk
+4486,2,skilled,2,yes,yes,No Risk
+4487,1,skilled,1,none,yes,Risk
+4488,1,skilled,1,none,yes,No Risk
+4489,2,unemployed,1,none,yes,No Risk
+4490,1,unemployed,1,none,yes,No Risk
+4491,1,skilled,1,none,yes,No Risk
+4492,1,skilled,1,none,yes,No Risk
+4493,1,skilled,1,none,yes,No Risk
+4494,1,skilled,1,none,yes,No Risk
+4495,1,skilled,1,none,yes,No Risk
+4496,2,management_self-employed,1,none,yes,Risk
+4497,1,skilled,1,none,yes,Risk
+4498,2,management_self-employed,2,yes,yes,Risk
+4499,1,management_self-employed,2,none,yes,No Risk
+4500,3,skilled,2,yes,yes,Risk
+4501,1,unskilled,1,none,yes,No Risk
+4502,1,skilled,1,yes,yes,No Risk
+4503,2,management_self-employed,1,yes,yes,No Risk
+4504,2,management_self-employed,1,yes,yes,No Risk
+4505,1,unskilled,1,none,yes,No Risk
+4506,2,management_self-employed,1,yes,yes,Risk
+4507,1,unskilled,1,none,yes,No Risk
+4508,2,skilled,1,yes,yes,No Risk
+4509,1,skilled,1,none,yes,No Risk
+4510,1,skilled,1,yes,yes,No Risk
+4511,1,skilled,1,none,yes,No Risk
+4512,2,skilled,2,yes,yes,Risk
+4513,1,skilled,1,yes,yes,No Risk
+4514,1,skilled,1,none,yes,No Risk
+4515,2,unemployed,2,yes,yes,No Risk
+4516,2,skilled,2,yes,no,Risk
+4517,2,skilled,1,none,yes,No Risk
+4518,2,skilled,1,none,no,Risk
+4519,2,unemployed,1,none,yes,No Risk
+4520,1,unemployed,1,none,yes,No Risk
+4521,1,skilled,1,none,yes,No Risk
+4522,2,unemployed,1,none,yes,No Risk
+4523,2,skilled,1,none,yes,No Risk
+4524,1,skilled,1,none,yes,No Risk
+4525,1,skilled,1,none,yes,No Risk
+4526,2,skilled,2,yes,yes,Risk
+4527,1,skilled,1,none,yes,No Risk
+4528,1,management_self-employed,1,none,yes,No Risk
+4529,1,management_self-employed,1,none,yes,No Risk
+4530,1,unskilled,1,none,yes,No Risk
+4531,2,unskilled,2,yes,yes,Risk
+4532,2,management_self-employed,1,none,yes,No Risk
+4533,2,skilled,1,none,yes,No Risk
+4534,2,skilled,1,yes,no,Risk
+4535,3,skilled,1,yes,yes,Risk
+4536,2,skilled,1,none,yes,Risk
+4537,2,skilled,1,yes,yes,Risk
+4538,2,management_self-employed,2,yes,yes,Risk
+4539,1,skilled,1,none,yes,No Risk
+4540,1,skilled,1,none,yes,No Risk
+4541,1,skilled,1,none,yes,No Risk
+4542,1,skilled,1,yes,yes,Risk
+4543,1,unemployed,1,none,yes,No Risk
+4544,2,skilled,1,yes,yes,Risk
+4545,1,management_self-employed,1,none,yes,Risk
+4546,1,skilled,1,none,yes,No Risk
+4547,1,management_self-employed,1,none,no,No Risk
+4548,1,skilled,1,none,yes,Risk
+4549,1,management_self-employed,2,none,yes,No Risk
+4550,1,skilled,1,none,yes,No Risk
+4551,2,management_self-employed,1,yes,yes,Risk
+4552,2,skilled,1,none,yes,Risk
+4553,2,unskilled,2,none,yes,Risk
+4554,2,skilled,1,none,yes,No Risk
+4555,1,skilled,1,none,yes,No Risk
+4556,2,skilled,1,yes,yes,Risk
+4557,1,skilled,1,yes,yes,No Risk
+4558,2,skilled,1,none,yes,No Risk
+4559,1,unskilled,1,none,yes,No Risk
+4560,3,skilled,2,yes,yes,Risk
+4561,2,unskilled,1,yes,no,Risk
+4562,1,unemployed,1,none,yes,No Risk
+4563,2,skilled,1,yes,yes,Risk
+4564,1,skilled,1,none,yes,No Risk
+4565,2,skilled,1,yes,yes,Risk
+4566,1,unskilled,1,none,yes,No Risk
+4567,1,skilled,1,none,yes,No Risk
+4568,1,skilled,2,yes,yes,No Risk
+4569,1,skilled,1,none,yes,No Risk
+4570,2,management_self-employed,2,none,yes,No Risk
+4571,1,skilled,1,none,yes,No Risk
+4572,2,unemployed,1,yes,yes,No Risk
+4573,1,skilled,1,none,yes,No Risk
+4574,1,skilled,1,none,yes,No Risk
+4575,1,unskilled,1,none,yes,No Risk
+4576,1,unskilled,1,yes,yes,No Risk
+4577,1,skilled,1,none,yes,No Risk
+4578,2,skilled,1,none,yes,No Risk
+4579,1,unskilled,1,none,yes,No Risk
+4580,3,skilled,2,yes,yes,Risk
+4581,2,skilled,1,none,yes,Risk
+4582,1,skilled,2,yes,yes,No Risk
+4583,1,skilled,1,none,yes,No Risk
+4584,1,skilled,1,none,yes,No Risk
+4585,1,unskilled,1,none,yes,Risk
+4586,1,skilled,1,none,yes,No Risk
+4587,1,skilled,1,none,yes,No Risk
+4588,1,skilled,1,none,no,No Risk
+4589,1,management_self-employed,1,yes,yes,Risk
+4590,2,skilled,1,yes,yes,Risk
+4591,1,skilled,1,none,yes,No Risk
+4592,1,skilled,1,none,yes,No Risk
+4593,1,skilled,1,yes,yes,Risk
+4594,2,management_self-employed,1,yes,yes,Risk
+4595,1,skilled,1,none,yes,No Risk
+4596,2,skilled,1,none,yes,No Risk
+4597,1,skilled,1,yes,yes,Risk
+4598,2,skilled,1,none,yes,No Risk
+4599,1,skilled,1,none,yes,Risk
+4600,2,management_self-employed,1,none,yes,No Risk
+4601,1,skilled,1,none,yes,No Risk
+4602,1,skilled,1,none,yes,No Risk
+4603,1,skilled,1,none,yes,No Risk
+4604,1,unemployed,2,yes,yes,Risk
+4605,1,skilled,1,none,yes,No Risk
+4606,2,unemployed,1,none,yes,Risk
+4607,2,skilled,1,yes,yes,No Risk
+4608,2,skilled,1,none,yes,No Risk
+4609,1,skilled,1,none,yes,No Risk
+4610,1,unskilled,1,yes,yes,No Risk
+4611,1,skilled,2,none,yes,No Risk
+4612,2,skilled,2,yes,yes,Risk
+4613,1,skilled,2,yes,yes,Risk
+4614,2,management_self-employed,2,yes,yes,No Risk
+4615,1,skilled,1,none,yes,No Risk
+4616,1,skilled,1,yes,yes,Risk
+4617,1,skilled,1,none,yes,No Risk
+4618,1,skilled,1,none,yes,No Risk
+4619,2,unskilled,1,yes,yes,Risk
+4620,2,skilled,1,yes,yes,No Risk
+4621,1,unskilled,1,none,yes,No Risk
+4622,1,skilled,1,none,yes,No Risk
+4623,2,management_self-employed,1,none,yes,Risk
+4624,2,skilled,1,none,yes,No Risk
+4625,1,skilled,1,none,yes,No Risk
+4626,2,management_self-employed,2,yes,yes,Risk
+4627,2,skilled,2,yes,yes,Risk
+4628,2,skilled,2,none,yes,No Risk
+4629,1,skilled,1,none,yes,No Risk
+4630,1,skilled,1,none,yes,No Risk
+4631,2,unskilled,1,yes,no,Risk
+4632,2,skilled,2,yes,yes,Risk
+4633,2,unemployed,1,yes,yes,Risk
+4634,1,skilled,1,none,yes,No Risk
+4635,2,skilled,2,yes,yes,Risk
+4636,1,skilled,1,none,yes,Risk
+4637,1,skilled,1,none,yes,No Risk
+4638,1,unskilled,2,yes,yes,No Risk
+4639,1,management_self-employed,1,none,yes,No Risk
+4640,2,skilled,2,yes,yes,No Risk
+4641,1,unemployed,1,none,yes,No Risk
+4642,2,skilled,1,yes,yes,No Risk
+4643,1,skilled,1,none,yes,No Risk
+4644,2,management_self-employed,2,yes,yes,Risk
+4645,1,skilled,1,yes,yes,No Risk
+4646,2,skilled,1,yes,no,Risk
+4647,1,unskilled,2,none,yes,No Risk
+4648,1,skilled,1,none,yes,No Risk
+4649,2,unskilled,1,none,yes,No Risk
+4650,2,unemployed,2,yes,yes,No Risk
+4651,2,unskilled,2,yes,yes,No Risk
+4652,1,skilled,1,none,yes,No Risk
+4653,1,unemployed,1,none,yes,No Risk
+4654,1,skilled,2,none,yes,No Risk
+4655,2,skilled,1,yes,yes,No Risk
+4656,1,skilled,1,yes,yes,No Risk
+4657,1,skilled,1,none,yes,No Risk
+4658,1,skilled,1,yes,yes,No Risk
+4659,1,unskilled,1,none,yes,No Risk
+4660,3,skilled,1,yes,yes,Risk
+4661,1,unskilled,1,yes,yes,No Risk
+4662,2,skilled,1,none,yes,No Risk
+4663,1,skilled,1,none,yes,No Risk
+4664,1,skilled,1,none,yes,No Risk
+4665,1,skilled,1,none,yes,No Risk
+4666,1,management_self-employed,1,none,yes,No Risk
+4667,2,skilled,2,yes,yes,No Risk
+4668,2,unskilled,2,none,yes,No Risk
+4669,1,skilled,1,none,yes,No Risk
+4670,2,management_self-employed,2,yes,yes,Risk
+4671,1,skilled,1,none,yes,No Risk
+4672,2,skilled,1,yes,yes,Risk
+4673,1,skilled,1,none,yes,No Risk
+4674,2,skilled,1,yes,yes,Risk
+4675,1,unemployed,1,none,yes,No Risk
+4676,3,skilled,1,yes,yes,Risk
+4677,2,skilled,1,none,yes,Risk
+4678,2,skilled,2,yes,yes,No Risk
+4679,3,skilled,2,yes,yes,Risk
+4680,2,management_self-employed,1,none,yes,Risk
+4681,1,skilled,1,yes,yes,No Risk
+4682,2,management_self-employed,1,yes,yes,Risk
+4683,1,skilled,1,none,yes,No Risk
+4684,1,skilled,1,none,yes,No Risk
+4685,1,skilled,1,none,yes,No Risk
+4686,1,unskilled,1,none,yes,No Risk
+4687,1,management_self-employed,1,none,yes,No Risk
+4688,2,skilled,1,yes,yes,No Risk
+4689,1,skilled,1,yes,yes,No Risk
+4690,2,skilled,1,yes,yes,No Risk
+4691,3,skilled,2,none,yes,Risk
+4692,1,skilled,1,none,yes,No Risk
+4693,2,management_self-employed,1,yes,yes,No Risk
+4694,1,skilled,1,none,no,No Risk
+4695,1,skilled,1,none,yes,No Risk
+4696,1,skilled,1,none,yes,Risk
+4697,1,skilled,1,none,yes,No Risk
+4698,1,skilled,1,none,yes,No Risk
+4699,1,skilled,1,none,yes,No Risk
+4700,1,skilled,1,yes,yes,No Risk
+4701,1,management_self-employed,1,none,yes,No Risk
+4702,2,unskilled,1,yes,yes,No Risk
+4703,1,unskilled,1,none,yes,No Risk
+4704,1,unemployed,1,none,yes,No Risk
+4705,1,skilled,1,none,yes,No Risk
+4706,1,skilled,2,yes,yes,No Risk
+4707,1,skilled,1,yes,yes,Risk
+4708,1,skilled,1,none,yes,No Risk
+4709,1,unemployed,1,none,yes,No Risk
+4710,2,skilled,1,yes,yes,Risk
+4711,2,skilled,1,yes,yes,Risk
+4712,2,skilled,1,none,yes,No Risk
+4713,2,unemployed,1,yes,yes,No Risk
+4714,1,skilled,1,none,yes,Risk
+4715,2,management_self-employed,1,yes,yes,Risk
+4716,2,unskilled,2,yes,no,No Risk
+4717,1,skilled,1,none,yes,No Risk
+4718,2,skilled,1,yes,yes,Risk
+4719,1,skilled,1,none,yes,No Risk
+4720,2,skilled,1,yes,yes,Risk
+4721,2,skilled,1,yes,no,Risk
+4722,2,skilled,1,yes,yes,No Risk
+4723,2,unskilled,1,yes,yes,Risk
+4724,1,management_self-employed,1,yes,yes,Risk
+4725,3,unskilled,2,yes,yes,No Risk
+4726,1,unemployed,1,none,yes,No Risk
+4727,2,unskilled,1,yes,yes,Risk
+4728,2,management_self-employed,1,yes,yes,No Risk
+4729,1,skilled,1,none,yes,No Risk
+4730,2,skilled,2,yes,yes,Risk
+4731,1,skilled,1,none,yes,No Risk
+4732,2,skilled,1,none,yes,No Risk
+4733,1,skilled,1,none,yes,No Risk
+4734,2,skilled,1,none,yes,Risk
+4735,1,unskilled,1,yes,yes,No Risk
+4736,2,skilled,1,none,yes,No Risk
+4737,1,skilled,1,none,yes,No Risk
+4738,2,skilled,2,yes,yes,Risk
+4739,1,unemployed,1,yes,yes,No Risk
+4740,2,unemployed,1,none,yes,No Risk
+4741,1,skilled,1,none,yes,No Risk
+4742,1,skilled,1,none,yes,Risk
+4743,1,skilled,1,none,yes,No Risk
+4744,2,management_self-employed,2,none,yes,Risk
+4745,1,skilled,1,none,yes,No Risk
+4746,1,management_self-employed,1,yes,yes,Risk
+4747,1,skilled,1,none,yes,No Risk
+4748,2,skilled,1,none,yes,Risk
+4749,1,skilled,1,none,yes,No Risk
+4750,1,skilled,1,none,yes,Risk
+4751,2,management_self-employed,1,none,no,Risk
+4752,1,unskilled,1,none,yes,No Risk
+4753,2,skilled,1,none,yes,No Risk
+4754,2,skilled,1,none,yes,No Risk
+4755,1,unskilled,1,yes,yes,Risk
+4756,1,skilled,1,yes,yes,Risk
+4757,1,skilled,1,none,yes,Risk
+4758,1,skilled,1,none,yes,No Risk
+4759,1,skilled,1,none,yes,No Risk
+4760,2,management_self-employed,2,yes,yes,Risk
+4761,1,skilled,1,none,yes,No Risk
+4762,2,unemployed,1,none,yes,No Risk
+4763,2,skilled,1,none,yes,Risk
+4764,1,unskilled,1,none,yes,No Risk
+4765,2,unskilled,1,yes,yes,No Risk
+4766,2,skilled,1,none,yes,No Risk
+4767,2,unskilled,1,yes,yes,No Risk
+4768,2,management_self-employed,2,yes,yes,Risk
+4769,1,skilled,2,none,yes,No Risk
+4770,1,skilled,1,none,yes,No Risk
+4771,1,management_self-employed,1,none,yes,No Risk
+4772,1,skilled,1,none,yes,No Risk
+4773,2,unemployed,1,none,yes,Risk
+4774,2,skilled,1,none,yes,No Risk
+4775,2,skilled,2,yes,yes,Risk
+4776,2,skilled,2,none,yes,Risk
+4777,1,unskilled,1,none,yes,No Risk
+4778,2,skilled,1,none,yes,No Risk
+4779,1,unskilled,2,none,yes,No Risk
+4780,1,skilled,1,none,yes,No Risk
+4781,1,unskilled,1,none,yes,No Risk
+4782,1,skilled,1,none,yes,No Risk
+4783,1,skilled,2,yes,yes,Risk
+4784,2,management_self-employed,2,yes,yes,No Risk
+4785,1,management_self-employed,1,yes,yes,No Risk
+4786,3,skilled,2,yes,yes,Risk
+4787,2,skilled,1,none,yes,No Risk
+4788,2,unskilled,1,yes,yes,No Risk
+4789,2,skilled,1,none,yes,Risk
+4790,1,skilled,1,yes,yes,No Risk
+4791,1,skilled,1,none,yes,No Risk
+4792,2,unskilled,2,none,yes,No Risk
+4793,1,skilled,1,yes,yes,Risk
+4794,2,skilled,1,yes,yes,Risk
+4795,1,skilled,1,yes,yes,No Risk
+4796,2,management_self-employed,1,yes,yes,Risk
+4797,3,skilled,2,yes,yes,Risk
+4798,2,management_self-employed,1,none,yes,No Risk
+4799,1,skilled,1,none,yes,No Risk
+4800,2,skilled,1,yes,yes,No Risk
+4801,1,skilled,1,none,yes,No Risk
+4802,1,skilled,1,none,yes,No Risk
+4803,1,skilled,1,none,yes,No Risk
+4804,3,skilled,1,none,yes,No Risk
+4805,1,skilled,1,yes,yes,No Risk
+4806,1,skilled,1,none,yes,Risk
+4807,2,unemployed,1,yes,yes,No Risk
+4808,1,management_self-employed,1,none,yes,Risk
+4809,2,skilled,1,none,yes,No Risk
+4810,1,skilled,1,none,yes,No Risk
+4811,2,unskilled,1,yes,yes,No Risk
+4812,1,skilled,1,none,yes,No Risk
+4813,1,skilled,1,none,yes,No Risk
+4814,2,unskilled,1,none,yes,Risk
+4815,1,skilled,2,none,yes,No Risk
+4816,2,unskilled,1,yes,yes,Risk
+4817,3,skilled,2,yes,yes,Risk
+4818,1,management_self-employed,1,none,yes,Risk
+4819,1,skilled,1,none,yes,No Risk
+4820,1,skilled,1,yes,yes,No Risk
+4821,1,management_self-employed,1,yes,yes,No Risk
+4822,2,skilled,1,yes,yes,Risk
+4823,2,skilled,1,none,yes,Risk
+4824,1,unskilled,1,none,yes,No Risk
+4825,1,unskilled,1,none,yes,No Risk
+4826,2,skilled,1,none,yes,No Risk
+4827,2,skilled,1,yes,yes,Risk
+4828,2,skilled,2,yes,yes,Risk
+4829,1,skilled,1,none,yes,No Risk
+4830,2,skilled,2,yes,yes,Risk
+4831,1,skilled,1,yes,yes,Risk
+4832,1,skilled,1,yes,yes,No Risk
+4833,2,skilled,1,yes,yes,No Risk
+4834,3,skilled,1,none,yes,No Risk
+4835,1,management_self-employed,1,none,yes,Risk
+4836,1,skilled,1,none,yes,No Risk
+4837,2,skilled,1,none,yes,No Risk
+4838,1,skilled,1,yes,yes,No Risk
+4839,2,management_self-employed,1,yes,yes,Risk
+4840,2,management_self-employed,1,yes,yes,No Risk
+4841,2,unemployed,1,none,yes,Risk
+4842,3,skilled,2,yes,yes,Risk
+4843,2,unemployed,1,none,yes,No Risk
+4844,1,management_self-employed,2,yes,yes,No Risk
+4845,2,skilled,1,none,yes,Risk
+4846,1,skilled,1,none,yes,No Risk
+4847,1,skilled,1,none,yes,Risk
+4848,1,skilled,2,yes,yes,No Risk
+4849,1,skilled,1,none,yes,No Risk
+4850,1,unskilled,1,yes,yes,No Risk
+4851,1,skilled,1,none,yes,No Risk
+4852,1,skilled,1,none,yes,No Risk
+4853,1,skilled,1,yes,yes,Risk
+4854,1,unemployed,1,none,yes,No Risk
+4855,1,skilled,1,none,yes,No Risk
+4856,2,skilled,1,yes,yes,No Risk
+4857,2,skilled,1,yes,yes,Risk
+4858,1,skilled,1,none,yes,No Risk
+4859,2,management_self-employed,1,none,yes,No Risk
+4860,2,skilled,2,yes,yes,No Risk
+4861,1,skilled,1,none,yes,No Risk
+4862,1,skilled,1,none,yes,No Risk
+4863,2,skilled,2,none,yes,Risk
+4864,1,skilled,1,none,yes,No Risk
+4865,1,management_self-employed,2,yes,no,Risk
+4866,2,skilled,1,yes,yes,Risk
+4867,1,unskilled,1,none,yes,No Risk
+4868,2,skilled,1,none,yes,No Risk
+4869,1,unskilled,1,none,yes,Risk
+4870,1,skilled,2,none,yes,Risk
+4871,1,management_self-employed,1,none,yes,No Risk
+4872,2,skilled,1,yes,yes,Risk
+4873,2,skilled,1,none,yes,Risk
+4874,2,skilled,1,none,yes,Risk
+4875,2,unskilled,1,none,yes,No Risk
+4876,3,management_self-employed,2,yes,yes,Risk
+4877,1,skilled,2,yes,yes,No Risk
+4878,2,unskilled,2,yes,yes,Risk
+4879,1,skilled,1,none,yes,No Risk
+4880,2,skilled,1,yes,yes,Risk
+4881,1,skilled,1,none,yes,No Risk
+4882,2,skilled,2,none,yes,No Risk
+4883,1,skilled,1,none,yes,No Risk
+4884,2,skilled,2,yes,yes,Risk
+4885,2,management_self-employed,1,yes,yes,Risk
+4886,1,unskilled,1,none,yes,No Risk
+4887,1,skilled,1,none,yes,No Risk
+4888,1,skilled,1,yes,yes,Risk
+4889,2,skilled,1,none,yes,No Risk
+4890,1,skilled,1,none,yes,Risk
+4891,2,skilled,1,yes,yes,No Risk
+4892,2,unskilled,1,none,yes,No Risk
+4893,1,unemployed,1,yes,yes,No Risk
+4894,1,skilled,1,none,yes,No Risk
+4895,1,skilled,2,none,yes,Risk
+4896,2,skilled,2,yes,yes,No Risk
+4897,2,skilled,1,none,yes,No Risk
+4898,3,skilled,1,yes,yes,Risk
+4899,2,skilled,1,none,yes,Risk
+4900,1,unemployed,1,yes,yes,No Risk
+4901,1,skilled,2,none,yes,No Risk
+4902,1,management_self-employed,1,none,yes,Risk
+4903,2,skilled,1,none,yes,Risk
+4904,2,skilled,1,yes,yes,No Risk
+4905,2,management_self-employed,1,yes,yes,No Risk
+4906,2,skilled,2,none,yes,No Risk
+4907,1,skilled,1,none,yes,No Risk
+4908,2,management_self-employed,2,yes,yes,Risk
+4909,1,skilled,1,none,yes,No Risk
+4910,1,skilled,1,none,yes,No Risk
+4911,2,skilled,2,yes,yes,Risk
+4912,2,unskilled,1,yes,yes,No Risk
+4913,1,management_self-employed,1,none,yes,No Risk
+4914,1,management_self-employed,1,yes,yes,Risk
+4915,1,skilled,1,none,yes,No Risk
+4916,2,unskilled,1,yes,yes,Risk
+4917,2,skilled,1,yes,yes,No Risk
+4918,1,management_self-employed,1,yes,yes,Risk
+4919,1,skilled,1,none,yes,Risk
+4920,2,skilled,2,yes,yes,Risk
+4921,1,management_self-employed,1,none,yes,No Risk
+4922,2,management_self-employed,1,yes,yes,Risk
+4923,1,unskilled,1,yes,yes,No Risk
+4924,1,unskilled,1,yes,yes,Risk
+4925,2,management_self-employed,2,none,yes,No Risk
+4926,2,management_self-employed,1,none,yes,Risk
+4927,2,skilled,2,yes,yes,Risk
+4928,1,skilled,1,yes,yes,No Risk
+4929,1,skilled,2,yes,yes,Risk
+4930,1,skilled,1,none,yes,No Risk
+4931,1,skilled,1,yes,yes,Risk
+4932,1,skilled,1,none,yes,No Risk
+4933,1,skilled,1,none,yes,No Risk
+4934,2,skilled,1,none,yes,No Risk
+4935,1,skilled,1,none,yes,No Risk
+4936,1,skilled,1,none,yes,No Risk
+4937,1,skilled,1,yes,yes,No Risk
+4938,2,skilled,1,none,yes,No Risk
+4939,1,unskilled,1,none,yes,No Risk
+4940,1,skilled,1,none,yes,No Risk
+4941,2,unemployed,2,yes,yes,No Risk
+4942,1,skilled,1,none,yes,No Risk
+4943,1,unskilled,1,none,yes,No Risk
+4944,3,skilled,2,yes,yes,Risk
+4945,2,management_self-employed,2,yes,yes,No Risk
+4946,1,skilled,1,none,yes,No Risk
+4947,1,skilled,1,none,yes,Risk
+4948,2,management_self-employed,1,yes,yes,No Risk
+4949,1,skilled,1,none,yes,No Risk
+4950,1,skilled,1,none,yes,Risk
+4951,3,management_self-employed,2,yes,yes,Risk
+4952,2,unskilled,1,none,yes,No Risk
+4953,1,unskilled,1,none,yes,Risk
+4954,1,skilled,1,yes,yes,No Risk
+4955,1,management_self-employed,1,none,yes,Risk
+4956,2,unemployed,1,yes,yes,Risk
+4957,1,management_self-employed,2,yes,yes,No Risk
+4958,1,skilled,1,none,yes,No Risk
+4959,1,skilled,1,none,yes,No Risk
+4960,1,skilled,1,yes,yes,No Risk
+4961,1,skilled,1,none,yes,No Risk
+4962,2,skilled,2,yes,yes,Risk
+4963,1,management_self-employed,1,none,yes,No Risk
+4964,2,unskilled,1,yes,yes,No Risk
+4965,2,skilled,1,none,yes,No Risk
+4966,2,skilled,2,none,yes,No Risk
+4967,1,skilled,1,none,yes,No Risk
+4968,2,skilled,1,yes,yes,Risk
+4969,1,skilled,1,none,yes,No Risk
+4970,1,skilled,1,none,yes,No Risk
+4971,1,skilled,1,none,yes,No Risk
+4972,2,skilled,1,none,yes,Risk
+4973,2,skilled,1,none,yes,No Risk
+4974,1,skilled,1,none,yes,No Risk
+4975,2,skilled,1,none,yes,No Risk
+4976,2,skilled,1,yes,yes,No Risk
+4977,1,skilled,1,none,yes,No Risk
+4978,1,skilled,1,yes,yes,No Risk
+4979,1,management_self-employed,1,yes,yes,No Risk
+4980,2,skilled,1,yes,yes,Risk
+4981,1,unemployed,1,none,yes,No Risk
+4982,2,skilled,1,none,yes,Risk
+4983,1,skilled,1,none,yes,No Risk
+4984,2,unskilled,2,yes,yes,No Risk
+4985,1,unemployed,1,yes,yes,No Risk
+4986,3,skilled,2,yes,yes,Risk
+4987,1,skilled,1,none,yes,No Risk
+4988,1,skilled,1,none,yes,No Risk
+4989,2,skilled,1,none,yes,No Risk
+4990,1,skilled,1,none,yes,No Risk
+4991,2,management_self-employed,1,yes,yes,Risk
+4992,1,skilled,1,none,yes,No Risk
+4993,1,skilled,1,yes,yes,No Risk
+4994,2,skilled,1,none,yes,No Risk
+4995,1,skilled,1,yes,yes,No Risk
+4996,1,skilled,1,none,yes,No Risk
+4997,1,unemployed,1,none,yes,No Risk
+4998,2,unskilled,2,yes,yes,Risk
+4999,1,skilled,1,none,yes,Risk
+5000,2,skilled,1,none,yes,No Risk
